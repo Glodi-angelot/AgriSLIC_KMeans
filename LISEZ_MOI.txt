@@ -1,0 +1,38 @@
+AgriSLIC - Correctif de la carte geographique de la tuile test 276
+==================================================================
+
+Pourquoi l'avertissement apparait
+--------------------------------
+Le ZIP partageable inclut des images de demonstration (test_dataset) mais pas les GeoTIFF du jeu de test (200 tuiles). L'application peut donc calculer les groupes via les CSV et les modeles joblib, sans afficher leur position sur la tuile test 276.
+
+Installation (Windows PowerShell + VS Code)
+------------------------------------------
+1. Fermer l'application Streamlit avec Ctrl+C dans son terminal.
+2. Extraire cette archive.
+3. Copier ces trois fichiers a la racine C:\Users\User\AgriSLIC_KMeans_Examen\ :
+   - telecharger_dataset_lite.py (remplace uniquement l'ancien telechargeur)
+   - verifier_tuile_test.py (nouveau fichier)
+   - TELECHARGER_ET_VERIFIER_276.bat (nouveau fichier)
+   Il est prudent de sauvegarder d'abord l'ancien telecharger_dataset_lite.py.
+4. Double-cliquer sur TELECHARGER_ET_VERIFIER_276.bat, avec une connexion internet.
+   Ou saisir dans le terminal VS Code :
+   .\.venv\Scripts\python.exe telecharger_dataset_lite.py --tuiles 276 --racine dataset_lite
+   .\.venv\Scripts\python.exe verifier_tuile_test.py --tuile 276 --dataset dataset_lite
+5. Une fois le message 'OK : 64 caracteristiques ... concordent' affiche, relancer :
+   .\.venv\Scripts\python.exe -m streamlit run app.py
+6. Selectionner K=9 et tuile 276, puis 'Lancer le regroupement'.
+
+Ce que fait le correctif
+------------------------
+- Ne modifie PAS app.py, le modele, les scores, les matrices ni le CSV officiel.
+- Telecharge uniquement les images et masques de la tuile demandee (pas toutes les 200 tuiles).
+- Construit dataset_lite/manifest.csv et les GeoTIFF attendus par app.py.
+- Reconstruit SLIC, les 64 variables et la liste des superpixels pour comparer aux enregistrements officiels.
+- Si les donnees ne correspondent PAS, la verification echoue : ne pas utiliser les cartes obtenues comme preuve scientifique.
+
+Important
+---------
+- Le telechargement en ligne n'a pas pu etre teste depuis cet environnement sans acces reseau. La commande et le generation de manifest ont ete testes avec des reponses simulees, et la verification scientifique a ete testee sur la tuile 2461 (31 regions concordantes).
+- Le script d'origine de telechargement complet (sans --tuiles) reste disponible pour les 200 tuiles, si necessaire.
+- Ne pas mettre dataset_lite complet sur GitHub par defaut : ce sont des images et donnees volumineuses. Verifier les termes d'attribution de la source.
+- En cas de limite ou d'erreur de telechargement, lire les messages dans le terminal ; ne pas confondre avec un probleme de K-means.

@@ -1,0 +1,1790 @@
+﻿tile_id,superpixel_id,field_id,classe_reelle_code,classe_reelle,milieu_saison_ndvi_moy,milieu_saison_B08_moy,groupe_kmeans,classe_predite_code,classe_predite,correct
+18,133,26196,9,Rooibos,0.12584153,0.35472041,1,9,Rooibos,True
+18,144,26196,9,Rooibos,0.18600371,0.2868797,6,3,Fallow,False
+18,145,26196,9,Rooibos,0.19394543,0.27406198,6,3,Fallow,False
+18,146,26196,9,Rooibos,0.16320552,0.32619221,1,9,Rooibos,True
+18,147,26196,9,Rooibos,0.10379833,0.40444203,7,3,Fallow,False
+18,148,26196,9,Rooibos,0.09519226,0.42726943,7,3,Fallow,False
+18,161,26196,9,Rooibos,0.10686044,0.39089809,1,9,Rooibos,True
+18,162,26196,9,Rooibos,0.09937687,0.40369161,7,3,Fallow,False
+18,163,26196,9,Rooibos,0.13865369,0.37273058,1,9,Rooibos,True
+18,175,26196,9,Rooibos,0.17871684,0.31284257,1,9,Rooibos,True
+18,176,26196,9,Rooibos,0.16481138,0.32563927,1,9,Rooibos,True
+72,151,79297,2,Planted pastures (perennial),0.0,0.0,8,2,Planted pastures (perennial),True
+116,42,55874,2,Planted pastures (perennial),0.70757458,0.31986012,4,6,Small grain grazing,False
+116,56,55874,2,Planted pastures (perennial),0.66981532,0.32218783,4,6,Small grain grazing,False
+116,70,55874,2,Planted pastures (perennial),0.70952817,0.36250431,4,6,Small grain grazing,False
+116,71,55874,2,Planted pastures (perennial),0.62364383,0.34285888,4,6,Small grain grazing,False
+116,84,55874,2,Planted pastures (perennial),0.71763337,0.3594198,4,6,Small grain grazing,False
+116,85,55874,2,Planted pastures (perennial),0.53743549,0.33672235,0,7,Wheat,False
+116,98,55874,2,Planted pastures (perennial),0.70419462,0.35099187,4,6,Small grain grazing,False
+116,99,55874,2,Planted pastures (perennial),0.51204349,0.3234689,0,7,Wheat,False
+116,112,55874,2,Planted pastures (perennial),0.61423547,0.34376793,4,6,Small grain grazing,False
+116,113,55874,2,Planted pastures (perennial),0.53663342,0.32049142,0,7,Wheat,False
+122,126,83110,6,Small grain grazing,0.64109601,0.32452701,4,6,Small grain grazing,True
+122,127,83110,6,Small grain grazing,0.6363351,0.33100945,4,6,Small grain grazing,True
+122,140,83110,6,Small grain grazing,0.79493157,0.36068112,4,6,Small grain grazing,True
+122,141,83110,6,Small grain grazing,0.74106924,0.35882354,4,6,Small grain grazing,True
+122,142,83110,6,Small grain grazing,0.69114318,0.36435489,4,6,Small grain grazing,True
+122,145,42776,6,Small grain grazing,0.75692424,0.39973373,4,6,Small grain grazing,True
+122,146,42776,6,Small grain grazing,0.63119322,0.40513193,4,6,Small grain grazing,True
+122,147,42776,6,Small grain grazing,0.6138045,0.41516582,4,6,Small grain grazing,True
+122,148,42776,6,Small grain grazing,0.67830453,0.41984992,4,6,Small grain grazing,True
+122,149,42776,6,Small grain grazing,0.77241094,0.43006536,4,6,Small grain grazing,True
+122,154,83110,6,Small grain grazing,0.75370609,0.37549594,4,6,Small grain grazing,True
+122,155,83110,6,Small grain grazing,0.79735153,0.39314936,4,6,Small grain grazing,True
+122,156,83110,6,Small grain grazing,0.56710809,0.35538611,4,6,Small grain grazing,True
+122,159,42776,6,Small grain grazing,0.66435613,0.39679255,4,6,Small grain grazing,True
+122,160,42776,6,Small grain grazing,0.66194995,0.40745583,4,6,Small grain grazing,True
+122,161,42776,6,Small grain grazing,0.6048882,0.40309853,4,6,Small grain grazing,True
+122,162,42776,6,Small grain grazing,0.62641209,0.42331155,2,7,Wheat,False
+122,163,42776,6,Small grain grazing,0.61241278,0.41819173,2,7,Wheat,False
+122,168,83110,6,Small grain grazing,0.83402047,0.41345935,4,6,Small grain grazing,True
+122,169,83110,6,Small grain grazing,0.92496688,0.45111799,4,6,Small grain grazing,True
+122,170,83110,6,Small grain grazing,0.90562433,0.44677216,4,6,Small grain grazing,True
+122,173,42776,6,Small grain grazing,0.65994914,0.38329321,4,6,Small grain grazing,True
+122,174,42776,6,Small grain grazing,0.59821704,0.38111456,4,6,Small grain grazing,True
+122,175,42776,6,Small grain grazing,0.56385387,0.39496618,0,7,Wheat,False
+122,176,42776,6,Small grain grazing,0.58934353,0.41247564,2,7,Wheat,False
+122,177,42776,6,Small grain grazing,0.65129385,0.40642129,4,6,Small grain grazing,True
+122,182,83110,6,Small grain grazing,0.77852677,0.37911249,4,6,Small grain grazing,True
+122,183,83110,6,Small grain grazing,0.80923106,0.39187364,4,6,Small grain grazing,True
+122,184,83110,6,Small grain grazing,0.9146921,0.43318083,4,6,Small grain grazing,True
+122,187,42776,6,Small grain grazing,0.78579664,0.39930284,4,6,Small grain grazing,True
+122,188,42776,6,Small grain grazing,0.7004452,0.38429195,4,6,Small grain grazing,True
+122,189,42776,6,Small grain grazing,0.65004147,0.39605665,4,6,Small grain grazing,True
+122,190,42776,6,Small grain grazing,0.63977652,0.42185186,4,6,Small grain grazing,True
+122,191,42776,6,Small grain grazing,0.58482937,0.41441177,0,7,Wheat,False
+122,192,42776,6,Small grain grazing,0.6857001,0.41130719,4,6,Small grain grazing,True
+189,106,30122,7,Wheat,0.37609516,0.2308642,0,7,Wheat,True
+189,109,30122,7,Wheat,0.37695576,0.25170662,0,7,Wheat,True
+189,110,30122,7,Wheat,0.28998537,0.22146543,0,7,Wheat,True
+189,121,30122,7,Wheat,0.4383327,0.23897362,0,7,Wheat,True
+189,122,30122,7,Wheat,0.43116879,0.25491407,0,7,Wheat,True
+189,123,30122,7,Wheat,0.36561593,0.25204552,0,7,Wheat,True
+189,124,30122,7,Wheat,0.35106345,0.24527005,0,7,Wheat,True
+189,136,30122,7,Wheat,0.39518319,0.246962,0,7,Wheat,True
+189,137,30122,7,Wheat,0.40078552,0.24670783,0,7,Wheat,True
+189,138,30122,7,Wheat,0.41847329,0.23611972,0,7,Wheat,True
+189,140,41254,1,Lucerne/Medics,0.17403101,0.19478271,6,3,Fallow,False
+189,142,41254,1,Lucerne/Medics,0.24675835,0.2164367,6,3,Fallow,False
+189,150,30122,7,Wheat,0.40571803,0.23631082,0,7,Wheat,True
+189,151,30122,7,Wheat,0.41220485,0.24969742,0,7,Wheat,True
+189,152,30122,7,Wheat,0.39345356,0.23429653,0,7,Wheat,True
+189,154,41254,1,Lucerne/Medics,0.16718888,0.19719069,6,3,Fallow,False
+189,155,41254,1,Lucerne/Medics,0.17332268,0.19590898,6,3,Fallow,False
+189,156,41254,1,Lucerne/Medics,0.17422028,0.19594529,6,3,Fallow,False
+189,165,30122,7,Wheat,0.33334976,0.27898815,0,7,Wheat,True
+189,168,41254,1,Lucerne/Medics,0.16069965,0.19372115,6,3,Fallow,False
+189,169,41254,1,Lucerne/Medics,0.17259505,0.19055155,6,3,Fallow,False
+189,170,41254,1,Lucerne/Medics,0.17324489,0.18781103,6,3,Fallow,False
+189,179,30122,7,Wheat,0.48772519,0.2805871,0,7,Wheat,True
+210,115,43569,9,Rooibos,0.20717106,0.325466,1,9,Rooibos,True
+210,116,43569,9,Rooibos,0.22766121,0.29755508,1,9,Rooibos,True
+210,129,43569,9,Rooibos,0.20204197,0.33533044,1,9,Rooibos,True
+210,142,43569,9,Rooibos,0.16243947,0.35884774,1,9,Rooibos,True
+210,143,43569,9,Rooibos,0.19683457,0.33091262,1,9,Rooibos,True
+210,156,43569,9,Rooibos,0.1378982,0.3842169,7,3,Fallow,False
+210,168,73371,3,Fallow,0.23539976,0.26342948,1,9,Rooibos,False
+227,45,102802,7,Wheat,0.19023736,0.46180102,2,7,Wheat,True
+227,79,111778,6,Small grain grazing,0.29520095,0.25279594,3,5,Weeds,False
+227,80,111778,6,Small grain grazing,0.28743865,0.26130478,6,3,Fallow,False
+227,93,111778,6,Small grain grazing,0.29049207,0.23706125,6,3,Fallow,False
+227,94,111778,6,Small grain grazing,0.28494494,0.24765191,6,3,Fallow,False
+227,95,111778,6,Small grain grazing,0.2674949,0.27544179,6,3,Fallow,False
+227,107,111778,6,Small grain grazing,0.29021391,0.23345438,6,3,Fallow,False
+227,108,111778,6,Small grain grazing,0.27559521,0.24245946,6,3,Fallow,False
+227,109,111778,6,Small grain grazing,0.23511127,0.2801864,1,9,Rooibos,False
+227,120,111778,6,Small grain grazing,0.33084361,0.24634472,3,5,Weeds,False
+227,121,111778,6,Small grain grazing,0.31274916,0.2291697,3,5,Weeds,False
+227,170,10862,2,Planted pastures (perennial),0.14938123,0.31143218,1,9,Rooibos,False
+227,185,97651,2,Planted pastures (perennial),0.36320516,0.21115469,3,5,Weeds,False
+237,13,102694,7,Wheat,0.34679266,0.23775026,3,5,Weeds,False
+237,100,38529,1,Lucerne/Medics,0.41611825,0.20718955,0,7,Wheat,False
+237,101,38529,1,Lucerne/Medics,0.4388072,0.22040668,0,7,Wheat,False
+237,115,38529,1,Lucerne/Medics,0.43602087,0.19593319,0,7,Wheat,False
+237,129,38529,1,Lucerne/Medics,0.43346025,0.20441782,0,7,Wheat,False
+253,86,14460,7,Wheat,0.32984288,0.38603244,2,7,Wheat,True
+253,100,14460,7,Wheat,0.30063869,0.39690148,2,7,Wheat,True
+276,3,67849,7,Wheat,0.28059531,0.33457173,2,7,Wheat,True
+276,4,67849,7,Wheat,0.23485126,0.38271988,2,7,Wheat,True
+276,5,67849,7,Wheat,0.22798987,0.39581471,2,7,Wheat,True
+276,6,67849,7,Wheat,0.24412114,0.37371862,2,7,Wheat,True
+276,13,23779,6,Small grain grazing,0.34435427,0.31384934,0,7,Wheat,False
+276,17,67849,7,Wheat,0.27598394,0.37595014,2,7,Wheat,True
+276,18,67849,7,Wheat,0.22373761,0.383878,2,7,Wheat,True
+276,19,67849,7,Wheat,0.20999518,0.38793271,2,7,Wheat,True
+276,20,67849,7,Wheat,0.23355002,0.39373034,2,7,Wheat,True
+276,25,23779,6,Small grain grazing,0.3768259,0.29875334,0,7,Wheat,False
+276,26,23779,6,Small grain grazing,0.33314062,0.32531821,6,3,Fallow,False
+276,27,23779,6,Small grain grazing,0.30266654,0.28899783,6,3,Fallow,False
+276,31,67849,7,Wheat,0.25894924,0.41382232,2,7,Wheat,True
+276,32,67849,7,Wheat,0.21306845,0.39144276,2,7,Wheat,True
+276,33,67849,7,Wheat,0.21714604,0.37791092,2,7,Wheat,True
+276,34,67849,7,Wheat,0.21608706,0.39882596,2,7,Wheat,True
+276,37,23779,6,Small grain grazing,0.44207822,0.33389011,0,7,Wheat,False
+276,38,23779,6,Small grain grazing,0.37118407,0.34484387,0,7,Wheat,False
+276,39,23779,6,Small grain grazing,0.45468722,0.32667636,0,7,Wheat,False
+276,45,67849,7,Wheat,0.20546092,0.39910434,2,7,Wheat,True
+276,46,67849,7,Wheat,0.21585911,0.39354878,2,7,Wheat,True
+276,47,67849,7,Wheat,0.25151615,0.35279594,2,7,Wheat,True
+276,61,38753,1,Lucerne/Medics,0.4141735,0.29340354,0,7,Wheat,False
+276,62,38753,1,Lucerne/Medics,0.43209938,0.30290488,0,7,Wheat,False
+276,63,38753,1,Lucerne/Medics,0.44965052,0.28211088,0,7,Wheat,False
+276,64,38753,1,Lucerne/Medics,0.47870075,0.30094409,0,7,Wheat,False
+276,73,38753,1,Lucerne/Medics,0.39354982,0.29927379,0,7,Wheat,False
+276,74,38753,1,Lucerne/Medics,0.4214982,0.29106755,0,7,Wheat,False
+276,75,38753,1,Lucerne/Medics,0.45860094,0.26048173,0,7,Wheat,False
+276,76,38753,1,Lucerne/Medics,0.46625572,0.28703705,0,7,Wheat,False
+276,77,38753,1,Lucerne/Medics,0.45406122,0.28172356,0,7,Wheat,False
+276,78,38753,1,Lucerne/Medics,0.44111768,0.31938999,0,7,Wheat,False
+276,86,38753,1,Lucerne/Medics,0.37470459,0.2999516,0,7,Wheat,False
+276,87,38753,1,Lucerne/Medics,0.42725321,0.29542485,0,7,Wheat,False
+276,88,38753,1,Lucerne/Medics,0.44430015,0.29011137,0,7,Wheat,False
+276,89,38753,1,Lucerne/Medics,0.45258888,0.26601308,0,7,Wheat,False
+276,90,38753,1,Lucerne/Medics,0.42117874,0.29774874,0,7,Wheat,False
+276,91,38753,1,Lucerne/Medics,0.4195792,0.30170662,0,7,Wheat,False
+276,92,38753,1,Lucerne/Medics,0.39409172,0.29938272,0,7,Wheat,False
+276,95,120495,1,Lucerne/Medics,0.40312403,0.24222949,3,5,Weeds,False
+276,96,120495,1,Lucerne/Medics,0.39067796,0.24239193,3,5,Weeds,False
+276,97,120495,1,Lucerne/Medics,0.39241342,0.18915033,3,5,Weeds,False
+276,99,38753,1,Lucerne/Medics,0.30080235,0.33477367,6,3,Fallow,False
+276,100,38753,1,Lucerne/Medics,0.31754821,0.3164125,6,3,Fallow,False
+276,101,38753,1,Lucerne/Medics,0.39024893,0.30612443,0,7,Wheat,False
+276,102,38753,1,Lucerne/Medics,0.41402619,0.31919633,0,7,Wheat,False
+276,103,38753,1,Lucerne/Medics,0.36544174,0.31241831,0,7,Wheat,False
+276,104,38753,1,Lucerne/Medics,0.32192791,0.29876544,0,7,Wheat,False
+276,105,38753,1,Lucerne/Medics,0.31328844,0.30849674,0,7,Wheat,False
+276,106,38753,1,Lucerne/Medics,0.24695669,0.31259986,2,7,Wheat,False
+276,108,120495,1,Lucerne/Medics,0.3080222,0.30538612,6,3,Fallow,False
+276,109,120495,1,Lucerne/Medics,0.34491865,0.26364077,6,3,Fallow,False
+276,110,120495,1,Lucerne/Medics,0.38241266,0.25604863,3,5,Weeds,False
+276,111,120495,1,Lucerne/Medics,0.3797727,0.21056645,3,5,Weeds,False
+276,112,100010,2,Planted pastures (perennial),0.25861181,0.29891069,6,3,Fallow,False
+276,117,38753,1,Lucerne/Medics,0.33490503,0.32020093,0,7,Wheat,False
+276,118,38753,1,Lucerne/Medics,0.35051643,0.31567418,0,7,Wheat,False
+276,119,38753,1,Lucerne/Medics,0.38252274,0.239252,0,7,Wheat,False
+276,120,38753,1,Lucerne/Medics,0.36162178,0.31122005,0,7,Wheat,False
+276,122,120495,1,Lucerne/Medics,0.29727776,0.29398452,6,3,Fallow,False
+276,123,120495,1,Lucerne/Medics,0.30920641,0.31635198,6,3,Fallow,False
+276,124,120495,1,Lucerne/Medics,0.35958863,0.27649353,6,3,Fallow,False
+276,125,120495,1,Lucerne/Medics,0.36935071,0.29620916,6,3,Fallow,False
+276,126,100010,2,Planted pastures (perennial),0.22065014,0.2892329,6,3,Fallow,False
+276,127,100010,2,Planted pastures (perennial),0.22070413,0.30445414,6,3,Fallow,False
+276,128,100010,2,Planted pastures (perennial),0.22645457,0.27644639,6,3,Fallow,False
+276,129,100010,2,Planted pastures (perennial),0.22329955,0.25242073,6,3,Fallow,False
+276,140,100010,2,Planted pastures (perennial),0.247813,0.28896917,6,3,Fallow,False
+276,141,100010,2,Planted pastures (perennial),0.22990459,0.28815058,6,3,Fallow,False
+276,142,100010,2,Planted pastures (perennial),0.2427852,0.28594772,6,3,Fallow,False
+276,154,100010,2,Planted pastures (perennial),0.302689,0.2767802,6,3,Fallow,False
+276,155,100010,2,Planted pastures (perennial),0.30096655,0.28459212,6,3,Fallow,False
+276,156,100010,2,Planted pastures (perennial),0.26140162,0.28470105,6,3,Fallow,False
+276,168,100010,2,Planted pastures (perennial),0.42701567,0.2626582,3,5,Weeds,False
+276,169,100010,2,Planted pastures (perennial),0.44084694,0.27420022,3,5,Weeds,False
+295,118,10542,2,Planted pastures (perennial),0.76765546,0.34825709,4,6,Small grain grazing,False
+332,0,67908,5,Weeds,0.14362855,0.3948835,1,9,Rooibos,False
+332,1,67908,5,Weeds,0.16788862,0.38877423,1,9,Rooibos,False
+332,2,67908,5,Weeds,0.19552823,0.36389176,1,9,Rooibos,False
+332,3,67908,5,Weeds,0.19481054,0.33211789,1,9,Rooibos,False
+332,5,67908,5,Weeds,0.25412467,0.32925124,1,9,Rooibos,False
+332,14,67908,5,Weeds,0.17815818,0.33183122,1,9,Rooibos,False
+332,15,67908,5,Weeds,0.17906007,0.33752119,1,9,Rooibos,False
+332,16,67908,5,Weeds,0.20661013,0.32649481,1,9,Rooibos,False
+332,17,67908,5,Weeds,0.21389968,0.29481967,1,9,Rooibos,False
+332,18,67908,5,Weeds,0.27298442,0.27608328,6,3,Fallow,False
+332,21,98827,5,Weeds,0.44054834,0.18948197,3,5,Weeds,True
+332,29,67908,5,Weeds,0.14827477,0.33965143,7,3,Fallow,False
+332,30,67908,5,Weeds,0.1811426,0.3224401,1,9,Rooibos,False
+332,31,67908,5,Weeds,0.19390595,0.30722586,1,9,Rooibos,False
+332,35,98827,5,Weeds,0.43641989,0.18631082,3,5,Weeds,True
+332,36,98827,5,Weeds,0.4495633,0.17770516,3,5,Weeds,True
+332,44,67908,5,Weeds,0.16091217,0.33547568,1,9,Rooibos,False
+332,48,98827,5,Weeds,0.40401699,0.21088115,3,5,Weeds,True
+332,49,98827,5,Weeds,0.43159338,0.20849674,3,5,Weeds,True
+332,50,98827,5,Weeds,0.41871931,0.20392157,3,5,Weeds,True
+332,60,98827,5,Weeds,0.28579536,0.21119584,3,5,Weeds,True
+332,61,98827,5,Weeds,0.35276356,0.22764464,3,5,Weeds,True
+332,62,98827,5,Weeds,0.37713175,0.22845559,3,5,Weeds,True
+332,63,98827,5,Weeds,0.37875325,0.20020577,3,5,Weeds,True
+332,64,98827,5,Weeds,0.3815078,0.22207698,3,5,Weeds,True
+332,65,98827,5,Weeds,0.41428022,0.22338417,3,5,Weeds,True
+332,66,98827,5,Weeds,0.45273484,0.17880659,3,5,Weeds,True
+332,74,98827,5,Weeds,0.29002512,0.20754055,3,5,Weeds,True
+332,75,98827,5,Weeds,0.32981026,0.20997338,3,5,Weeds,True
+332,76,98827,5,Weeds,0.35787242,0.23402324,3,5,Weeds,True
+332,77,98827,5,Weeds,0.37465527,0.20554346,3,5,Weeds,True
+332,78,98827,5,Weeds,0.3498636,0.24162431,3,5,Weeds,True
+332,79,98827,5,Weeds,0.39723993,0.24117648,3,5,Weeds,True
+332,80,98827,5,Weeds,0.42908324,0.21113532,3,5,Weeds,True
+332,81,98827,5,Weeds,0.4218313,0.19623578,3,5,Weeds,True
+332,82,98827,5,Weeds,0.43360445,0.20216719,3,5,Weeds,True
+332,89,98827,5,Weeds,0.30539599,0.20514404,3,5,Weeds,True
+332,90,98827,5,Weeds,0.34139894,0.20553135,3,5,Weeds,True
+332,91,98827,5,Weeds,0.33114098,0.21669088,3,5,Weeds,True
+332,92,98827,5,Weeds,0.34589842,0.24415396,3,5,Weeds,True
+332,93,98827,5,Weeds,0.37724155,0.23269185,3,5,Weeds,True
+332,94,98827,5,Weeds,0.37720809,0.19514646,3,5,Weeds,True
+332,95,98827,5,Weeds,0.37263138,0.19277415,3,5,Weeds,True
+332,96,98827,5,Weeds,0.33742988,0.20063067,3,5,Weeds,True
+332,104,98827,5,Weeds,0.27237253,0.25407892,3,5,Weeds,True
+332,105,98827,5,Weeds,0.28852974,0.23221981,3,5,Weeds,True
+332,106,98827,5,Weeds,0.26828415,0.23473736,6,3,Fallow,False
+332,107,98827,5,Weeds,0.31016797,0.23793271,3,5,Weeds,True
+332,108,98827,5,Weeds,0.35931463,0.1885742,3,5,Weeds,True
+332,109,98827,5,Weeds,0.30680693,0.21226096,3,5,Weeds,True
+332,110,98827,5,Weeds,0.30158979,0.19958721,3,5,Weeds,True
+332,119,98827,5,Weeds,0.25603875,0.25815784,6,3,Fallow,False
+332,120,98827,5,Weeds,0.23783286,0.260046,1,9,Rooibos,False
+332,121,98827,5,Weeds,0.24786872,0.23433794,3,5,Weeds,True
+332,122,98827,5,Weeds,0.31131672,0.20409102,3,5,Weeds,True
+332,123,98827,5,Weeds,0.28716722,0.22259744,3,5,Weeds,True
+332,124,98827,5,Weeds,0.2714372,0.22584566,3,5,Weeds,True
+332,125,98827,5,Weeds,0.30551068,0.2092048,3,5,Weeds,True
+332,134,98827,5,Weeds,0.21059452,0.29513436,1,9,Rooibos,False
+332,135,98827,5,Weeds,0.23137587,0.26199468,6,3,Fallow,False
+332,136,98827,5,Weeds,0.27070351,0.24216897,3,5,Weeds,True
+332,137,98827,5,Weeds,0.28065891,0.2254902,3,5,Weeds,True
+332,138,98827,5,Weeds,0.28899469,0.23247335,3,5,Weeds,True
+332,139,98827,5,Weeds,0.26859761,0.23755992,3,5,Weeds,True
+332,149,98827,5,Weeds,0.18025216,0.30022998,1,9,Rooibos,False
+332,150,98827,5,Weeds,0.25654809,0.24261681,3,5,Weeds,True
+332,151,98827,5,Weeds,0.28946911,0.24668362,3,5,Weeds,True
+332,163,98827,5,Weeds,0.18519942,0.28851369,1,9,Rooibos,False
+332,164,98827,5,Weeds,0.26337439,0.26542,3,5,Weeds,True
+335,103,121800,5,Weeds,0.22706775,0.29341565,2,7,Wheat,False
+335,117,121800,5,Weeds,0.18862872,0.33709756,2,7,Wheat,False
+335,118,121800,5,Weeds,0.24925071,0.27624063,6,3,Fallow,False
+335,131,52122,5,Weeds,0.13528842,0.33529413,2,7,Wheat,False
+335,145,52122,5,Weeds,0.1775301,0.31947471,2,7,Wheat,False
+335,160,52122,5,Weeds,0.13151384,0.33801744,2,7,Wheat,False
+335,174,52122,5,Weeds,0.15436711,0.32936591,2,7,Wheat,False
+364,8,79296,2,Planted pastures (perennial),0.62829836,0.40808394,4,6,Small grain grazing,False
+364,9,98411,6,Small grain grazing,0.24288925,0.31084739,2,7,Wheat,False
+364,10,98411,6,Small grain grazing,0.13730845,0.28740971,2,7,Wheat,False
+364,11,98411,6,Small grain grazing,0.17609334,0.28352254,2,7,Wheat,False
+364,79,58767,2,Planted pastures (perennial),0.550852,0.36689664,1,9,Rooibos,False
+364,80,58767,2,Planted pastures (perennial),0.50421782,0.34892279,1,9,Rooibos,False
+364,92,58767,2,Planted pastures (perennial),0.49586336,0.37941177,1,9,Rooibos,False
+364,93,58767,2,Planted pastures (perennial),0.47856782,0.35196079,1,9,Rooibos,False
+364,94,58767,2,Planted pastures (perennial),0.33721499,0.39442024,1,9,Rooibos,False
+364,106,58767,2,Planted pastures (perennial),0.35851511,0.35127089,1,9,Rooibos,False
+364,107,58767,2,Planted pastures (perennial),0.48291971,0.36516583,1,9,Rooibos,False
+364,120,58767,2,Planted pastures (perennial),0.29534831,0.31534738,1,9,Rooibos,False
+364,123,58767,2,Planted pastures (perennial),0.41302646,0.37559914,1,9,Rooibos,False
+364,134,58767,2,Planted pastures (perennial),0.30617097,0.30855726,1,9,Rooibos,False
+364,148,58767,2,Planted pastures (perennial),0.4245141,0.38081579,1,9,Rooibos,False
+364,174,52210,2,Planted pastures (perennial),0.2237062,0.3350648,2,7,Wheat,False
+364,187,52210,2,Planted pastures (perennial),0.20132135,0.30537038,2,7,Wheat,False
+364,188,52210,2,Planted pastures (perennial),0.23585972,0.28495644,6,3,Fallow,False
+367,75,10689,3,Fallow,0.32567422,0.18741225,3,5,Weeds,False
+367,119,86582,3,Fallow,0.19936782,0.23465263,6,3,Fallow,True
+375,6,45122,9,Rooibos,0.29673435,0.2932806,6,3,Fallow,False
+375,7,45122,9,Rooibos,0.31879089,0.25409931,6,3,Fallow,False
+375,8,45122,9,Rooibos,0.32841804,0.24277033,3,5,Weeds,False
+375,21,45122,9,Rooibos,0.27387186,0.27118132,6,3,Fallow,False
+375,37,76815,5,Weeds,0.09950501,0.41718713,7,3,Fallow,False
+375,50,76815,5,Weeds,0.13393824,0.41335028,7,3,Fallow,False
+401,34,64770,9,Rooibos,0.17254425,0.32551441,1,9,Rooibos,True
+401,46,64770,9,Rooibos,0.14890097,0.35894457,1,9,Rooibos,True
+401,48,28477,6,Small grain grazing,0.11475874,0.37176229,1,9,Rooibos,False
+401,61,28477,6,Small grain grazing,0.12275436,0.37061245,1,9,Rooibos,False
+401,62,28477,6,Small grain grazing,0.10230339,0.39835392,7,3,Fallow,False
+401,63,28477,6,Small grain grazing,0.09881813,0.42138708,7,3,Fallow,False
+401,77,28477,6,Small grain grazing,0.10748595,0.41654564,7,3,Fallow,False
+401,78,28477,6,Small grain grazing,0.10240152,0.43358751,7,3,Fallow,False
+418,3,33948,5,Weeds,0.28204328,0.37109277,1,9,Rooibos,False
+418,17,116210,9,Rooibos,0.22631785,0.28811427,5,5,Weeds,False
+418,31,116210,9,Rooibos,0.22279574,0.30280805,5,5,Weeds,False
+418,141,115431,6,Small grain grazing,0.34604122,0.41152264,2,7,Wheat,False
+431,125,35059,7,Wheat,0.0,0.0,8,2,Planted pastures (perennial),False
+431,137,35059,7,Wheat,0.0,0.0,8,2,Planted pastures (perennial),False
+431,138,35059,7,Wheat,0.0,0.0,8,2,Planted pastures (perennial),False
+431,139,35059,7,Wheat,0.0,0.0,8,2,Planted pastures (perennial),False
+431,151,35059,7,Wheat,0.0,0.0,8,2,Planted pastures (perennial),False
+431,152,35059,7,Wheat,0.0,0.0,8,2,Planted pastures (perennial),False
+431,153,35059,7,Wheat,0.0,0.0,8,2,Planted pastures (perennial),False
+438,0,52787,3,Fallow,0.29791387,0.24508175,6,3,Fallow,True
+438,1,52787,3,Fallow,0.35245967,0.23310401,6,3,Fallow,True
+438,73,18518,8,Canola,0.3298431,0.36131688,2,7,Wheat,False
+438,121,67881,8,Canola,0.23761008,0.39889858,2,7,Wheat,False
+438,136,67881,8,Canola,0.28721261,0.36958364,1,9,Rooibos,False
+438,147,58413,8,Canola,0.296682,0.34599371,2,7,Wheat,False
+438,161,58413,8,Canola,0.2893644,0.38445898,2,7,Wheat,False
+438,175,58413,8,Canola,0.30405578,0.37172343,2,7,Wheat,False
+467,40,40679,2,Planted pastures (perennial),0.4564221,0.28245615,0,7,Wheat,False
+467,77,96481,9,Rooibos,0.20303913,0.28264344,1,9,Rooibos,True
+467,91,96481,9,Rooibos,0.24016828,0.23839265,6,3,Fallow,False
+467,120,43162,9,Rooibos,0.23132867,0.25209393,6,3,Fallow,False
+467,134,43162,9,Rooibos,0.14464712,0.25216655,6,3,Fallow,False
+471,110,56437,2,Planted pastures (perennial),0.25900599,0.27251463,6,3,Fallow,False
+471,111,56437,2,Planted pastures (perennial),0.22221079,0.27034859,6,3,Fallow,False
+471,136,2710,2,Planted pastures (perennial),0.23917553,0.28824741,0,7,Wheat,False
+471,148,2710,2,Planted pastures (perennial),0.27722451,0.30772211,0,7,Wheat,False
+471,149,2710,2,Planted pastures (perennial),0.18821018,0.31552894,0,7,Wheat,False
+471,162,2710,2,Planted pastures (perennial),0.25947634,0.30461148,6,3,Fallow,False
+471,163,2710,2,Planted pastures (perennial),0.19320805,0.31744131,0,7,Wheat,False
+471,179,36461,6,Small grain grazing,0.38021494,0.36715974,2,7,Wheat,False
+471,180,36461,6,Small grain grazing,0.44662493,0.34861768,6,3,Fallow,False
+471,181,36461,6,Small grain grazing,0.44131795,0.35244583,6,3,Fallow,False
+471,193,36461,6,Small grain grazing,0.30282289,0.36991286,2,7,Wheat,False
+471,194,36461,6,Small grain grazing,0.39548359,0.33606812,6,3,Fallow,False
+480,0,34575,1,Lucerne/Medics,0.57282408,0.29648581,0,7,Wheat,False
+480,14,120412,7,Wheat,0.42559099,0.21181057,0,7,Wheat,True
+480,28,120412,7,Wheat,0.42062399,0.21490655,0,7,Wheat,True
+480,124,81312,7,Wheat,0.30344569,0.23624585,0,7,Wheat,True
+480,125,81312,7,Wheat,0.26817546,0.22400872,6,3,Fallow,False
+480,138,81312,7,Wheat,0.27155115,0.22295608,0,7,Wheat,True
+480,139,81312,7,Wheat,0.33995062,0.24747277,0,7,Wheat,True
+480,146,90698,7,Wheat,0.4107927,0.23646817,0,7,Wheat,True
+480,152,81312,7,Wheat,0.30121445,0.22561633,0,7,Wheat,True
+480,153,81312,7,Wheat,0.34696251,0.24076253,0,7,Wheat,True
+480,159,90698,7,Wheat,0.4381435,0.25778263,0,7,Wheat,True
+480,160,90698,7,Wheat,0.44785244,0.25692327,0,7,Wheat,True
+519,13,19217,5,Weeds,0.16628573,0.38254903,1,9,Rooibos,False
+519,45,88961,3,Fallow,0.15525265,0.29745825,1,9,Rooibos,False
+519,50,102137,9,Rooibos,0.16998147,0.34880175,1,9,Rooibos,True
+519,51,102137,9,Rooibos,0.15544193,0.34467442,1,9,Rooibos,True
+519,53,102137,9,Rooibos,0.16886445,0.30665699,1,9,Rooibos,True
+519,54,102137,9,Rooibos,0.16586161,0.32588007,1,9,Rooibos,True
+519,59,88961,3,Fallow,0.14579699,0.29869282,1,9,Rooibos,False
+519,63,102137,9,Rooibos,0.14730434,0.34249577,1,9,Rooibos,True
+519,64,102137,9,Rooibos,0.17705051,0.33203826,1,9,Rooibos,True
+519,65,102137,9,Rooibos,0.15159072,0.35352216,1,9,Rooibos,True
+519,66,102137,9,Rooibos,0.16236883,0.34423869,1,9,Rooibos,True
+519,77,102137,9,Rooibos,0.15170605,0.32230696,1,9,Rooibos,True
+519,78,102137,9,Rooibos,0.20494481,0.28074317,6,3,Fallow,False
+519,79,102137,9,Rooibos,0.18415388,0.30825467,1,9,Rooibos,True
+519,89,102137,9,Rooibos,0.1686485,0.35359478,1,9,Rooibos,True
+519,90,102137,9,Rooibos,0.14446451,0.36063908,1,9,Rooibos,True
+519,168,64217,9,Rooibos,0.30896373,0.19454674,3,5,Weeds,False
+533,189,23399,2,Planted pastures (perennial),0.35489081,0.19948802,3,5,Weeds,False
+546,4,67610,2,Planted pastures (perennial),0.42891391,0.20681115,3,5,Weeds,False
+546,15,89335,2,Planted pastures (perennial),0.57860735,0.33248609,0,7,Wheat,False
+546,16,89335,2,Planted pastures (perennial),0.41211093,0.26819173,3,5,Weeds,False
+546,17,89335,2,Planted pastures (perennial),0.41535229,0.26521425,3,5,Weeds,False
+546,18,89335,2,Planted pastures (perennial),0.38038951,0.2513072,3,5,Weeds,False
+546,28,89335,2,Planted pastures (perennial),0.69796637,0.35390438,4,6,Small grain grazing,False
+546,29,89335,2,Planted pastures (perennial),0.70117499,0.3580126,4,6,Small grain grazing,False
+546,30,89335,2,Planted pastures (perennial),0.46900291,0.27332366,3,5,Weeds,False
+546,31,89335,2,Planted pastures (perennial),0.39122256,0.27106029,3,5,Weeds,False
+546,42,89335,2,Planted pastures (perennial),0.71747504,0.36287124,4,6,Small grain grazing,False
+546,43,89335,2,Planted pastures (perennial),0.61096658,0.32299686,4,6,Small grain grazing,False
+546,44,89335,2,Planted pastures (perennial),0.47031241,0.26364078,3,5,Weeds,False
+546,56,89335,2,Planted pastures (perennial),0.69689279,0.36444216,4,6,Small grain grazing,False
+546,107,31659,2,Planted pastures (perennial),0.34112033,0.24212056,3,5,Weeds,False
+546,123,31659,2,Planted pastures (perennial),0.42244747,0.23631083,3,5,Weeds,False
+546,134,31659,2,Planted pastures (perennial),0.30157358,0.25988866,6,3,Fallow,False
+546,142,64632,6,Small grain grazing,0.72674617,0.39230211,4,6,Small grain grazing,True
+546,144,92577,2,Planted pastures (perennial),0.73119195,0.32022514,4,6,Small grain grazing,False
+546,156,64632,6,Small grain grazing,0.79475862,0.43344227,4,6,Small grain grazing,True
+565,13,39678,7,Wheat,0.29001313,0.36260063,0,7,Wheat,True
+578,85,57070,4,Wine grapes,0.47118846,0.15866619,3,5,Weeds,False
+578,89,107930,4,Wine grapes,0.24435424,0.1929436,3,5,Weeds,False
+578,90,120951,4,Wine grapes,0.3601191,0.14042605,3,5,Weeds,False
+578,155,113552,4,Wine grapes,0.37131918,0.19087389,3,5,Weeds,False
+579,64,121897,5,Weeds,0.0979954,0.50259019,7,3,Fallow,False
+579,79,57756,5,Weeds,0.08974508,0.49987898,7,3,Fallow,False
+579,155,64214,5,Weeds,0.25335515,0.37519972,1,9,Rooibos,False
+579,169,64214,5,Weeds,0.20180819,0.37506021,1,9,Rooibos,False
+615,0,14515,7,Wheat,0.90806502,0.47797514,4,6,Small grain grazing,False
+615,24,44262,4,Wine grapes,0.6158055,0.22962963,3,5,Weeds,False
+615,39,20758,4,Wine grapes,0.66781688,0.28242558,3,5,Weeds,False
+615,40,20758,4,Wine grapes,0.65844987,0.29396859,3,5,Weeds,False
+615,41,20758,4,Wine grapes,0.49772696,0.2687255,3,5,Weeds,False
+615,166,58808,2,Planted pastures (perennial),0.65621515,0.36615068,4,6,Small grain grazing,False
+615,167,58808,2,Planted pastures (perennial),0.69260108,0.37486929,4,6,Small grain grazing,False
+615,180,58808,2,Planted pastures (perennial),0.69870783,0.34636903,4,6,Small grain grazing,False
+615,181,58808,2,Planted pastures (perennial),0.72895059,0.34248711,4,6,Small grain grazing,False
+615,184,11777,2,Planted pastures (perennial),0.52777774,0.25176471,3,5,Weeds,False
+615,185,11777,2,Planted pastures (perennial),0.48110116,0.28287583,6,3,Fallow,False
+616,3,53660,2,Planted pastures (perennial),0.65689152,0.33840157,4,6,Small grain grazing,False
+616,4,53660,2,Planted pastures (perennial),0.57119378,0.35123267,4,6,Small grain grazing,False
+616,18,82397,2,Planted pastures (perennial),0.63966957,0.32820141,4,6,Small grain grazing,False
+616,30,8600,2,Planted pastures (perennial),0.34025924,0.32095135,6,3,Fallow,False
+616,31,82397,2,Planted pastures (perennial),0.49494888,0.32127815,0,7,Wheat,False
+616,32,82397,2,Planted pastures (perennial),0.67490718,0.3164004,4,6,Small grain grazing,False
+616,45,82397,2,Planted pastures (perennial),0.55610097,0.30974341,3,5,Weeds,False
+616,46,82397,2,Planted pastures (perennial),0.67135618,0.31519004,4,6,Small grain grazing,False
+616,59,82397,2,Planted pastures (perennial),0.40268185,0.26660616,3,5,Weeds,False
+616,60,82397,2,Planted pastures (perennial),0.51747825,0.30635441,0,7,Wheat,False
+616,70,62267,2,Planted pastures (perennial),0.41681663,0.29023049,6,3,Fallow,False
+616,101,91889,7,Wheat,0.68750322,0.34892279,4,6,Small grain grazing,False
+616,116,91889,7,Wheat,0.46133199,0.31016704,0,7,Wheat,True
+616,129,45121,6,Small grain grazing,0.44628936,0.2798233,0,7,Wheat,False
+616,142,45121,6,Small grain grazing,0.47083331,0.27541759,0,7,Wheat,False
+616,143,45121,6,Small grain grazing,0.45311307,0.2493101,0,7,Wheat,False
+616,156,45121,6,Small grain grazing,0.56505318,0.27851611,0,7,Wheat,False
+621,108,82187,9,Rooibos,0.16234164,0.36700557,7,3,Fallow,False
+621,110,82187,9,Rooibos,0.1606217,0.31435616,1,9,Rooibos,True
+621,111,82187,9,Rooibos,0.1482021,0.32450981,1,9,Rooibos,True
+621,113,52524,5,Weeds,0.16296188,0.40312274,7,3,Fallow,False
+621,114,52524,5,Weeds,0.18808042,0.34011136,1,9,Rooibos,False
+621,119,56964,9,Rooibos,0.15777635,0.40879933,7,3,Fallow,False
+621,122,82187,9,Rooibos,0.14258994,0.38246188,7,3,Fallow,False
+621,123,82187,9,Rooibos,0.15826985,0.35549505,1,9,Rooibos,True
+621,124,82187,9,Rooibos,0.15059922,0.34838895,1,9,Rooibos,True
+621,125,82187,9,Rooibos,0.12856717,0.37774511,7,3,Fallow,False
+621,127,52524,5,Weeds,0.15426619,0.37831034,7,3,Fallow,False
+621,128,52524,5,Weeds,0.21695301,0.35461148,1,9,Rooibos,False
+621,129,52524,5,Weeds,0.19511096,0.3318446,1,9,Rooibos,False
+621,136,82187,9,Rooibos,0.1634921,0.36065118,1,9,Rooibos,True
+621,139,82187,9,Rooibos,0.12821558,0.39089325,7,3,Fallow,False
+621,141,52524,5,Weeds,0.14913955,0.34572743,1,9,Rooibos,False
+621,142,52524,5,Weeds,0.172502,0.33904625,1,9,Rooibos,False
+621,189,41978,9,Rooibos,0.20930254,0.40360567,1,9,Rooibos,True
+690,106,116597,2,Planted pastures (perennial),0.37794641,0.33932463,6,3,Fallow,False
+690,107,116597,2,Planted pastures (perennial),0.31796436,0.32400146,6,3,Fallow,False
+690,120,116597,2,Planted pastures (perennial),0.33446982,0.32599856,6,3,Fallow,False
+717,170,37577,2,Planted pastures (perennial),0.28670334,0.25580783,6,3,Fallow,False
+717,184,37577,2,Planted pastures (perennial),0.23651289,0.28239652,6,3,Fallow,False
+747,7,92279,1,Lucerne/Medics,0.68002211,0.33058137,4,6,Small grain grazing,False
+747,8,75992,2,Planted pastures (perennial),0.64578804,0.3143103,4,6,Small grain grazing,False
+747,22,75992,2,Planted pastures (perennial),0.60381182,0.31010652,4,6,Small grain grazing,False
+747,49,75992,2,Planted pastures (perennial),0.70492931,0.31853063,4,6,Small grain grazing,False
+747,76,75992,2,Planted pastures (perennial),0.49600162,0.22711208,3,5,Weeds,False
+747,103,75992,2,Planted pastures (perennial),0.64993671,0.27522392,4,6,Small grain grazing,False
+747,111,109655,1,Lucerne/Medics,0.63785462,0.28592593,4,6,Small grain grazing,False
+747,124,109655,1,Lucerne/Medics,0.3925888,0.24258686,6,3,Fallow,False
+747,125,109655,1,Lucerne/Medics,0.53299073,0.27862746,0,7,Wheat,False
+747,138,109655,1,Lucerne/Medics,0.40907217,0.23255361,0,7,Wheat,False
+747,139,109655,1,Lucerne/Medics,0.35505835,0.226939,6,3,Fallow,False
+747,152,109655,1,Lucerne/Medics,0.40202072,0.24080955,6,3,Fallow,False
+747,153,4157,1,Lucerne/Medics,0.33500283,0.23535948,6,3,Fallow,False
+747,166,4157,1,Lucerne/Medics,0.34361083,0.25114093,6,3,Fallow,False
+747,167,4157,1,Lucerne/Medics,0.28153777,0.22675381,6,3,Fallow,False
+747,183,112363,6,Small grain grazing,0.89285181,0.44363835,4,6,Small grain grazing,True
+747,184,112363,6,Small grain grazing,0.97150262,0.47215687,4,6,Small grain grazing,True
+747,185,112363,6,Small grain grazing,0.88430858,0.43094772,4,6,Small grain grazing,True
+747,186,28030,6,Small grain grazing,0.4917667,0.24015251,0,7,Wheat,False
+763,0,12263,5,Weeds,0.39015566,0.16559666,3,5,Weeds,True
+763,11,81884,9,Rooibos,0.21823044,0.25808968,6,3,Fallow,False
+763,38,118655,1,Lucerne/Medics,0.3152617,0.20740741,3,5,Weeds,False
+763,53,118655,1,Lucerne/Medics,0.28312982,0.19777294,3,5,Weeds,False
+772,122,105163,5,Weeds,0.36375519,0.22831034,3,5,Weeds,True
+787,27,75431,3,Fallow,0.18074789,0.30773422,6,3,Fallow,True
+787,72,73913,4,Wine grapes,0.32913896,0.17596224,3,5,Weeds,False
+787,90,50484,4,Wine grapes,0.3486369,0.2211208,3,5,Weeds,False
+789,93,53204,5,Weeds,0.19362167,0.33149359,1,9,Rooibos,False
+789,107,53204,5,Weeds,0.25583508,0.28817478,1,9,Rooibos,False
+789,108,53204,5,Weeds,0.2050395,0.32021303,1,9,Rooibos,False
+812,84,121312,6,Small grain grazing,0.20562528,0.3340672,1,9,Rooibos,False
+812,85,121312,6,Small grain grazing,0.15458171,0.43503995,7,3,Fallow,False
+812,87,111441,5,Weeds,0.22024016,0.35764949,1,9,Rooibos,False
+812,88,111441,5,Weeds,0.24471617,0.37061245,1,9,Rooibos,False
+812,99,121312,6,Small grain grazing,0.18264694,0.39396031,7,3,Fallow,False
+838,10,9915,2,Planted pastures (perennial),0.38697015,0.27878685,3,5,Weeds,False
+838,139,57179,6,Small grain grazing,0.26607864,0.21733116,3,5,Weeds,False
+839,77,113769,9,Rooibos,0.14545434,0.34788188,1,9,Rooibos,True
+839,78,113769,9,Rooibos,0.14344373,0.34532802,1,9,Rooibos,True
+839,90,113769,9,Rooibos,0.15374209,0.34423869,1,9,Rooibos,True
+839,91,113769,9,Rooibos,0.16678781,0.3063423,1,9,Rooibos,True
+839,92,113769,9,Rooibos,0.16700428,0.30008473,1,9,Rooibos,True
+839,93,113769,9,Rooibos,0.13560385,0.36335029,1,9,Rooibos,True
+839,104,113769,9,Rooibos,0.17784394,0.31793756,1,9,Rooibos,True
+839,105,113769,9,Rooibos,0.17543481,0.29800291,1,9,Rooibos,True
+839,106,113769,9,Rooibos,0.18498191,0.27706367,1,9,Rooibos,True
+839,107,113769,9,Rooibos,0.13254841,0.36488744,1,9,Rooibos,True
+839,118,113769,9,Rooibos,0.1775181,0.31748972,1,9,Rooibos,True
+839,119,113769,9,Rooibos,0.19089384,0.27391674,1,9,Rooibos,True
+839,120,113769,9,Rooibos,0.1817638,0.28747278,1,9,Rooibos,True
+839,121,113769,9,Rooibos,0.15970727,0.3244493,1,9,Rooibos,True
+839,122,113769,9,Rooibos,0.14561867,0.34346406,1,9,Rooibos,True
+839,133,113769,9,Rooibos,0.19008923,0.27746309,1,9,Rooibos,True
+839,134,113769,9,Rooibos,0.20120654,0.2620552,6,3,Fallow,False
+839,135,113769,9,Rooibos,0.2011039,0.26114743,6,3,Fallow,False
+839,136,113769,9,Rooibos,0.18073116,0.29955217,1,9,Rooibos,True
+839,147,113769,9,Rooibos,0.18445878,0.28034375,1,9,Rooibos,True
+839,148,113769,9,Rooibos,0.19744587,0.26587994,6,3,Fallow,False
+839,149,113769,9,Rooibos,0.20072307,0.25629388,6,3,Fallow,False
+839,150,113769,9,Rooibos,0.17702876,0.29670783,1,9,Rooibos,True
+839,151,113769,9,Rooibos,0.1445879,0.36269669,1,9,Rooibos,True
+839,162,113769,9,Rooibos,0.16559226,0.32739047,1,9,Rooibos,True
+839,163,113769,9,Rooibos,0.1541159,0.34078916,1,9,Rooibos,True
+839,164,113769,9,Rooibos,0.162385,0.33197774,1,9,Rooibos,True
+839,165,113769,9,Rooibos,0.16646389,0.32788672,1,9,Rooibos,True
+839,176,113769,9,Rooibos,0.18909677,0.28607959,1,9,Rooibos,True
+839,179,113769,9,Rooibos,0.17130393,0.31841533,1,9,Rooibos,True
+839,180,113769,9,Rooibos,0.16438751,0.33083484,1,9,Rooibos,True
+839,191,113769,9,Rooibos,0.18088143,0.30899783,1,9,Rooibos,True
+839,192,113769,9,Rooibos,0.18713423,0.28183007,1,9,Rooibos,True
+839,193,113769,9,Rooibos,0.14787912,0.34253814,1,9,Rooibos,True
+839,194,113769,9,Rooibos,0.13685178,0.36609908,1,9,Rooibos,True
+862,2,34850,5,Weeds,0.30867959,0.36464856,1,9,Rooibos,False
+862,50,98772,6,Small grain grazing,0.13185386,0.34565481,0,7,Wheat,False
+862,51,98772,6,Small grain grazing,0.19528012,0.3116921,0,7,Wheat,False
+862,64,98772,6,Small grain grazing,0.16655748,0.314718,0,7,Wheat,False
+862,65,98772,6,Small grain grazing,0.15694037,0.32190754,0,7,Wheat,False
+862,141,69832,3,Fallow,0.64883775,0.42050351,4,6,Small grain grazing,False
+862,142,69832,3,Fallow,0.60397543,0.43967563,4,6,Small grain grazing,False
+862,155,69832,3,Fallow,0.4811687,0.40291698,6,3,Fallow,True
+862,156,69832,3,Fallow,0.53866774,0.39845074,6,3,Fallow,True
+862,169,69832,3,Fallow,0.43533344,0.39403739,6,3,Fallow,True
+862,182,86710,5,Weeds,0.36041549,0.35053664,1,9,Rooibos,False
+864,3,9943,3,Fallow,0.3713574,0.34840042,6,3,Fallow,True
+864,7,54230,9,Rooibos,0.34028851,0.21498682,3,5,Weeds,False
+864,66,39262,3,Fallow,0.31541292,0.32315421,3,5,Weeds,False
+864,112,85660,3,Fallow,0.26235969,0.20873754,3,5,Weeds,False
+864,141,100645,3,Fallow,0.22993983,0.28662552,6,3,Fallow,True
+890,111,23915,2,Planted pastures (perennial),0.60494064,0.37557735,4,6,Small grain grazing,False
+890,124,23915,2,Planted pastures (perennial),0.60862416,0.40627222,4,6,Small grain grazing,False
+890,125,23915,2,Planted pastures (perennial),0.52602733,0.37675382,0,7,Wheat,False
+890,139,23915,2,Planted pastures (perennial),0.54444127,0.36894336,6,3,Fallow,False
+890,167,101539,2,Planted pastures (perennial),0.7176831,0.41141613,4,6,Small grain grazing,False
+890,179,101539,2,Planted pastures (perennial),0.67161685,0.40865727,4,6,Small grain grazing,False
+890,180,101539,2,Planted pastures (perennial),0.70601541,0.41783717,4,6,Small grain grazing,False
+890,181,101539,2,Planted pastures (perennial),0.75290956,0.41024768,4,6,Small grain grazing,False
+890,194,101539,2,Planted pastures (perennial),0.68522336,0.40992777,4,6,Small grain grazing,False
+890,195,101539,2,Planted pastures (perennial),0.58082238,0.38446079,0,7,Wheat,False
+913,150,81894,1,Lucerne/Medics,0.32499406,0.27459454,6,3,Fallow,False
+913,165,55444,1,Lucerne/Medics,0.34242459,0.28606876,2,7,Wheat,False
+913,166,55444,1,Lucerne/Medics,0.28491003,0.28338495,2,7,Wheat,False
+913,177,55444,1,Lucerne/Medics,0.43205558,0.28026603,0,7,Wheat,False
+913,178,55444,1,Lucerne/Medics,0.39663922,0.2968123,2,7,Wheat,False
+913,179,55444,1,Lucerne/Medics,0.33000267,0.26015366,6,3,Fallow,False
+913,180,55444,1,Lucerne/Medics,0.35322323,0.28465592,6,3,Fallow,False
+913,184,24131,3,Fallow,0.46363283,0.26381265,6,3,Fallow,True
+913,185,24131,3,Fallow,0.39148694,0.24022876,6,3,Fallow,True
+913,195,114307,6,Small grain grazing,0.26881434,0.26565687,2,7,Wheat,False
+922,79,117597,3,Fallow,0.22196173,0.21026386,3,5,Weeds,False
+922,87,46648,3,Fallow,0.30356972,0.29026871,6,3,Fallow,True
+922,100,46648,3,Fallow,0.28408911,0.30284436,6,3,Fallow,True
+922,101,46648,3,Fallow,0.27878128,0.27138708,6,3,Fallow,True
+922,113,46648,3,Fallow,0.24789316,0.28934884,6,3,Fallow,True
+922,114,46648,3,Fallow,0.26458264,0.31030018,6,3,Fallow,True
+922,115,46648,3,Fallow,0.27986754,0.2932341,6,3,Fallow,True
+922,116,46648,3,Fallow,0.31292916,0.28403535,6,3,Fallow,True
+922,117,46648,3,Fallow,0.3318717,0.27684581,6,3,Fallow,True
+922,126,46648,3,Fallow,0.23872288,0.28572413,6,3,Fallow,True
+922,127,46648,3,Fallow,0.2195765,0.28315179,6,3,Fallow,True
+922,128,46648,3,Fallow,0.22576221,0.28702495,6,3,Fallow,True
+922,129,46648,3,Fallow,0.30691573,0.28776326,6,3,Fallow,True
+922,130,46648,3,Fallow,0.34453747,0.29216898,6,3,Fallow,True
+922,140,46648,3,Fallow,0.22207262,0.28260522,6,3,Fallow,True
+922,141,46648,3,Fallow,0.22821338,0.27509079,6,3,Fallow,True
+922,142,46648,3,Fallow,0.22458357,0.28234085,6,3,Fallow,True
+922,143,46648,3,Fallow,0.27591711,0.2774752,6,3,Fallow,True
+922,145,46118,3,Fallow,0.21242709,0.20358267,3,5,Weeds,False
+922,146,46118,3,Fallow,0.21506345,0.2077221,3,5,Weeds,False
+922,148,62892,3,Fallow,0.18308802,0.25075043,6,3,Fallow,True
+922,150,62892,3,Fallow,0.17575514,0.24961269,6,3,Fallow,True
+922,156,46648,3,Fallow,0.24648287,0.27588963,6,3,Fallow,True
+922,160,46118,3,Fallow,0.23144759,0.20785524,3,5,Weeds,False
+922,163,62892,3,Fallow,0.17633989,0.24938273,6,3,Fallow,True
+922,164,62892,3,Fallow,0.18409268,0.24502543,6,3,Fallow,True
+922,178,62892,3,Fallow,0.17708669,0.24801056,6,3,Fallow,True
+927,14,50893,7,Wheat,0.23987769,0.22279555,6,3,Fallow,False
+927,111,17938,6,Small grain grazing,0.33518067,0.2027451,0,7,Wheat,False
+927,120,88144,6,Small grain grazing,0.27807101,0.19709514,0,7,Wheat,False
+927,121,88144,6,Small grain grazing,0.26637084,0.19281046,0,7,Wheat,False
+927,122,88144,6,Small grain grazing,0.24115642,0.19909223,0,7,Wheat,False
+927,123,88144,6,Small grain grazing,0.21643165,0.20850884,6,3,Fallow,False
+927,124,17938,6,Small grain grazing,0.29667115,0.19868135,0,7,Wheat,False
+927,125,17938,6,Small grain grazing,0.39245863,0.2006427,0,7,Wheat,False
+927,135,88144,6,Small grain grazing,0.26343298,0.19290729,0,7,Wheat,False
+927,136,88144,6,Small grain grazing,0.21786414,0.19665941,0,7,Wheat,False
+927,138,17938,6,Small grain grazing,0.33292099,0.18683638,0,7,Wheat,False
+927,139,17938,6,Small grain grazing,0.38640175,0.19793029,0,7,Wheat,False
+927,151,17938,6,Small grain grazing,0.32272733,0.1916122,0,7,Wheat,False
+927,152,17938,6,Small grain grazing,0.42794559,0.20215572,0,7,Wheat,False
+927,153,17938,6,Small grain grazing,0.37960084,0.20337691,0,7,Wheat,False
+977,6,1713,6,Small grain grazing,0.2406901,0.23584452,0,7,Wheat,False
+977,7,1713,6,Small grain grazing,0.23658759,0.24725376,0,7,Wheat,False
+977,11,82248,7,Wheat,0.5183276,0.28789131,0,7,Wheat,True
+977,12,82248,7,Wheat,0.54857306,0.30124383,0,7,Wheat,True
+977,20,1713,6,Small grain grazing,0.24888133,0.23626241,0,7,Wheat,False
+977,21,1713,6,Small grain grazing,0.21589166,0.22949649,0,7,Wheat,False
+977,35,1713,6,Small grain grazing,0.27577367,0.24573953,0,7,Wheat,False
+977,65,60528,1,Lucerne/Medics,0.83654544,0.40196079,4,6,Small grain grazing,False
+977,66,60528,1,Lucerne/Medics,0.76712229,0.36804649,4,6,Small grain grazing,False
+977,67,60528,1,Lucerne/Medics,0.7221834,0.35044784,4,6,Small grain grazing,False
+977,68,60528,1,Lucerne/Medics,0.68385989,0.34961588,4,6,Small grain grazing,False
+977,69,78389,6,Small grain grazing,0.64090798,0.32551199,4,6,Small grain grazing,True
+977,79,60528,1,Lucerne/Medics,0.82127742,0.40008473,4,6,Small grain grazing,False
+977,80,60528,1,Lucerne/Medics,0.72432777,0.35588236,4,6,Small grain grazing,False
+977,81,60528,1,Lucerne/Medics,0.67399427,0.33200195,4,6,Small grain grazing,False
+977,82,60528,1,Lucerne/Medics,0.59460431,0.31288844,0,7,Wheat,False
+977,86,110536,1,Lucerne/Medics,0.34130043,0.22247641,3,5,Weeds,False
+977,104,103417,3,Fallow,0.26537923,0.30603971,6,3,Fallow,True
+977,118,103417,3,Fallow,0.23976486,0.34958849,1,9,Rooibos,False
+977,132,103417,3,Fallow,0.26352886,0.34172114,1,9,Rooibos,False
+977,149,3093,1,Lucerne/Medics,0.47236108,0.3247882,0,7,Wheat,False
+977,151,3093,1,Lucerne/Medics,0.54883177,0.32722102,0,7,Wheat,False
+977,152,3093,1,Lucerne/Medics,0.57886708,0.32012385,0,7,Wheat,False
+977,153,3093,1,Lucerne/Medics,0.49269854,0.30562093,0,7,Wheat,False
+977,163,3093,1,Lucerne/Medics,0.53888362,0.30629389,0,7,Wheat,False
+977,164,3093,1,Lucerne/Medics,0.45257153,0.3113653,0,7,Wheat,False
+977,165,3093,1,Lucerne/Medics,0.60439698,0.35384896,4,6,Small grain grazing,False
+977,166,3093,1,Lucerne/Medics,0.63270396,0.35624356,4,6,Small grain grazing,False
+977,167,3093,1,Lucerne/Medics,0.54977454,0.32406319,0,7,Wheat,False
+977,178,3093,1,Lucerne/Medics,0.45941024,0.2933494,0,7,Wheat,False
+977,179,3093,1,Lucerne/Medics,0.54567332,0.33973169,0,7,Wheat,False
+977,180,3093,1,Lucerne/Medics,0.57040752,0.34218675,0,7,Wheat,False
+977,181,3093,1,Lucerne/Medics,0.51168985,0.3139319,0,7,Wheat,False
+1002,24,9825,6,Small grain grazing,0.609656,0.3103486,4,6,Small grain grazing,True
+1002,25,9825,6,Small grain grazing,0.62651207,0.31241831,4,6,Small grain grazing,True
+1002,26,9825,6,Small grain grazing,0.66306204,0.30651303,4,6,Small grain grazing,True
+1002,37,9825,6,Small grain grazing,0.49208181,0.2828371,0,7,Wheat,False
+1002,38,9825,6,Small grain grazing,0.65795911,0.31325346,4,6,Small grain grazing,True
+1002,39,9825,6,Small grain grazing,0.68893637,0.32665215,4,6,Small grain grazing,True
+1002,40,9825,6,Small grain grazing,0.66160514,0.32112144,4,6,Small grain grazing,True
+1002,51,9825,6,Small grain grazing,0.57720114,0.31827646,0,7,Wheat,False
+1002,52,9825,6,Small grain grazing,0.72958103,0.35033891,4,6,Small grain grazing,True
+1002,53,9825,6,Small grain grazing,0.72842957,0.35249335,4,6,Small grain grazing,True
+1002,54,9825,6,Small grain grazing,0.70192641,0.34135995,4,6,Small grain grazing,True
+1002,65,9825,6,Small grain grazing,0.1724168,0.32509079,6,3,Fallow,False
+1002,66,9825,6,Small grain grazing,0.2052882,0.33253451,2,7,Wheat,False
+1002,67,9825,6,Small grain grazing,0.28193911,0.31739289,6,3,Fallow,False
+1002,68,9825,6,Small grain grazing,0.37731693,0.32786379,6,3,Fallow,False
+1002,80,9825,6,Small grain grazing,0.19119408,0.31953523,6,3,Fallow,False
+1002,81,9825,6,Small grain grazing,0.18578149,0.31387074,6,3,Fallow,False
+1076,66,44052,6,Small grain grazing,0.1619743,0.22655532,0,7,Wheat,False
+1076,67,44052,6,Small grain grazing,0.1765038,0.22747519,0,7,Wheat,False
+1076,68,44052,6,Small grain grazing,0.17027472,0.22832244,0,7,Wheat,False
+1076,69,44052,6,Small grain grazing,0.16013857,0.24619826,2,7,Wheat,False
+1076,152,31048,1,Lucerne/Medics,0.40561702,0.24180714,0,7,Wheat,False
+1076,165,31048,1,Lucerne/Medics,0.44660443,0.22833455,0,7,Wheat,False
+1076,166,31048,1,Lucerne/Medics,0.42635175,0.24312579,0,7,Wheat,False
+1076,167,31048,1,Lucerne/Medics,0.3952736,0.25010894,0,7,Wheat,False
+1076,179,31048,1,Lucerne/Medics,0.35988591,0.24227727,0,7,Wheat,False
+1076,180,31048,1,Lucerne/Medics,0.39240869,0.2317419,0,7,Wheat,False
+1076,181,31048,1,Lucerne/Medics,0.43854191,0.24076368,0,7,Wheat,False
+1111,7,49527,9,Rooibos,0.20144199,0.40182319,1,9,Rooibos,True
+1111,8,49527,9,Rooibos,0.17850558,0.43242748,7,3,Fallow,False
+1111,22,49527,9,Rooibos,0.18074391,0.43045268,7,3,Fallow,False
+1111,36,49527,9,Rooibos,0.15930528,0.40214234,7,3,Fallow,False
+1111,37,49527,9,Rooibos,0.19206907,0.40036311,1,9,Rooibos,True
+1119,3,6622,6,Small grain grazing,0.41770023,0.42794405,2,7,Wheat,False
+1119,4,6622,6,Small grain grazing,0.39294098,0.46046325,2,7,Wheat,False
+1119,5,6622,6,Small grain grazing,0.36240249,0.39675496,2,7,Wheat,False
+1119,10,86674,5,Weeds,0.33727259,0.37808738,1,9,Rooibos,False
+1119,16,6622,6,Small grain grazing,0.43441137,0.45261438,2,7,Wheat,False
+1119,17,6622,6,Small grain grazing,0.42572359,0.44202373,2,7,Wheat,False
+1119,168,71223,9,Rooibos,0.16905132,0.2627777,1,9,Rooibos,True
+1119,183,5825,3,Fallow,0.13392748,0.27143792,1,9,Rooibos,False
+1119,184,5825,3,Fallow,0.1582019,0.31547931,7,3,Fallow,True
+1126,52,79770,9,Rooibos,0.0,0.0,8,2,Planted pastures (perennial),False
+1126,65,122061,5,Weeds,0.0,0.0,8,2,Planted pastures (perennial),False
+1126,104,118299,9,Rooibos,0.0,0.0,8,2,Planted pastures (perennial),False
+1126,122,66790,9,Rooibos,0.0,0.0,8,2,Planted pastures (perennial),False
+1126,123,66790,9,Rooibos,0.0,0.0,8,2,Planted pastures (perennial),False
+1126,136,66790,9,Rooibos,0.0,0.0,8,2,Planted pastures (perennial),False
+1126,137,66790,9,Rooibos,0.0,0.0,8,2,Planted pastures (perennial),False
+1126,138,66790,9,Rooibos,0.0,0.0,8,2,Planted pastures (perennial),False
+1154,7,46508,3,Fallow,0.40441402,0.28074763,6,3,Fallow,True
+1154,9,46508,3,Fallow,0.27531693,0.24677217,6,3,Fallow,True
+1154,22,46508,3,Fallow,0.30124982,0.25985234,6,3,Fallow,True
+1154,35,39015,3,Fallow,0.19759023,0.33460422,1,9,Rooibos,False
+1154,48,46508,3,Fallow,0.26842395,0.25865409,6,3,Fallow,True
+1154,49,39015,3,Fallow,0.17337703,0.3184338,1,9,Rooibos,False
+1154,50,39015,3,Fallow,0.15611129,0.34546116,1,9,Rooibos,False
+1154,51,46508,3,Fallow,0.3502253,0.2842048,6,3,Fallow,True
+1154,62,46508,3,Fallow,0.332912,0.25388527,6,3,Fallow,True
+1154,63,46508,3,Fallow,0.28757344,0.25440572,6,3,Fallow,True
+1154,64,46508,3,Fallow,0.25343146,0.28996612,6,3,Fallow,True
+1154,65,46508,3,Fallow,0.32581813,0.2291697,3,5,Weeds,False
+1154,77,46508,3,Fallow,0.33926494,0.26244252,6,3,Fallow,True
+1154,78,46508,3,Fallow,0.37158935,0.30981603,6,3,Fallow,True
+1154,130,90123,1,Lucerne/Medics,0.20025247,0.37009199,1,9,Rooibos,False
+1154,140,34877,5,Weeds,0.14155943,0.35290679,1,9,Rooibos,False
+1154,144,90123,1,Lucerne/Medics,0.16677589,0.43658921,7,3,Fallow,False
+1154,145,90123,1,Lucerne/Medics,0.19717635,0.44845074,7,3,Fallow,False
+1154,154,34877,5,Weeds,0.12652639,0.35046441,1,9,Rooibos,False
+1154,158,90123,1,Lucerne/Medics,0.16371103,0.45928347,7,3,Fallow,False
+1154,161,74961,5,Weeds,0.31386009,0.28851369,6,3,Fallow,False
+1154,174,74961,5,Weeds,0.19309512,0.33648665,1,9,Rooibos,False
+1154,175,74961,5,Weeds,0.30582702,0.2813439,6,3,Fallow,False
+1154,176,74961,5,Weeds,0.31820117,0.25998166,6,3,Fallow,False
+1154,188,74961,5,Weeds,0.19770548,0.33171025,1,9,Rooibos,False
+1154,189,74961,5,Weeds,0.26610364,0.29063182,1,9,Rooibos,False
+1185,82,115550,3,Fallow,0.18610973,0.25085427,6,3,Fallow,True
+1185,83,115550,3,Fallow,0.2401141,0.27157953,6,3,Fallow,True
+1185,96,115550,3,Fallow,0.15835324,0.26328404,6,3,Fallow,True
+1185,97,115550,3,Fallow,0.15071137,0.26722223,6,3,Fallow,True
+1185,110,115550,3,Fallow,0.1670086,0.25267746,6,3,Fallow,True
+1185,111,115550,3,Fallow,0.16055543,0.25858389,6,3,Fallow,True
+1185,113,10832,8,Canola,0.4982836,0.17329945,3,5,Weeds,False
+1185,114,10832,8,Canola,0.45397688,0.21264827,3,5,Weeds,False
+1185,125,115550,3,Fallow,0.24572254,0.25973857,6,3,Fallow,True
+1185,126,10832,8,Canola,0.55631266,0.19904828,3,5,Weeds,False
+1185,127,10832,8,Canola,0.51275811,0.21946261,3,5,Weeds,False
+1185,128,10832,8,Canola,0.61130054,0.24473494,3,5,Weeds,False
+1185,129,10832,8,Canola,0.65278818,0.26854274,3,5,Weeds,False
+1185,138,53090,2,Planted pastures (perennial),0.60948248,0.29605551,3,5,Weeds,False
+1185,139,53090,2,Planted pastures (perennial),0.54506118,0.29061003,3,5,Weeds,False
+1185,140,10832,8,Canola,0.60466059,0.26143792,3,5,Weeds,False
+1185,141,10832,8,Canola,0.61183201,0.27564755,3,5,Weeds,False
+1185,142,10832,8,Canola,0.63787907,0.315069,4,6,Small grain grazing,False
+1185,143,10832,8,Canola,0.49658472,0.31890584,0,7,Wheat,False
+1185,154,10832,8,Canola,0.56655917,0.32530674,0,7,Wheat,False
+1185,155,10832,8,Canola,0.63633043,0.34915276,4,6,Small grain grazing,False
+1185,156,10832,8,Canola,0.65717123,0.35444203,4,6,Small grain grazing,False
+1185,157,10832,8,Canola,0.53022896,0.33449529,0,7,Wheat,False
+1185,158,10832,8,Canola,0.48825711,0.32463085,0,7,Wheat,False
+1185,168,10832,8,Canola,0.57036367,0.34312097,4,6,Small grain grazing,False
+1185,169,10832,8,Canola,0.58330783,0.3424722,4,6,Small grain grazing,False
+1185,170,10832,8,Canola,0.60401269,0.35251692,4,6,Small grain grazing,False
+1185,171,10832,8,Canola,0.50875707,0.34125674,0,7,Wheat,False
+1185,182,10832,8,Canola,0.47021354,0.35353974,0,7,Wheat,False
+1185,183,10832,8,Canola,0.43571636,0.33543574,0,7,Wheat,False
+1185,184,10832,8,Canola,0.39445034,0.3451743,2,7,Wheat,False
+1202,9,49745,6,Small grain grazing,0.14978637,0.33129229,1,9,Rooibos,False
+1202,14,64964,9,Rooibos,0.2500936,0.25264305,3,5,Weeds,False
+1202,16,64964,9,Rooibos,0.17029856,0.30551925,1,9,Rooibos,True
+1202,17,64964,9,Rooibos,0.19606009,0.26055435,6,3,Fallow,False
+1202,18,64964,9,Rooibos,0.21341312,0.26167999,6,3,Fallow,False
+1202,19,64964,9,Rooibos,0.22204268,0.25712903,6,3,Fallow,False
+1202,29,64964,9,Rooibos,0.24802822,0.24105544,3,5,Weeds,False
+1202,30,64964,9,Rooibos,0.19862522,0.25745583,6,3,Fallow,False
+1202,31,64964,9,Rooibos,0.15564074,0.30610023,1,9,Rooibos,True
+1202,32,64964,9,Rooibos,0.21202926,0.24648996,6,3,Fallow,False
+1202,33,64964,9,Rooibos,0.21341233,0.25611233,6,3,Fallow,False
+1202,42,82928,5,Weeds,0.42800715,0.30739595,6,3,Fallow,False
+1202,44,64964,9,Rooibos,0.22461873,0.2513072,6,3,Fallow,False
+1202,45,64964,9,Rooibos,0.17563199,0.26953523,6,3,Fallow,False
+1202,56,82928,5,Weeds,0.33462549,0.30391011,6,3,Fallow,False
+1202,57,82928,5,Weeds,0.37134107,0.30710483,6,3,Fallow,False
+1202,58,64964,9,Rooibos,0.26763686,0.26769548,6,3,Fallow,False
+1202,59,64964,9,Rooibos,0.2042553,0.26374971,6,3,Fallow,False
+1202,60,64964,9,Rooibos,0.18548298,0.2778262,6,3,Fallow,False
+1202,70,82928,5,Weeds,0.43840175,0.32069718,6,3,Fallow,False
+1202,73,64964,9,Rooibos,0.21882185,0.27879449,6,3,Fallow,False
+1202,74,64964,9,Rooibos,0.20071783,0.26414912,6,3,Fallow,False
+1202,88,64964,9,Rooibos,0.21830688,0.26740499,6,3,Fallow,False
+1202,97,120771,5,Weeds,0.26570311,0.20607844,3,5,Weeds,True
+1202,111,120771,5,Weeds,0.30129592,0.18222223,3,5,Weeds,True
+1202,125,120771,5,Weeds,0.29839015,0.16757081,3,5,Weeds,True
+1202,138,120771,5,Weeds,0.2646665,0.21817453,3,5,Weeds,True
+1202,139,120771,5,Weeds,0.30336735,0.16805011,3,5,Weeds,True
+1202,159,105078,4,Wine grapes,0.29382462,0.28166305,6,3,Fallow,False
+1202,166,110957,5,Weeds,0.24437708,0.24385965,6,3,Fallow,False
+1202,173,105078,4,Wine grapes,0.25257491,0.2969499,6,3,Fallow,False
+1234,75,30424,3,Fallow,0.10793667,0.30939241,6,3,Fallow,True
+1234,76,30424,3,Fallow,0.10676558,0.31980151,1,9,Rooibos,False
+1234,77,30424,3,Fallow,0.12326453,0.32559914,1,9,Rooibos,False
+1234,89,30424,3,Fallow,0.10719873,0.30374003,6,3,Fallow,True
+1234,90,30424,3,Fallow,0.1092981,0.31550473,1,9,Rooibos,False
+1234,91,30424,3,Fallow,0.11565015,0.33226823,1,9,Rooibos,False
+1234,92,30424,3,Fallow,0.12383368,0.33862262,1,9,Rooibos,False
+1234,104,30424,3,Fallow,0.1112891,0.30429679,6,3,Fallow,True
+1234,105,30424,3,Fallow,0.11785651,0.32476399,1,9,Rooibos,False
+1234,119,30424,3,Fallow,0.14359179,0.32366256,1,9,Rooibos,False
+1248,3,59271,5,Weeds,0.21111033,0.27655086,1,9,Rooibos,False
+1248,4,59271,5,Weeds,0.12888607,0.31085886,1,9,Rooibos,False
+1248,5,59271,5,Weeds,0.13538285,0.3053893,1,9,Rooibos,False
+1248,6,105623,5,Weeds,0.14825645,0.351634,1,9,Rooibos,False
+1248,7,105623,5,Weeds,0.15139596,0.38158469,1,9,Rooibos,False
+1248,18,59271,5,Weeds,0.13083883,0.31358026,1,9,Rooibos,False
+1248,23,108380,5,Weeds,0.23382602,0.35686275,1,9,Rooibos,False
+1248,24,108380,5,Weeds,0.30698422,0.3922658,2,7,Wheat,False
+1248,142,65128,5,Weeds,0.30031103,0.26762286,6,3,Fallow,False
+1248,143,65128,5,Weeds,0.30910005,0.30228759,6,3,Fallow,False
+1248,157,65128,5,Weeds,0.28886177,0.32206488,1,9,Rooibos,False
+1254,1,93481,5,Weeds,0.28882275,0.30608876,6,3,Fallow,False
+1254,3,53113,6,Small grain grazing,0.22755699,0.32060545,6,3,Fallow,False
+1254,5,7694,6,Small grain grazing,0.15645643,0.31663801,1,9,Rooibos,False
+1254,6,7694,6,Small grain grazing,0.15628986,0.30497651,2,7,Wheat,False
+1254,15,93481,5,Weeds,0.31019277,0.31480272,6,3,Fallow,False
+1254,16,93481,5,Weeds,0.31538563,0.28997822,6,3,Fallow,False
+1254,20,7694,6,Small grain grazing,0.13922521,0.32206489,2,7,Wheat,False
+1254,24,66298,2,Planted pastures (perennial),0.528951,0.28738805,6,3,Fallow,False
+1254,29,93481,5,Weeds,0.28588585,0.25842412,3,5,Weeds,True
+1254,30,93481,5,Weeds,0.25119873,0.29980635,6,3,Fallow,False
+1254,33,53113,6,Small grain grazing,0.25303841,0.30848464,6,3,Fallow,False
+1254,34,7694,6,Small grain grazing,0.16614244,0.31033649,2,7,Wheat,False
+1254,35,7694,6,Small grain grazing,0.16540598,0.31030018,2,7,Wheat,False
+1254,57,14406,3,Fallow,0.25091801,0.21779231,3,5,Weeds,False
+1254,58,14406,3,Fallow,0.24220724,0.24659889,3,5,Weeds,False
+1254,59,14406,3,Fallow,0.23796698,0.24789398,3,5,Weeds,False
+1254,60,14406,3,Fallow,0.26159199,0.21908739,3,5,Weeds,False
+1254,73,14406,3,Fallow,0.22642713,0.29955218,6,3,Fallow,True
+1254,74,14406,3,Fallow,0.2451343,0.24176955,3,5,Weeds,False
+1254,75,14406,3,Fallow,0.25000918,0.23818689,3,5,Weeds,False
+1254,89,14406,3,Fallow,0.26150711,0.24938272,3,5,Weeds,False
+1254,108,59697,7,Wheat,0.210122,0.28295813,6,3,Fallow,False
+1254,118,109840,6,Small grain grazing,0.23801599,0.32570807,2,7,Wheat,False
+1254,119,109840,6,Small grain grazing,0.24100095,0.30076254,6,3,Fallow,False
+1254,120,59697,7,Wheat,0.18840235,0.27148391,6,3,Fallow,False
+1254,121,59697,7,Wheat,0.18450439,0.26765917,6,3,Fallow,False
+1254,122,59697,7,Wheat,0.16480718,0.28226823,6,3,Fallow,False
+1254,131,109840,6,Small grain grazing,0.19622823,0.3345437,2,7,Wheat,False
+1254,132,109840,6,Small grain grazing,0.19496113,0.3039821,6,3,Fallow,False
+1254,133,109840,6,Small grain grazing,0.21682598,0.30026629,6,3,Fallow,False
+1254,134,109840,6,Small grain grazing,0.21635722,0.28225613,6,3,Fallow,False
+1254,135,59697,7,Wheat,0.19139809,0.26736869,6,3,Fallow,False
+1254,136,59697,7,Wheat,0.17124144,0.26531107,6,3,Fallow,False
+1254,137,59697,7,Wheat,0.18211297,0.25589447,6,3,Fallow,False
+1254,145,109840,6,Small grain grazing,0.20850666,0.32066087,2,7,Wheat,False
+1254,146,109840,6,Small grain grazing,0.20999668,0.28702495,6,3,Fallow,False
+1254,147,109840,6,Small grain grazing,0.22226781,0.29773664,0,7,Wheat,False
+1254,159,109840,6,Small grain grazing,0.20583293,0.30208183,6,3,Fallow,False
+1254,160,109840,6,Small grain grazing,0.21017982,0.29406924,0,7,Wheat,False
+1254,161,109840,6,Small grain grazing,0.21263112,0.28937305,0,7,Wheat,False
+1254,165,99693,7,Wheat,0.18343136,0.29923748,2,7,Wheat,True
+1254,172,109840,6,Small grain grazing,0.21036409,0.3307419,2,7,Wheat,False
+1254,173,109840,6,Small grain grazing,0.20067792,0.30894394,0,7,Wheat,False
+1254,174,109840,6,Small grain grazing,0.21972507,0.30619196,0,7,Wheat,False
+1254,175,109840,6,Small grain grazing,0.21047739,0.30793488,0,7,Wheat,False
+1254,177,99693,7,Wheat,0.2657385,0.26518749,6,3,Fallow,False
+1254,178,99693,7,Wheat,0.20105731,0.26651761,6,3,Fallow,False
+1254,179,99693,7,Wheat,0.18160782,0.28573559,6,3,Fallow,False
+1254,180,99693,7,Wheat,0.20100913,0.27835534,6,3,Fallow,False
+1254,187,109840,6,Small grain grazing,0.20819564,0.31875818,0,7,Wheat,False
+1254,188,109840,6,Small grain grazing,0.21739307,0.29277779,6,3,Fallow,False
+1254,190,99693,7,Wheat,0.20484137,0.27435731,6,3,Fallow,False
+1254,191,99693,7,Wheat,0.20326908,0.26360567,6,3,Fallow,False
+1254,192,99693,7,Wheat,0.20223135,0.26101308,6,3,Fallow,False
+1254,193,99693,7,Wheat,0.1763164,0.28530502,6,3,Fallow,False
+1254,194,99693,7,Wheat,0.18268093,0.29520125,6,3,Fallow,False
+1254,195,99693,7,Wheat,0.20366652,0.28185295,6,3,Fallow,False
+1257,6,10925,7,Wheat,0.76427614,0.37644766,4,6,Small grain grazing,False
+1257,7,10925,7,Wheat,0.84237573,0.3968123,4,6,Small grain grazing,False
+1257,8,10925,7,Wheat,0.83851157,0.39521844,4,6,Small grain grazing,False
+1257,9,19797,7,Wheat,0.88471177,0.40833621,4,6,Small grain grazing,False
+1257,10,19797,7,Wheat,0.89705691,0.4048045,4,6,Small grain grazing,False
+1257,11,19797,7,Wheat,0.8625192,0.39105608,4,6,Small grain grazing,False
+1257,12,19797,7,Wheat,0.83681998,0.37217968,4,6,Small grain grazing,False
+1257,22,10925,7,Wheat,0.80287208,0.38311548,4,6,Small grain grazing,False
+1257,23,19797,7,Wheat,0.88286471,0.39814815,4,6,Small grain grazing,False
+1257,24,19797,7,Wheat,0.89345659,0.39041395,4,6,Small grain grazing,False
+1257,25,19797,7,Wheat,0.85889183,0.38569354,4,6,Small grain grazing,False
+1257,26,19797,7,Wheat,0.82174294,0.36092192,4,6,Small grain grazing,False
+1257,139,48613,7,Wheat,0.80945883,0.39253813,4,6,Small grain grazing,False
+1257,146,33934,7,Wheat,0.81763477,0.36966837,4,6,Small grain grazing,False
+1257,147,33934,7,Wheat,0.87958285,0.39813605,4,6,Small grain grazing,False
+1257,148,33934,7,Wheat,0.80598133,0.39166062,4,6,Small grain grazing,False
+1257,153,48613,7,Wheat,0.84503415,0.39924837,4,6,Small grain grazing,False
+1257,159,33934,7,Wheat,0.79194473,0.38735174,4,6,Small grain grazing,False
+1257,160,33934,7,Wheat,0.84680512,0.39077706,4,6,Small grain grazing,False
+1257,161,33934,7,Wheat,0.84517684,0.38815058,4,6,Small grain grazing,False
+1257,162,33934,7,Wheat,0.8798067,0.40948923,4,6,Small grain grazing,False
+1257,167,48613,7,Wheat,0.82623364,0.38379086,4,6,Small grain grazing,False
+1257,173,33934,7,Wheat,0.89505281,0.40873754,4,6,Small grain grazing,False
+1257,174,33934,7,Wheat,0.85824455,0.40033254,4,6,Small grain grazing,False
+1257,175,33934,7,Wheat,0.86711783,0.39696136,4,6,Small grain grazing,False
+1257,176,33934,7,Wheat,0.89353479,0.41382869,4,6,Small grain grazing,False
+1257,181,48613,7,Wheat,0.85646698,0.40323014,4,6,Small grain grazing,False
+1257,183,498,7,Wheat,0.8281329,0.36318084,4,6,Small grain grazing,False
+1257,184,498,7,Wheat,0.84946711,0.38004358,4,6,Small grain grazing,False
+1257,186,33934,7,Wheat,0.8590764,0.40813726,4,6,Small grain grazing,False
+1257,187,33934,7,Wheat,0.76958826,0.37690633,4,6,Small grain grazing,False
+1257,188,33934,7,Wheat,0.76502681,0.3853268,4,6,Small grain grazing,False
+1258,18,4467,1,Lucerne/Medics,0.36200571,0.21788913,0,7,Wheat,False
+1258,24,45902,7,Wheat,0.46918038,0.27873398,0,7,Wheat,True
+1258,31,4467,1,Lucerne/Medics,0.44996949,0.21234568,0,7,Wheat,False
+1258,32,4467,1,Lucerne/Medics,0.48504804,0.23284919,0,7,Wheat,False
+1258,33,4467,1,Lucerne/Medics,0.42236086,0.2244856,0,7,Wheat,False
+1258,38,45902,7,Wheat,0.49822861,0.27930284,0,7,Wheat,True
+1258,39,45902,7,Wheat,0.51032735,0.27568387,0,7,Wheat,True
+1258,40,45902,7,Wheat,0.49741001,0.25761955,0,7,Wheat,True
+1258,44,4467,1,Lucerne/Medics,0.53580749,0.20082305,0,7,Wheat,False
+1258,45,4467,1,Lucerne/Medics,0.50171187,0.19751876,0,7,Wheat,False
+1258,46,4467,1,Lucerne/Medics,0.48411001,0.23299444,0,7,Wheat,False
+1258,52,45902,7,Wheat,0.43223667,0.26971679,0,7,Wheat,True
+1258,53,45902,7,Wheat,0.44911312,0.29642945,0,7,Wheat,True
+1258,54,45902,7,Wheat,0.51744316,0.28579293,0,7,Wheat,True
+1258,58,4467,1,Lucerne/Medics,0.53500871,0.20813363,0,7,Wheat,False
+1258,59,4467,1,Lucerne/Medics,0.52430043,0.20959816,0,7,Wheat,False
+1258,68,45902,7,Wheat,0.50793386,0.29143448,0,7,Wheat,True
+1258,69,45902,7,Wheat,0.47471226,0.27226581,0,7,Wheat,True
+1258,70,68862,7,Wheat,0.57687306,0.29248941,0,7,Wheat,True
+1258,72,4467,1,Lucerne/Medics,0.5508542,0.21089325,0,7,Wheat,False
+1258,84,68862,7,Wheat,0.57271749,0.29903682,0,7,Wheat,True
+1258,85,68862,7,Wheat,0.63671392,0.31348343,4,6,Small grain grazing,False
+1258,98,68862,7,Wheat,0.61301764,0.30200666,4,6,Small grain grazing,False
+1258,99,68862,7,Wheat,0.61379267,0.31399178,4,6,Small grain grazing,False
+1258,128,9451,6,Small grain grazing,0.43709211,0.15246914,0,7,Wheat,False
+1258,129,9451,6,Small grain grazing,0.39181176,0.14836602,0,7,Wheat,False
+1258,137,417,7,Wheat,0.39086007,0.31788914,0,7,Wheat,True
+1258,142,9451,6,Small grain grazing,0.38283525,0.17331155,0,7,Wheat,False
+1258,143,9451,6,Small grain grazing,0.36111264,0.17007989,0,7,Wheat,False
+1258,144,9451,6,Small grain grazing,0.37096237,0.18099734,0,7,Wheat,False
+1258,145,9451,6,Small grain grazing,0.44728215,0.19270153,0,7,Wheat,False
+1258,152,417,7,Wheat,0.44027484,0.30851968,0,7,Wheat,True
+1258,158,9451,6,Small grain grazing,0.4517849,0.19753087,0,7,Wheat,False
+1258,159,9451,6,Small grain grazing,0.41008744,0.1949649,0,7,Wheat,False
+1258,160,9451,6,Small grain grazing,0.44361565,0.18979666,0,7,Wheat,False
+1258,166,417,7,Wheat,0.44662521,0.3142759,0,7,Wheat,True
+1258,167,417,7,Wheat,0.42607742,0.29084969,0,7,Wheat,True
+1258,180,417,7,Wheat,0.38782572,0.31935257,0,7,Wheat,True
+1258,181,417,7,Wheat,0.48647707,0.30855522,0,7,Wheat,True
+1258,194,417,7,Wheat,0.30247108,0.31949433,0,7,Wheat,True
+1258,195,417,7,Wheat,0.49325245,0.3397255,0,7,Wheat,True
+1259,0,30993,2,Planted pastures (perennial),0.7920935,0.39009289,4,6,Small grain grazing,False
+1259,1,30993,2,Planted pastures (perennial),0.76866227,0.38849903,4,6,Small grain grazing,False
+1259,7,3547,2,Planted pastures (perennial),0.70465829,0.30619196,4,6,Small grain grazing,False
+1259,8,3547,2,Planted pastures (perennial),0.73500844,0.32139664,4,6,Small grain grazing,False
+1259,10,16200,2,Planted pastures (perennial),0.83427626,0.36858159,4,6,Small grain grazing,False
+1259,11,16200,2,Planted pastures (perennial),0.82379326,0.36976265,4,6,Small grain grazing,False
+1259,12,16200,2,Planted pastures (perennial),0.81676112,0.35763403,4,6,Small grain grazing,False
+1259,14,30993,2,Planted pastures (perennial),0.80946584,0.41165005,4,6,Small grain grazing,False
+1259,15,22022,2,Planted pastures (perennial),0.76176918,0.3946139,4,6,Small grain grazing,False
+1259,20,3547,2,Planted pastures (perennial),0.62674771,0.28948198,4,6,Small grain grazing,False
+1259,23,16200,2,Planted pastures (perennial),0.82649173,0.39840233,4,6,Small grain grazing,False
+1259,24,16200,2,Planted pastures (perennial),0.75325697,0.34020819,4,6,Small grain grazing,False
+1259,167,79430,6,Small grain grazing,0.94534578,0.46454249,4,6,Small grain grazing,True
+1259,181,79430,6,Small grain grazing,0.95076636,0.49736843,4,6,Small grain grazing,True
+1259,195,79430,6,Small grain grazing,0.9547706,0.52133335,4,6,Small grain grazing,True
+1264,21,32958,4,Wine grapes,0.40273146,0.18614138,3,5,Weeds,False
+1264,27,43151,4,Wine grapes,0.3787359,0.1522658,3,5,Weeds,False
+1264,44,23975,4,Wine grapes,0.23789721,0.20459937,3,5,Weeds,False
+1264,98,70025,4,Wine grapes,0.26801866,0.15899553,3,5,Weeds,False
+1264,129,56911,4,Wine grapes,0.386685,0.1778383,3,5,Weeds,False
+1266,11,101862,6,Small grain grazing,0.12197666,0.46985438,7,3,Fallow,False
+1266,12,101862,6,Small grain grazing,0.1726949,0.42094401,7,3,Fallow,False
+1266,28,15160,9,Rooibos,0.13631102,0.40276345,1,9,Rooibos,True
+1266,87,49879,5,Weeds,0.31538615,0.21015493,3,5,Weeds,True
+1266,101,49879,5,Weeds,0.18576486,0.27532076,6,3,Fallow,False
+1266,185,100176,5,Weeds,0.34314244,0.43351852,7,3,Fallow,False
+1294,34,510,9,Rooibos,0.09662404,0.12778989,8,2,Planted pastures (perennial),False
+1359,18,46954,2,Planted pastures (perennial),0.53785846,0.28366014,6,3,Fallow,False
+1359,19,46954,2,Planted pastures (perennial),0.53100439,0.26694506,6,3,Fallow,False
+1359,32,46954,2,Planted pastures (perennial),0.54365688,0.29065603,6,3,Fallow,False
+1359,33,46954,2,Planted pastures (perennial),0.55525304,0.26118374,6,3,Fallow,False
+1359,178,88652,3,Fallow,0.16418493,0.2894393,6,3,Fallow,True
+1359,179,88652,3,Fallow,0.16234668,0.31744067,1,9,Rooibos,False
+1359,192,88652,3,Fallow,0.16605638,0.30016341,6,3,Fallow,True
+1359,193,88652,3,Fallow,0.16801603,0.3111438,2,7,Wheat,False
+1359,194,88652,3,Fallow,0.16129308,0.3309288,2,7,Wheat,False
+1380,2,82979,7,Wheat,0.64372611,0.33962849,4,6,Small grain grazing,False
+1380,3,82979,7,Wheat,0.58220955,0.34701297,0,7,Wheat,True
+1380,4,82979,7,Wheat,0.57357977,0.35029241,0,7,Wheat,True
+1380,16,82979,7,Wheat,0.60526524,0.33438636,4,6,Small grain grazing,False
+1380,17,82979,7,Wheat,0.58592719,0.34466232,0,7,Wheat,True
+1380,64,36143,3,Fallow,0.67518063,0.3211208,4,6,Small grain grazing,False
+1380,65,36143,3,Fallow,0.74609858,0.34744615,4,6,Small grain grazing,False
+1380,78,36143,3,Fallow,0.67098903,0.31249093,4,6,Small grain grazing,False
+1380,79,36143,3,Fallow,0.65936246,0.30048416,4,6,Small grain grazing,False
+1380,91,36143,3,Fallow,0.55664457,0.27457033,0,7,Wheat,False
+1380,92,36143,3,Fallow,0.61036041,0.28717019,0,7,Wheat,False
+1380,93,36143,3,Fallow,0.65267976,0.29853548,4,6,Small grain grazing,False
+1380,105,36143,3,Fallow,0.57628152,0.29538854,0,7,Wheat,False
+1380,113,853,6,Small grain grazing,0.7213481,0.38965142,4,6,Small grain grazing,True
+1380,124,1542,8,Canola,0.76867755,0.40808394,4,6,Small grain grazing,False
+1380,125,1542,8,Canola,0.71899746,0.38185186,4,6,Small grain grazing,False
+1380,127,853,6,Small grain grazing,0.82496356,0.43491891,4,6,Small grain grazing,True
+1380,138,1542,8,Canola,0.74220891,0.38220388,4,6,Small grain grazing,False
+1380,139,1542,8,Canola,0.72091298,0.37497822,4,6,Small grain grazing,False
+1380,143,12170,6,Small grain grazing,0.51300851,0.29708304,0,7,Wheat,False
+1380,152,1542,8,Canola,0.69083655,0.36273364,4,6,Small grain grazing,False
+1380,156,12170,6,Small grain grazing,0.45663541,0.30764949,0,7,Wheat,False
+1380,157,12170,6,Small grain grazing,0.5191802,0.30687486,0,7,Wheat,False
+1387,13,66157,9,Rooibos,0.14966456,0.39200207,7,3,Fallow,False
+1387,23,95979,9,Rooibos,0.19113906,0.35879933,1,9,Rooibos,True
+1387,36,95979,9,Rooibos,0.22175337,0.37332366,1,9,Rooibos,True
+1387,38,95979,9,Rooibos,0.2155809,0.39698621,1,9,Rooibos,True
+1387,39,95979,9,Rooibos,0.22476368,0.37083031,1,9,Rooibos,True
+1387,50,95979,9,Rooibos,0.21440156,0.37478819,1,9,Rooibos,True
+1387,53,95979,9,Rooibos,0.21018288,0.38667394,1,9,Rooibos,True
+1387,54,95979,9,Rooibos,0.23709413,0.38841876,1,9,Rooibos,True
+1399,111,27953,6,Small grain grazing,0.73717613,0.29847496,4,6,Small grain grazing,True
+1399,128,78804,7,Wheat,0.53911601,0.27687002,0,7,Wheat,True
+1399,142,78804,7,Wheat,0.50999376,0.2546841,0,7,Wheat,True
+1399,143,78804,7,Wheat,0.49971651,0.25278384,0,7,Wheat,True
+1399,156,78804,7,Wheat,0.48499524,0.27212541,0,7,Wheat,True
+1399,189,5630,7,Wheat,0.39297238,0.2306536,0,7,Wheat,True
+1399,190,5630,7,Wheat,0.32889684,0.23069717,0,7,Wheat,True
+1418,13,12050,6,Small grain grazing,0.24681307,0.36981425,1,9,Rooibos,False
+1418,104,90267,9,Rooibos,0.18183959,0.33336965,1,9,Rooibos,True
+1418,118,90267,9,Rooibos,0.18530655,0.31796176,1,9,Rooibos,True
+1418,119,90267,9,Rooibos,0.17138252,0.34425079,1,9,Rooibos,True
+1418,133,75155,9,Rooibos,0.18392227,0.34400872,1,9,Rooibos,True
+1418,134,75155,9,Rooibos,0.14229257,0.3640765,7,3,Fallow,False
+1418,146,33588,9,Rooibos,0.28256552,0.32967805,1,9,Rooibos,True
+1418,147,75155,9,Rooibos,0.22592898,0.31096588,1,9,Rooibos,True
+1418,161,33588,9,Rooibos,0.30014357,0.29966111,6,3,Fallow,False
+1418,188,6633,9,Rooibos,0.33131044,0.28373639,6,3,Fallow,False
+1423,4,100877,5,Weeds,0.19188798,0.30760235,1,9,Rooibos,False
+1461,83,91297,2,Planted pastures (perennial),0.57405814,0.37122005,4,6,Small grain grazing,False
+1461,97,91297,2,Planted pastures (perennial),0.64329981,0.36015251,4,6,Small grain grazing,False
+1461,111,91297,2,Planted pastures (perennial),0.64902126,0.35911766,4,6,Small grain grazing,False
+1461,125,91297,2,Planted pastures (perennial),0.57990842,0.33069718,4,6,Small grain grazing,False
+1467,61,108155,4,Wine grapes,0.29103234,0.16771969,3,5,Weeds,False
+1467,99,27936,3,Fallow,0.24981934,0.24674413,0,7,Wheat,False
+1467,114,95136,1,Lucerne/Medics,0.44242827,0.27321473,3,5,Weeds,False
+1473,49,28080,6,Small grain grazing,0.55284375,0.35981603,0,7,Wheat,False
+1473,56,12474,7,Wheat,0.28330126,0.251462,0,7,Wheat,True
+1473,102,50335,7,Wheat,0.24305442,0.26011863,6,3,Fallow,False
+1473,103,50335,7,Wheat,0.26993685,0.2647301,6,3,Fallow,False
+1473,116,50335,7,Wheat,0.25410586,0.2586904,6,3,Fallow,False
+1473,117,50335,7,Wheat,0.27061447,0.25150085,0,7,Wheat,True
+1473,144,31272,7,Wheat,0.20510978,0.29622369,0,7,Wheat,True
+1473,145,31272,7,Wheat,0.19852065,0.29570323,6,3,Fallow,False
+1473,158,31272,7,Wheat,0.23183386,0.27950861,0,7,Wheat,True
+1473,159,31272,7,Wheat,0.22559776,0.28569355,0,7,Wheat,True
+1485,84,98965,7,Wheat,0.73673954,0.34019035,4,6,Small grain grazing,False
+1485,85,98965,7,Wheat,0.69387748,0.32852821,4,6,Small grain grazing,False
+1485,99,98965,7,Wheat,0.74773023,0.34686517,4,6,Small grain grazing,False
+1485,100,14539,7,Wheat,0.58845422,0.30526508,0,7,Wheat,True
+1485,113,14539,7,Wheat,0.84604538,0.37001937,4,6,Small grain grazing,False
+1485,114,14539,7,Wheat,0.74108099,0.33836844,4,6,Small grain grazing,False
+1485,138,1174,6,Small grain grazing,0.79876343,0.30853114,4,6,Small grain grazing,True
+1485,142,33953,6,Small grain grazing,0.70857971,0.32536917,4,6,Small grain grazing,True
+1485,154,33953,6,Small grain grazing,0.48023205,0.25666782,0,7,Wheat,False
+1485,155,33953,6,Small grain grazing,0.44737834,0.22746309,0,7,Wheat,False
+1485,156,33953,6,Small grain grazing,0.53139165,0.26433068,0,7,Wheat,False
+1485,157,33953,6,Small grain grazing,0.71040659,0.29647786,4,6,Small grain grazing,True
+1485,168,33953,6,Small grain grazing,0.48840037,0.25294661,0,7,Wheat,False
+1485,169,33953,6,Small grain grazing,0.37338707,0.22836831,0,7,Wheat,False
+1485,170,33953,6,Small grain grazing,0.40977589,0.25202386,0,7,Wheat,False
+1485,171,33953,6,Small grain grazing,0.5376855,0.24765509,0,7,Wheat,False
+1485,173,41602,1,Lucerne/Medics,0.64520353,0.26069259,4,6,Small grain grazing,False
+1485,182,33953,6,Small grain grazing,0.69353539,0.29566564,4,6,Small grain grazing,True
+1485,183,33953,6,Small grain grazing,0.33261463,0.22562092,0,7,Wheat,False
+1485,184,33953,6,Small grain grazing,0.38778959,0.23867103,0,7,Wheat,False
+1485,185,33953,6,Small grain grazing,0.48532817,0.21881264,3,5,Weeds,False
+1485,187,41602,1,Lucerne/Medics,0.61515824,0.26089326,3,5,Weeds,False
+1485,188,41602,1,Lucerne/Medics,0.57877598,0.2448475,3,5,Weeds,False
+1485,192,113645,7,Wheat,0.74474058,0.30871461,4,6,Small grain grazing,False
+1497,4,46211,2,Planted pastures (perennial),0.27928878,0.335168,1,9,Rooibos,False
+1497,5,46211,2,Planted pastures (perennial),0.36291648,0.29472539,6,3,Fallow,False
+1497,6,52522,2,Planted pastures (perennial),0.30726471,0.25913313,6,3,Fallow,False
+1497,7,52522,2,Planted pastures (perennial),0.33726113,0.21424149,3,5,Weeds,False
+1497,18,46211,2,Planted pastures (perennial),0.34471183,0.29934642,6,3,Fallow,False
+1497,19,52522,2,Planted pastures (perennial),0.25586084,0.31130478,1,9,Rooibos,False
+1497,20,52522,2,Planted pastures (perennial),0.28898085,0.25945292,6,3,Fallow,False
+1497,21,52522,2,Planted pastures (perennial),0.31426129,0.25508352,6,3,Fallow,False
+1497,32,46211,2,Planted pastures (perennial),0.32738193,0.30035102,6,3,Fallow,False
+1497,33,52522,2,Planted pastures (perennial),0.31271125,0.24312516,3,5,Weeds,False
+1497,34,52522,2,Planted pastures (perennial),0.30817803,0.24791819,6,3,Fallow,False
+1497,45,85066,6,Small grain grazing,0.36757633,0.25142823,6,3,Fallow,False
+1497,59,85066,6,Small grain grazing,0.39054036,0.24978214,6,3,Fallow,False
+1497,72,85066,6,Small grain grazing,0.38178393,0.26418544,6,3,Fallow,False
+1497,73,85066,6,Small grain grazing,0.3750129,0.25623337,6,3,Fallow,False
+1497,86,85066,6,Small grain grazing,0.40152858,0.26796177,6,3,Fallow,False
+1497,100,85066,6,Small grain grazing,0.31431213,0.26292667,6,3,Fallow,False
+1497,114,85066,6,Small grain grazing,0.34863983,0.26148633,6,3,Fallow,False
+1497,128,85066,6,Small grain grazing,0.35545343,0.26000969,6,3,Fallow,False
+1497,129,85066,6,Small grain grazing,0.32677915,0.27297266,6,3,Fallow,False
+1497,137,109725,2,Planted pastures (perennial),0.41142243,0.27568386,6,3,Fallow,False
+1497,138,109725,2,Planted pastures (perennial),0.31853562,0.31994038,1,9,Rooibos,False
+1497,153,109725,2,Planted pastures (perennial),0.39249945,0.27931373,6,3,Fallow,False
+1499,1,107247,2,Planted pastures (perennial),0.40598535,0.30877194,6,3,Fallow,False
+1499,2,107247,2,Planted pastures (perennial),0.33557926,0.29451899,6,3,Fallow,False
+1499,8,88010,3,Fallow,0.32517921,0.30885221,6,3,Fallow,True
+1499,9,88010,3,Fallow,0.3376793,0.27840845,6,3,Fallow,True
+1499,10,88010,3,Fallow,0.34913227,0.27137944,6,3,Fallow,True
+1499,11,88010,3,Fallow,0.34390523,0.26824906,6,3,Fallow,True
+1499,12,88010,3,Fallow,0.30410906,0.29473685,6,3,Fallow,True
+1499,26,88010,3,Fallow,0.29052183,0.28824677,6,3,Fallow,True
+1499,36,31934,3,Fallow,0.29731328,0.25542242,6,3,Fallow,True
+1499,37,31934,3,Fallow,0.30902575,0.22673687,3,5,Weeds,False
+1499,38,31934,3,Fallow,0.30557604,0.24233842,3,5,Weeds,False
+1499,39,31934,3,Fallow,0.29574622,0.25780684,3,5,Weeds,False
+1499,40,31934,3,Fallow,0.27573922,0.24165807,3,5,Weeds,False
+1499,49,31934,3,Fallow,0.27511615,0.25072622,6,3,Fallow,True
+1499,50,31934,3,Fallow,0.29653908,0.24264101,6,3,Fallow,True
+1499,51,31934,3,Fallow,0.29752941,0.24446866,6,3,Fallow,True
+1499,52,31934,3,Fallow,0.30780545,0.24095861,3,5,Weeds,False
+1499,53,31934,3,Fallow,0.29309564,0.24738563,3,5,Weeds,False
+1499,63,31934,3,Fallow,0.31125327,0.24966111,6,3,Fallow,True
+1499,64,31934,3,Fallow,0.30572722,0.24220528,3,5,Weeds,False
+1499,65,31934,3,Fallow,0.3194902,0.23472525,3,5,Weeds,False
+1499,66,31934,3,Fallow,0.30317922,0.24084968,3,5,Weeds,False
+1499,67,31934,3,Fallow,0.30171529,0.2459332,6,3,Fallow,True
+1499,77,31934,3,Fallow,0.30540767,0.23994191,3,5,Weeds,False
+1499,78,31934,3,Fallow,0.29298758,0.23664973,3,5,Weeds,False
+1499,79,31934,3,Fallow,0.32285542,0.22872187,3,5,Weeds,False
+1499,80,31934,3,Fallow,0.30773874,0.25296539,6,3,Fallow,True
+1499,81,31934,3,Fallow,0.33236565,0.23834423,3,5,Weeds,False
+1499,91,31934,3,Fallow,0.35107458,0.27355363,6,3,Fallow,True
+1499,92,31934,3,Fallow,0.34720395,0.25804891,6,3,Fallow,True
+1499,93,31934,3,Fallow,0.36341542,0.25775842,3,5,Weeds,False
+1499,94,31934,3,Fallow,0.34728228,0.27118132,6,3,Fallow,True
+1499,95,31934,3,Fallow,0.37543616,0.27455823,6,3,Fallow,True
+1499,105,31934,3,Fallow,0.38593932,0.28776326,6,3,Fallow,True
+1499,106,31934,3,Fallow,0.37982497,0.28605665,6,3,Fallow,True
+1499,107,31934,3,Fallow,0.3642428,0.27377149,6,3,Fallow,True
+1499,108,31934,3,Fallow,0.3519301,0.27007989,6,3,Fallow,True
+1499,109,31934,3,Fallow,0.35707136,0.26722344,6,3,Fallow,True
+1499,119,31934,3,Fallow,0.37708462,0.28471315,6,3,Fallow,True
+1499,120,31934,3,Fallow,0.43139175,0.2875454,6,3,Fallow,True
+1499,121,31934,3,Fallow,0.39719642,0.28313969,6,3,Fallow,True
+1499,122,31934,3,Fallow,0.36545475,0.28692811,6,3,Fallow,True
+1499,133,31934,3,Fallow,0.39220162,0.26888163,3,5,Weeds,False
+1499,134,31934,3,Fallow,0.41562859,0.2945897,6,3,Fallow,True
+1499,135,31934,3,Fallow,0.42379268,0.29048657,6,3,Fallow,True
+1499,136,31934,3,Fallow,0.38359779,0.29647786,6,3,Fallow,True
+1499,147,31934,3,Fallow,0.38759106,0.30479304,6,3,Fallow,True
+1546,26,52487,9,Rooibos,0.34402974,0.21129458,6,3,Fallow,False
+1546,70,7009,9,Rooibos,0.31069131,0.2086458,6,3,Fallow,False
+1546,84,7009,9,Rooibos,0.29644704,0.21181058,6,3,Fallow,False
+1546,85,7009,9,Rooibos,0.34437534,0.20532559,3,5,Weeds,False
+1579,70,115177,7,Wheat,0.2723392,0.44999427,2,7,Wheat,True
+1579,80,16666,7,Wheat,0.29774922,0.41218834,2,7,Wheat,True
+1579,81,16666,7,Wheat,0.20548163,0.47530864,2,7,Wheat,True
+1579,82,16666,7,Wheat,0.20207284,0.4715629,2,7,Wheat,True
+1579,83,16666,7,Wheat,0.19237315,0.46674292,7,3,Fallow,False
+1579,84,115177,7,Wheat,0.32547209,0.44441005,2,7,Wheat,True
+1579,94,16666,7,Wheat,0.21162478,0.4607238,2,7,Wheat,True
+1579,95,16666,7,Wheat,0.2015358,0.46715081,2,7,Wheat,True
+1579,96,16666,7,Wheat,0.16654832,0.44557964,7,3,Fallow,False
+1579,97,16666,7,Wheat,0.18127032,0.46651417,2,7,Wheat,True
+1579,98,115177,7,Wheat,0.36153769,0.43798877,2,7,Wheat,True
+1579,110,16666,7,Wheat,0.1518835,0.43743837,7,3,Fallow,False
+1579,111,16666,7,Wheat,0.16981221,0.45898693,2,7,Wheat,True
+1594,12,103840,8,Canola,0.2922968,0.25835643,0,7,Wheat,False
+1594,13,103840,8,Canola,0.34205202,0.23803922,0,7,Wheat,False
+1627,25,117159,2,Planted pastures (perennial),0.55273935,0.27166547,0,7,Wheat,False
+1627,26,117159,2,Planted pastures (perennial),0.48662951,0.27217063,6,3,Fallow,False
+1627,140,23310,2,Planted pastures (perennial),0.43067151,0.27843138,6,3,Fallow,False
+1627,192,19968,7,Wheat,0.39809946,0.27752725,0,7,Wheat,True
+1655,28,29780,4,Wine grapes,0.18784852,0.31229218,1,9,Rooibos,False
+1655,177,46522,4,Wine grapes,0.58417811,0.15409931,3,5,Weeds,False
+1688,3,95894,4,Wine grapes,0.33649362,0.18503612,3,5,Weeds,False
+1708,112,84530,5,Weeds,0.39855026,0.28309827,6,3,Fallow,False
+1708,113,84530,5,Weeds,0.37659427,0.32363835,6,3,Fallow,False
+1708,114,84530,5,Weeds,0.3417055,0.32490923,6,3,Fallow,False
+1708,127,84530,5,Weeds,0.34530378,0.35988865,1,9,Rooibos,False
+1708,128,84530,5,Weeds,0.45618322,0.37536917,6,3,Fallow,False
+1708,165,110814,6,Small grain grazing,0.35677983,0.27205278,6,3,Fallow,False
+1708,176,110814,6,Small grain grazing,0.29466057,0.2808623,6,3,Fallow,False
+1708,177,110814,6,Small grain grazing,0.34544569,0.26445363,6,3,Fallow,False
+1708,178,110814,6,Small grain grazing,0.38867695,0.27744526,6,3,Fallow,False
+1708,192,110814,6,Small grain grazing,0.30108996,0.27736385,6,3,Fallow,False
+1736,8,63989,6,Small grain grazing,0.16961936,0.35712648,1,9,Rooibos,False
+1736,11,19276,3,Fallow,0.18670988,0.33345948,6,3,Fallow,True
+1736,22,63989,6,Small grain grazing,0.18026252,0.36197048,1,9,Rooibos,False
+1736,54,49175,3,Fallow,0.17387323,0.4127623,7,3,Fallow,True
+1736,68,49175,3,Fallow,0.15146891,0.3967435,7,3,Fallow,True
+1746,23,10141,5,Weeds,0.1037468,0.48403535,7,3,Fallow,False
+1746,24,10141,5,Weeds,0.11767015,0.46252724,7,3,Fallow,False
+1746,25,10141,5,Weeds,0.33826026,0.45228759,2,7,Wheat,False
+1746,37,10141,5,Weeds,0.13240601,0.47290003,7,3,Fallow,False
+1746,38,10141,5,Weeds,0.17757939,0.47587752,7,3,Fallow,False
+1746,39,10141,5,Weeds,0.42748869,0.4627572,2,7,Wheat,False
+1746,51,10141,5,Weeds,0.26394383,0.47022513,2,7,Wheat,False
+1746,52,10141,5,Weeds,0.22757045,0.47671266,2,7,Wheat,False
+1746,80,91789,2,Planted pastures (perennial),0.36099484,0.36751393,6,3,Fallow,False
+1746,81,91789,2,Planted pastures (perennial),0.46095855,0.36623094,6,3,Fallow,False
+1746,94,91789,2,Planted pastures (perennial),0.384702,0.36470589,6,3,Fallow,False
+1746,95,91789,2,Planted pastures (perennial),0.41576713,0.36120795,6,3,Fallow,False
+1746,96,91789,2,Planted pastures (perennial),0.48520694,0.3681688,6,3,Fallow,False
+1746,194,111476,1,Lucerne/Medics,0.44173039,0.36195047,6,3,Fallow,False
+1747,20,27835,9,Rooibos,0.37025003,0.16868797,3,5,Weeds,False
+1747,21,27835,9,Rooibos,0.30051099,0.19345195,3,5,Weeds,False
+1747,34,27835,9,Rooibos,0.37350552,0.16284193,3,5,Weeds,False
+1747,35,27835,9,Rooibos,0.3181094,0.17480029,3,5,Weeds,False
+1747,165,74211,9,Rooibos,0.20131283,0.33313968,1,9,Rooibos,True
+1747,166,74211,9,Rooibos,0.32334584,0.25395024,6,3,Fallow,False
+1747,178,74211,9,Rooibos,0.20192149,0.32867791,1,9,Rooibos,True
+1747,179,74211,9,Rooibos,0.18136351,0.3471735,1,9,Rooibos,True
+1747,180,74211,9,Rooibos,0.21680117,0.32657651,1,9,Rooibos,True
+1747,192,74211,9,Rooibos,0.18385245,0.31273421,1,9,Rooibos,True
+1747,193,74211,9,Rooibos,0.17003909,0.36637256,1,9,Rooibos,True
+1747,194,74211,9,Rooibos,0.18720806,0.34329206,1,9,Rooibos,True
+1747,195,74211,9,Rooibos,0.1965475,0.33859805,1,9,Rooibos,True
+1808,22,108537,9,Rooibos,0.1594974,0.27901235,1,9,Rooibos,True
+1808,37,108537,9,Rooibos,0.17084258,0.24740984,1,9,Rooibos,True
+1808,52,108537,9,Rooibos,0.16852633,0.29656258,1,9,Rooibos,True
+1808,67,108537,9,Rooibos,0.19238687,0.37743888,1,9,Rooibos,True
+1832,66,77575,7,Wheat,0.7133831,0.37666425,4,6,Small grain grazing,False
+1832,79,89017,7,Wheat,0.28500665,0.35246914,2,7,Wheat,True
+1832,80,89017,7,Wheat,0.40245084,0.3476156,2,7,Wheat,True
+1832,92,89017,7,Wheat,0.47003697,0.37647059,2,7,Wheat,True
+1832,93,89017,7,Wheat,0.36497567,0.38215929,2,7,Wheat,True
+1832,94,89017,7,Wheat,0.34282092,0.35335271,2,7,Wheat,True
+1832,95,89017,7,Wheat,0.4468613,0.35337692,0,7,Wheat,True
+1832,96,89017,7,Wheat,0.48093095,0.34186447,0,7,Wheat,True
+1832,107,89017,7,Wheat,0.44992132,0.38143307,2,7,Wheat,True
+1832,108,89017,7,Wheat,0.44087618,0.38485839,2,7,Wheat,True
+1832,110,89017,7,Wheat,0.53142695,0.38290334,0,7,Wheat,True
+1832,111,89017,7,Wheat,0.56560292,0.36947713,0,7,Wheat,True
+1832,120,82754,3,Fallow,0.52237738,0.35711693,0,7,Wheat,False
+1832,125,89017,7,Wheat,0.64755465,0.4045316,4,6,Small grain grazing,False
+1832,168,62639,1,Lucerne/Medics,0.65274672,0.36597687,4,6,Small grain grazing,False
+1832,182,62639,1,Lucerne/Medics,0.71864324,0.35642932,4,6,Small grain grazing,False
+1839,1,34866,3,Fallow,0.42170252,0.35348011,6,3,Fallow,True
+1839,2,34866,3,Fallow,0.41238586,0.31905746,6,3,Fallow,True
+1839,3,34866,3,Fallow,0.34341418,0.31711961,6,3,Fallow,True
+1839,4,34866,3,Fallow,0.26138461,0.2935214,6,3,Fallow,True
+1839,5,34866,3,Fallow,0.2701386,0.28180256,6,3,Fallow,True
+1839,16,34866,3,Fallow,0.42653315,0.32421933,6,3,Fallow,True
+1839,17,34866,3,Fallow,0.38215685,0.31152264,6,3,Fallow,True
+1839,18,34866,3,Fallow,0.34695254,0.29334303,6,3,Fallow,True
+1839,20,79647,3,Fallow,0.19365097,0.28483419,6,3,Fallow,True
+1839,21,79647,3,Fallow,0.26075836,0.30116196,1,9,Rooibos,False
+1839,30,34866,3,Fallow,0.45649285,0.33806585,6,3,Fallow,True
+1839,33,79647,3,Fallow,0.16990414,0.27022514,6,3,Fallow,True
+1839,34,79647,3,Fallow,0.17238906,0.27342049,6,3,Fallow,True
+1839,35,79647,3,Fallow,0.33908011,0.31614622,6,3,Fallow,True
+1839,46,79647,3,Fallow,0.26934631,0.30769791,6,3,Fallow,True
+1839,47,79647,3,Fallow,0.16745241,0.27351732,6,3,Fallow,True
+1839,48,79647,3,Fallow,0.1758121,0.26902688,6,3,Fallow,True
+1839,49,79647,3,Fallow,0.26171064,0.29306464,6,3,Fallow,True
+1839,60,79647,3,Fallow,0.28283512,0.32207699,6,3,Fallow,True
+1839,61,79647,3,Fallow,0.16274988,0.29186639,6,3,Fallow,True
+1839,62,79647,3,Fallow,0.16779424,0.27436457,6,3,Fallow,True
+1839,63,79647,3,Fallow,0.20179281,0.26716293,6,3,Fallow,True
+1839,74,79647,3,Fallow,0.29917217,0.32371098,6,3,Fallow,True
+1839,75,79647,3,Fallow,0.17541076,0.28246189,6,3,Fallow,True
+1839,76,79647,3,Fallow,0.16288369,0.28421691,6,3,Fallow,True
+1839,88,79647,3,Fallow,0.29641514,0.32826193,6,3,Fallow,True
+1839,89,79647,3,Fallow,0.1892202,0.28646818,6,3,Fallow,True
+1839,90,79647,3,Fallow,0.16485822,0.2784798,6,3,Fallow,True
+1839,102,79647,3,Fallow,0.29200613,0.32064876,6,3,Fallow,True
+1839,103,79647,3,Fallow,0.20073723,0.30585816,6,3,Fallow,True
+1839,167,27598,3,Fallow,0.30791808,0.30948803,6,3,Fallow,True
+1839,180,31137,3,Fallow,0.41426598,0.38601923,6,3,Fallow,True
+1839,181,31137,3,Fallow,0.41350779,0.37620228,6,3,Fallow,True
+1839,194,31137,3,Fallow,0.32000886,0.37153768,0,7,Wheat,False
+1839,195,31137,3,Fallow,0.25718097,0.36068628,6,3,Fallow,True
+1857,43,54444,5,Weeds,0.20698029,0.35346164,5,5,Weeds,True
+1857,44,54444,5,Weeds,0.19937837,0.37542969,5,5,Weeds,True
+1857,57,54444,5,Weeds,0.20643709,0.35085936,5,5,Weeds,True
+1857,58,54444,5,Weeds,0.20291029,0.36583153,5,5,Weeds,True
+1857,64,18679,5,Weeds,0.19215588,0.32239168,1,9,Rooibos,False
+1857,65,18679,5,Weeds,0.19582689,0.35061729,1,9,Rooibos,False
+1857,78,18679,5,Weeds,0.17265945,0.36258776,7,3,Fallow,False
+1857,79,18679,5,Weeds,0.22596728,0.32477609,1,9,Rooibos,False
+1857,90,114655,5,Weeds,0.15300354,0.29312516,1,9,Rooibos,False
+1857,91,114655,5,Weeds,0.10914368,0.35411524,7,3,Fallow,False
+1857,132,10954,3,Fallow,0.19427534,0.40445413,7,3,Fallow,True
+1857,145,10954,3,Fallow,0.1679071,0.35089568,7,3,Fallow,True
+1857,146,10954,3,Fallow,0.16867519,0.29634472,1,9,Rooibos,False
+1920,6,2883,7,Wheat,0.0,0.0,8,2,Planted pastures (perennial),False
+1920,8,82307,4,Wine grapes,0.0,0.0,8,2,Planted pastures (perennial),False
+1920,9,82307,4,Wine grapes,0.0,0.0,8,2,Planted pastures (perennial),False
+1920,22,97609,4,Wine grapes,0.0,0.0,8,2,Planted pastures (perennial),False
+1920,34,25150,4,Wine grapes,0.0,0.0,8,2,Planted pastures (perennial),False
+1920,36,97609,4,Wine grapes,0.0,0.0,8,2,Planted pastures (perennial),False
+1920,50,79817,4,Wine grapes,0.0,0.0,8,2,Planted pastures (perennial),False
+1920,109,56898,4,Wine grapes,0.0,0.0,8,2,Planted pastures (perennial),False
+1920,150,28411,4,Wine grapes,0.0,0.0,8,2,Planted pastures (perennial),False
+1920,164,28411,4,Wine grapes,0.0,0.0,8,2,Planted pastures (perennial),False
+1920,180,34120,2,Planted pastures (perennial),0.0,0.0,8,2,Planted pastures (perennial),True
+1920,193,34120,2,Planted pastures (perennial),0.0,0.0,8,2,Planted pastures (perennial),True
+1920,194,34120,2,Planted pastures (perennial),0.0,0.0,8,2,Planted pastures (perennial),True
+1955,130,29629,5,Weeds,0.27050756,0.14708304,3,5,Weeds,True
+1965,141,110760,2,Planted pastures (perennial),0.24639163,0.38369645,2,7,Wheat,False
+1965,155,110760,2,Planted pastures (perennial),0.17097487,0.33715808,2,7,Wheat,False
+1965,156,110760,2,Planted pastures (perennial),0.17158047,0.36784072,7,3,Fallow,False
+1965,168,110760,2,Planted pastures (perennial),0.3080726,0.352083,2,7,Wheat,False
+1965,169,110760,2,Planted pastures (perennial),0.2958402,0.31081299,2,7,Wheat,False
+1965,170,110760,2,Planted pastures (perennial),0.20359736,0.33351681,2,7,Wheat,False
+1965,183,110760,2,Planted pastures (perennial),0.50162013,0.27789761,0,7,Wheat,False
+1965,184,110760,2,Planted pastures (perennial),0.22160322,0.30435731,2,7,Wheat,False
+1978,4,26741,7,Wheat,0.3101754,0.25816994,0,7,Wheat,True
+1978,5,26741,7,Wheat,0.31335225,0.26373123,0,7,Wheat,True
+1978,6,26741,7,Wheat,0.35803423,0.26634561,0,7,Wheat,True
+1978,11,30068,7,Wheat,0.29550579,0.24509805,0,7,Wheat,True
+1978,14,76783,1,Lucerne/Medics,0.27559409,0.22578833,0,7,Wheat,False
+1978,15,76783,1,Lucerne/Medics,0.28995419,0.20478093,0,7,Wheat,False
+1978,17,36561,6,Small grain grazing,0.34485957,0.20026628,0,7,Wheat,False
+1978,19,26741,7,Wheat,0.38063716,0.22400145,0,7,Wheat,True
+1978,20,26741,7,Wheat,0.36753317,0.22492133,0,7,Wheat,True
+1978,21,26741,7,Wheat,0.35886661,0.23842896,0,7,Wheat,True
+1978,24,30068,7,Wheat,0.28434537,0.21013072,0,7,Wheat,True
+1978,25,30068,7,Wheat,0.3356247,0.24932221,0,7,Wheat,True
+1978,28,76783,1,Lucerne/Medics,0.2523779,0.1956771,0,7,Wheat,False
+1978,29,76783,1,Lucerne/Medics,0.30831105,0.20326798,0,7,Wheat,False
+1978,31,36561,6,Small grain grazing,0.24914629,0.18528202,6,3,Fallow,False
+1978,32,36561,6,Small grain grazing,0.28646487,0.19406924,0,7,Wheat,False
+1978,33,26741,7,Wheat,0.36974658,0.2023481,0,7,Wheat,True
+1978,34,26741,7,Wheat,0.39613315,0.2123941,0,7,Wheat,True
+1978,35,26741,7,Wheat,0.4056082,0.21636408,0,7,Wheat,True
+1978,39,30068,7,Wheat,0.3528005,0.22706367,0,7,Wheat,True
+1978,44,11729,5,Weeds,0.51298287,0.244275,0,7,Wheat,False
+1978,46,36561,6,Small grain grazing,0.28711268,0.19380296,0,7,Wheat,False
+1978,48,26741,7,Wheat,0.32923089,0.21459695,0,7,Wheat,True
+1978,49,26741,7,Wheat,0.37018119,0.21972888,0,7,Wheat,True
+1978,53,30068,7,Wheat,0.44224119,0.21154684,0,7,Wheat,True
+1978,58,11729,5,Weeds,0.5120264,0.26384654,0,7,Wheat,False
+1978,62,26741,7,Wheat,0.4003449,0.20894457,0,7,Wheat,True
+1978,63,26741,7,Wheat,0.34744849,0.19599371,0,7,Wheat,True
+1978,89,102058,7,Wheat,0.50682493,0.25795207,0,7,Wheat,True
+1978,90,102058,7,Wheat,0.42470648,0.27316632,0,7,Wheat,True
+1978,96,38259,6,Small grain grazing,0.23631437,0.19332646,6,3,Fallow,False
+1978,97,38259,6,Small grain grazing,0.24046403,0.18801743,6,3,Fallow,False
+1978,103,102058,7,Wheat,0.53693137,0.24822078,0,7,Wheat,True
+1978,105,90435,7,Wheat,0.35465186,0.25066571,0,7,Wheat,True
+1978,117,90435,7,Wheat,0.4091518,0.23343017,0,7,Wheat,True
+1978,118,90435,7,Wheat,0.32878268,0.2204672,0,7,Wheat,True
+1978,119,90435,7,Wheat,0.29747757,0.2167635,0,7,Wheat,True
+1978,130,90435,7,Wheat,0.37362035,0.22833455,0,7,Wheat,True
+1978,131,90435,7,Wheat,0.28310655,0.22297265,0,7,Wheat,True
+1978,165,22518,7,Wheat,0.31797229,0.2442871,0,7,Wheat,True
+1978,166,22518,7,Wheat,0.33841765,0.25110653,0,7,Wheat,True
+1978,167,22518,7,Wheat,0.3617221,0.25357299,0,7,Wheat,True
+1978,180,22518,7,Wheat,0.36075797,0.24958993,0,7,Wheat,True
+1978,181,22518,7,Wheat,0.37755929,0.25004129,0,7,Wheat,True
+1978,185,14635,7,Wheat,0.28786162,0.28523966,0,7,Wheat,True
+1978,186,14635,7,Wheat,0.27427262,0.28166668,0,7,Wheat,True
+1983,11,20925,3,Fallow,0.20579405,0.24647404,6,3,Fallow,True
+2026,37,100159,5,Weeds,0.26790392,0.31945051,1,9,Rooibos,False
+2026,51,100159,5,Weeds,0.28705401,0.27069718,6,3,Fallow,False
+2026,85,112587,3,Fallow,0.41672988,0.34446866,6,3,Fallow,True
+2026,86,112587,3,Fallow,0.3231266,0.37902446,1,9,Rooibos,False
+2026,87,112587,3,Fallow,0.32124992,0.38290971,1,9,Rooibos,False
+2026,88,112587,3,Fallow,0.31251322,0.38157832,1,9,Rooibos,False
+2026,89,112587,3,Fallow,0.27152262,0.39216897,1,9,Rooibos,False
+2026,91,107903,5,Weeds,0.30483075,0.37090294,1,9,Rooibos,False
+2026,92,107903,5,Weeds,0.1960764,0.42325103,7,3,Fallow,False
+2026,103,112587,3,Fallow,0.3661439,0.35503511,1,9,Rooibos,False
+2026,132,112999,5,Weeds,0.33057062,0.34544905,1,9,Rooibos,False
+2026,133,112999,5,Weeds,0.22344747,0.4013193,7,3,Fallow,False
+2026,147,112999,5,Weeds,0.24889825,0.34772453,1,9,Rooibos,False
+2035,133,70476,7,Wheat,0.63555065,0.22552651,3,5,Weeds,False
+2035,134,70476,7,Wheat,0.6127166,0.22236747,3,5,Weeds,False
+2035,163,58561,6,Small grain grazing,0.68882145,0.42377149,4,6,Small grain grazing,True
+2035,164,58561,6,Small grain grazing,0.75629561,0.44472283,4,6,Small grain grazing,True
+2035,165,58561,6,Small grain grazing,0.74984087,0.41077222,4,6,Small grain grazing,True
+2042,2,43008,7,Wheat,0.20562053,0.44851508,2,7,Wheat,True
+2042,17,112501,2,Planted pastures (perennial),0.23374514,0.42438877,2,7,Wheat,False
+2042,31,112501,2,Planted pastures (perennial),0.21768967,0.42217381,2,7,Wheat,False
+2042,179,34585,6,Small grain grazing,0.35365994,0.21400069,6,3,Fallow,False
+2042,192,34585,6,Small grain grazing,0.35555184,0.22075164,6,3,Fallow,False
+2042,193,34585,6,Small grain grazing,0.35547797,0.25572985,0,7,Wheat,False
+2077,98,83071,9,Rooibos,0.21918942,0.28369454,6,3,Fallow,False
+2077,112,83071,9,Rooibos,0.22859113,0.31294577,1,9,Rooibos,True
+2084,154,70597,7,Wheat,0.21002989,0.29865842,2,7,Wheat,True
+2084,168,70597,7,Wheat,0.22548664,0.35939385,2,7,Wheat,True
+2084,182,70597,7,Wheat,0.22694237,0.40023737,2,7,Wheat,True
+2084,184,70597,7,Wheat,0.29196788,0.26641613,0,7,Wheat,True
+2093,181,83153,3,Fallow,0.25782396,0.25509805,6,3,Fallow,True
+2093,188,53087,3,Fallow,0.21200063,0.25912855,6,3,Fallow,True
+2093,192,83153,3,Fallow,0.19429153,0.29031592,1,9,Rooibos,False
+2093,193,83153,3,Fallow,0.22070363,0.28216777,6,3,Fallow,True
+2132,14,113643,5,Weeds,0.24287055,0.24307993,3,5,Weeds,True
+2132,28,113643,5,Weeds,0.24916799,0.24625617,3,5,Weeds,True
+2132,29,113643,5,Weeds,0.2360833,0.24419028,3,5,Weeds,True
+2132,42,113643,5,Weeds,0.24857853,0.25151933,3,5,Weeds,True
+2132,43,113643,5,Weeds,0.24018622,0.25106513,3,5,Weeds,True
+2132,56,113643,5,Weeds,0.2572823,0.28067883,6,3,Fallow,False
+2161,124,15848,9,Rooibos,0.17960856,0.35102627,6,3,Fallow,False
+2161,125,15848,9,Rooibos,0.22252395,0.33407408,6,3,Fallow,False
+2161,133,104303,6,Small grain grazing,0.18879714,0.3120552,1,9,Rooibos,False
+2161,138,15848,9,Rooibos,0.21321448,0.3050797,3,5,Weeds,False
+2192,183,56991,6,Small grain grazing,0.30702282,0.19370371,0,7,Wheat,False
+2211,0,78103,9,Rooibos,0.20357085,0.23449026,6,3,Fallow,False
+2211,1,78103,9,Rooibos,0.1431263,0.31027406,7,3,Fallow,False
+2211,14,78103,9,Rooibos,0.2119667,0.27142531,6,3,Fallow,False
+2211,15,78103,9,Rooibos,0.17933874,0.27018882,1,9,Rooibos,True
+2211,28,78103,9,Rooibos,0.19729372,0.30792341,6,3,Fallow,False
+2211,29,78103,9,Rooibos,0.21114739,0.29670783,6,3,Fallow,False
+2211,43,78103,9,Rooibos,0.21414725,0.30481725,6,3,Fallow,False
+2211,44,78103,9,Rooibos,0.21235935,0.29725249,6,3,Fallow,False
+2211,58,78103,9,Rooibos,0.22248371,0.28111839,6,3,Fallow,False
+2211,59,78103,9,Rooibos,0.22154779,0.2878722,6,3,Fallow,False
+2211,72,78103,9,Rooibos,0.19079058,0.30237232,6,3,Fallow,False
+2211,73,78103,9,Rooibos,0.23225679,0.28986929,6,3,Fallow,False
+2212,0,28034,7,Wheat,0.30279832,0.33323558,0,7,Wheat,True
+2212,1,28034,7,Wheat,0.28034193,0.33550053,0,7,Wheat,True
+2212,2,28034,7,Wheat,0.27954147,0.31607615,0,7,Wheat,True
+2212,3,27429,7,Wheat,0.34579305,0.32709553,0,7,Wheat,True
+2212,8,25909,2,Planted pastures (perennial),0.38312037,0.3383213,6,3,Fallow,False
+2212,9,25909,2,Planted pastures (perennial),0.38304555,0.33524826,6,3,Fallow,False
+2212,10,25909,2,Planted pastures (perennial),0.44594342,0.34529298,0,7,Wheat,False
+2212,14,28034,7,Wheat,0.28508123,0.33470933,2,7,Wheat,True
+2212,15,28034,7,Wheat,0.28814763,0.31825225,0,7,Wheat,True
+2212,16,28034,7,Wheat,0.27291954,0.32939967,2,7,Wheat,True
+2212,17,27429,7,Wheat,0.35216706,0.32856452,0,7,Wheat,True
+2212,18,27429,7,Wheat,0.37498444,0.32083032,0,7,Wheat,True
+2212,22,25909,2,Planted pastures (perennial),0.57425578,0.336565,0,7,Wheat,False
+2212,23,25909,2,Planted pastures (perennial),0.5353369,0.33067055,0,7,Wheat,False
+2212,28,28034,7,Wheat,0.2684424,0.33767917,2,7,Wheat,True
+2212,29,28034,7,Wheat,0.26195591,0.34000243,2,7,Wheat,True
+2212,30,28034,7,Wheat,0.25318805,0.31381023,2,7,Wheat,True
+2212,43,28034,7,Wheat,0.28882111,0.29691359,0,7,Wheat,True
+2212,72,62518,6,Small grain grazing,0.38919694,0.28871945,0,7,Wheat,False
+2212,73,62518,6,Small grain grazing,0.40583289,0.29295571,0,7,Wheat,False
+2212,75,5322,3,Fallow,0.39090253,0.22775357,6,3,Fallow,True
+2212,76,5322,3,Fallow,0.41592144,0.25458727,0,7,Wheat,False
+2212,86,62518,6,Small grain grazing,0.38832437,0.28563303,0,7,Wheat,False
+2212,87,62518,6,Small grain grazing,0.41763533,0.29368193,0,7,Wheat,False
+2212,89,5322,3,Fallow,0.45504476,0.24174534,6,3,Fallow,True
+2212,90,5322,3,Fallow,0.45372331,0.2369039,0,7,Wheat,False
+2212,91,5322,3,Fallow,0.37624031,0.23807795,6,3,Fallow,True
+2212,101,62518,6,Small grain grazing,0.43812276,0.29561851,0,7,Wheat,False
+2212,103,5322,3,Fallow,0.49049338,0.25844833,6,3,Fallow,True
+2212,104,5322,3,Fallow,0.48420477,0.24566691,0,7,Wheat,False
+2212,105,5322,3,Fallow,0.37007861,0.2493101,6,3,Fallow,True
+2212,117,5322,3,Fallow,0.48441547,0.26499638,6,3,Fallow,True
+2212,118,5322,3,Fallow,0.46258233,0.25585816,0,7,Wheat,False
+2212,119,5322,3,Fallow,0.3633266,0.2566812,6,3,Fallow,True
+2212,131,5322,3,Fallow,0.42498047,0.26358026,6,3,Fallow,True
+2212,132,5322,3,Fallow,0.33527282,0.26817963,6,3,Fallow,True
+2237,21,22168,7,Wheat,0.33116705,0.26108692,0,7,Wheat,True
+2237,35,22168,7,Wheat,0.33340581,0.26995886,0,7,Wheat,True
+2237,50,22168,7,Wheat,0.29013759,0.26108691,0,7,Wheat,True
+2237,52,36374,5,Weeds,0.43444595,0.32929074,6,3,Fallow,False
+2237,53,36374,5,Weeds,0.49031009,0.3590414,0,7,Wheat,False
+2237,54,36374,5,Weeds,0.49119431,0.34998281,0,7,Wheat,False
+2237,57,85760,7,Wheat,0.2587112,0.28499154,6,3,Fallow,False
+2237,66,36374,5,Weeds,0.44362887,0.32731785,6,3,Fallow,False
+2237,67,36374,5,Weeds,0.47571637,0.34648996,6,3,Fallow,False
+2237,68,36374,5,Weeds,0.43950439,0.33781677,6,3,Fallow,False
+2237,69,31182,6,Small grain grazing,0.15657116,0.24869282,6,3,Fallow,False
+2237,72,85760,7,Wheat,0.30329206,0.24178166,6,3,Fallow,False
+2237,79,36374,5,Weeds,0.43220921,0.31825225,6,3,Fallow,False
+2237,80,36374,5,Weeds,0.42811512,0.32576859,6,3,Fallow,False
+2237,81,36374,5,Weeds,0.45829955,0.33443477,6,3,Fallow,False
+2237,83,31182,6,Small grain grazing,0.14010498,0.24076253,6,3,Fallow,False
+2237,87,85760,7,Wheat,0.28693099,0.22759623,6,3,Fallow,False
+2237,88,85760,7,Wheat,0.35957592,0.28733964,0,7,Wheat,True
+2237,97,31182,6,Small grain grazing,0.21963924,0.24931373,6,3,Fallow,False
+2237,102,85760,7,Wheat,0.22780775,0.26282983,6,3,Fallow,False
+2237,103,85760,7,Wheat,0.28001577,0.25625757,6,3,Fallow,False
+2237,107,14779,7,Wheat,0.28124776,0.27835876,0,7,Wheat,True
+2237,108,14779,7,Wheat,0.24290823,0.25922296,0,7,Wheat,True
+2237,109,14779,7,Wheat,0.21499224,0.24216897,0,7,Wheat,True
+2237,121,14779,7,Wheat,0.31074562,0.28974826,0,7,Wheat,True
+2237,122,14779,7,Wheat,0.20847381,0.25541032,6,3,Fallow,False
+2237,123,14779,7,Wheat,0.21098559,0.24883806,6,3,Fallow,False
+2237,124,14779,7,Wheat,0.21337019,0.24361886,0,7,Wheat,True
+2237,177,59780,7,Wheat,0.27672012,0.24102741,6,3,Fallow,False
+2237,178,59780,7,Wheat,0.26678331,0.24083248,6,3,Fallow,False
+2237,191,59780,7,Wheat,0.29921431,0.2437146,6,3,Fallow,False
+2237,192,59780,7,Wheat,0.26971281,0.23456427,6,3,Fallow,False
+2237,193,59780,7,Wheat,0.25941463,0.22711329,6,3,Fallow,False
+2237,194,59780,7,Wheat,0.27140246,0.23029928,6,3,Fallow,False
+2265,78,52623,7,Wheat,0.46777226,0.28574196,0,7,Wheat,True
+2265,108,62123,7,Wheat,0.35540653,0.25843622,6,3,Fallow,False
+2265,120,77136,7,Wheat,0.31200417,0.25246914,6,3,Fallow,False
+2265,123,62123,7,Wheat,0.33947718,0.27214961,6,3,Fallow,False
+2265,134,77136,7,Wheat,0.32503641,0.25793998,6,3,Fallow,False
+2265,135,77136,7,Wheat,0.36509073,0.2600218,6,3,Fallow,False
+2265,148,77136,7,Wheat,0.39756808,0.25301381,6,3,Fallow,False
+2265,149,77136,7,Wheat,0.33583305,0.25470831,6,3,Fallow,False
+2288,0,2851,7,Wheat,0.87818402,0.44188802,4,6,Small grain grazing,False
+2288,1,2851,7,Wheat,0.89415988,0.4603142,4,6,Small grain grazing,False
+2295,27,95971,5,Weeds,0.46486185,0.36636166,0,7,Wheat,False
+2295,38,95971,5,Weeds,0.53556823,0.37948439,0,7,Wheat,False
+2295,39,95971,5,Weeds,0.53866269,0.3905713,0,7,Wheat,False
+2295,40,95971,5,Weeds,0.51484521,0.38642358,0,7,Wheat,False
+2295,41,95971,5,Weeds,0.34219265,0.37519609,6,3,Fallow,False
+2295,51,95971,5,Weeds,0.46747251,0.37731785,0,7,Wheat,False
+2295,52,95971,5,Weeds,0.41936453,0.39354878,2,7,Wheat,False
+2295,53,95971,5,Weeds,0.5508803,0.40027839,0,7,Wheat,False
+2295,54,95971,5,Weeds,0.4912504,0.38317854,0,7,Wheat,False
+2295,55,95971,5,Weeds,0.38606976,0.38293029,6,3,Fallow,False
+2295,64,95971,5,Weeds,0.57643549,0.38098524,4,6,Small grain grazing,False
+2295,65,95971,5,Weeds,0.56553632,0.40308643,4,6,Small grain grazing,False
+2295,78,12461,2,Planted pastures (perennial),0.51981316,0.37576859,0,7,Wheat,False
+2295,79,12461,2,Planted pastures (perennial),0.52292704,0.35839991,0,7,Wheat,False
+2295,80,12461,2,Planted pastures (perennial),0.56343088,0.35193659,4,6,Small grain grazing,False
+2295,89,12461,2,Planted pastures (perennial),0.45376237,0.39862019,2,7,Wheat,False
+2295,90,12461,2,Planted pastures (perennial),0.50833531,0.38133625,0,7,Wheat,False
+2295,91,12461,2,Planted pastures (perennial),0.53018323,0.37973857,0,7,Wheat,False
+2295,92,12461,2,Planted pastures (perennial),0.55817584,0.35990076,0,7,Wheat,False
+2295,93,12461,2,Planted pastures (perennial),0.52571183,0.33678287,0,7,Wheat,False
+2295,102,12461,2,Planted pastures (perennial),0.49381348,0.41069959,2,7,Wheat,False
+2295,103,12461,2,Planted pastures (perennial),0.5226934,0.39456549,0,7,Wheat,False
+2295,104,12461,2,Planted pastures (perennial),0.52680458,0.38833213,0,7,Wheat,False
+2295,105,12461,2,Planted pastures (perennial),0.56688822,0.35894457,0,7,Wheat,False
+2295,106,12461,2,Planted pastures (perennial),0.57618913,0.35907771,4,6,Small grain grazing,False
+2295,116,12461,2,Planted pastures (perennial),0.49701726,0.39904382,2,7,Wheat,False
+2295,117,12461,2,Planted pastures (perennial),0.54642311,0.36463327,0,7,Wheat,False
+2295,118,12461,2,Planted pastures (perennial),0.48306901,0.40261438,2,7,Wheat,False
+2295,119,12461,2,Planted pastures (perennial),0.64074291,0.3687606,4,6,Small grain grazing,False
+2295,120,12461,2,Planted pastures (perennial),0.66579952,0.37726943,4,6,Small grain grazing,False
+2295,188,42482,7,Wheat,0.70269029,0.44456427,4,6,Small grain grazing,False
+2295,189,42482,7,Wheat,0.67916446,0.43918301,4,6,Small grain grazing,False
+2295,190,42482,7,Wheat,0.61472978,0.42988018,4,6,Small grain grazing,False
+2295,191,42482,7,Wheat,0.46599049,0.43002179,2,7,Wheat,True
+2295,193,42482,7,Wheat,0.5410593,0.42980393,0,7,Wheat,True
+2313,131,19333,5,Weeds,0.09374385,0.35474462,1,9,Rooibos,False
+2313,145,19333,5,Weeds,0.11251732,0.28123942,1,9,Rooibos,False
+2313,158,19333,5,Weeds,0.12428368,0.28023482,1,9,Rooibos,False
+2313,159,19333,5,Weeds,0.12313146,0.32457033,1,9,Rooibos,False
+2313,163,30765,3,Fallow,0.10804999,0.31097798,1,9,Rooibos,False
+2313,164,30765,3,Fallow,0.1185959,0.30740742,1,9,Rooibos,False
+2313,172,19333,5,Weeds,0.12664562,0.28269695,1,9,Rooibos,False
+2313,177,30765,3,Fallow,0.14736571,0.29983947,6,3,Fallow,True
+2313,178,30765,3,Fallow,0.14345859,0.30697169,6,3,Fallow,True
+2313,186,19333,5,Weeds,0.1341384,0.2555011,3,5,Weeds,True
+2356,30,48280,2,Planted pastures (perennial),0.33769937,0.17458243,3,5,Weeds,False
+2356,42,48280,2,Planted pastures (perennial),0.30304367,0.19354432,3,5,Weeds,False
+2356,43,48280,2,Planted pastures (perennial),0.31758392,0.17638587,3,5,Weeds,False
+2356,44,48280,2,Planted pastures (perennial),0.31540249,0.17843138,3,5,Weeds,False
+2356,56,48280,2,Planted pastures (perennial),0.29688159,0.19967894,3,5,Weeds,False
+2356,57,48280,2,Planted pastures (perennial),0.30143892,0.18485839,3,5,Weeds,False
+2356,70,48280,2,Planted pastures (perennial),0.27606271,0.2088522,3,5,Weeds,False
+2356,84,48280,2,Planted pastures (perennial),0.24149322,0.23719758,6,3,Fallow,False
+2356,98,48280,2,Planted pastures (perennial),0.27207653,0.21323243,3,5,Weeds,False
+2360,2,101535,3,Fallow,0.15694904,0.18110309,6,3,Fallow,True
+2360,3,101535,3,Fallow,0.15849382,0.18458893,6,3,Fallow,True
+2360,4,101535,3,Fallow,0.14889827,0.1881665,6,3,Fallow,True
+2360,16,101535,3,Fallow,0.17840579,0.18315178,6,3,Fallow,True
+2360,17,101535,3,Fallow,0.16996623,0.17843138,6,3,Fallow,True
+2360,18,101535,3,Fallow,0.16085604,0.18093682,6,3,Fallow,True
+2360,30,101535,3,Fallow,0.18395162,0.19458969,6,3,Fallow,True
+2360,31,101535,3,Fallow,0.16411085,0.1875575,6,3,Fallow,True
+2360,32,101535,3,Fallow,0.22217231,0.1902687,6,3,Fallow,True
+2360,108,73310,2,Planted pastures (perennial),0.32249585,0.24045026,6,3,Fallow,False
+2360,122,73310,2,Planted pastures (perennial),0.31593178,0.2194505,0,7,Wheat,False
+2360,126,102981,1,Lucerne/Medics,0.16358456,0.21215457,6,3,Fallow,False
+2360,134,73310,2,Planted pastures (perennial),0.41883417,0.24434762,0,7,Wheat,False
+2360,135,73310,2,Planted pastures (perennial),0.35418985,0.19449286,0,7,Wheat,False
+2360,136,73310,2,Planted pastures (perennial),0.32524507,0.20710482,0,7,Wheat,False
+2360,149,73310,2,Planted pastures (perennial),0.32923472,0.18433794,3,5,Weeds,False
+2360,154,33521,7,Wheat,0.64993017,0.32807019,4,6,Small grain grazing,False
+2360,155,33521,7,Wheat,0.60285104,0.29192691,0,7,Wheat,True
+2360,168,33521,7,Wheat,0.60044799,0.31333443,0,7,Wheat,True
+2360,169,33521,7,Wheat,0.56976094,0.29123955,0,7,Wheat,True
+2360,182,33521,7,Wheat,0.64987899,0.34034057,4,6,Small grain grazing,False
+2360,183,33521,7,Wheat,0.6925102,0.35063182,4,6,Small grain grazing,False
+2433,103,49296,7,Wheat,0.34751462,0.28909466,6,3,Fallow,False
+2433,117,49296,7,Wheat,0.44704483,0.29947956,0,7,Wheat,True
+2433,118,49296,7,Wheat,0.44134411,0.30122248,0,7,Wheat,True
+2433,119,49296,7,Wheat,0.40768186,0.31084484,0,7,Wheat,True
+2433,131,49296,7,Wheat,0.44011421,0.29362141,0,7,Wheat,True
+2433,132,49296,7,Wheat,0.4688164,0.30343744,0,7,Wheat,True
+2433,133,49296,7,Wheat,0.45575245,0.29899541,0,7,Wheat,True
+2433,141,120750,1,Lucerne/Medics,0.48537956,0.28405956,6,3,Fallow,False
+2433,146,49296,7,Wheat,0.42621559,0.29569113,0,7,Wheat,True
+2433,147,49296,7,Wheat,0.44899086,0.29957639,0,7,Wheat,True
+2433,154,120750,1,Lucerne/Medics,0.51432826,0.24273593,3,5,Weeds,False
+2433,155,120750,1,Lucerne/Medics,0.47215042,0.25939241,3,5,Weeds,False
+2433,156,31493,1,Lucerne/Medics,0.50040231,0.24778505,3,5,Weeds,False
+2433,165,111496,7,Wheat,0.38124147,0.26752604,6,3,Fallow,False
+2433,168,120750,1,Lucerne/Medics,0.53674724,0.23984575,3,5,Weeds,False
+2433,170,31493,1,Lucerne/Medics,0.52796863,0.24390552,3,5,Weeds,False
+2433,178,111496,7,Wheat,0.39358615,0.2813439,6,3,Fallow,False
+2433,179,111496,7,Wheat,0.39080713,0.26232085,6,3,Fallow,False
+2433,180,111496,7,Wheat,0.43174355,0.28264626,6,3,Fallow,False
+2433,181,77245,1,Lucerne/Medics,0.34724338,0.26749227,6,3,Fallow,False
+2433,182,120750,1,Lucerne/Medics,0.5362388,0.26029929,3,5,Weeds,False
+2433,190,627,1,Lucerne/Medics,0.30915841,0.26984751,6,3,Fallow,False
+2433,191,627,1,Lucerne/Medics,0.22502756,0.26156864,6,3,Fallow,False
+2433,192,627,1,Lucerne/Medics,0.27812615,0.25215687,6,3,Fallow,False
+2433,195,77245,1,Lucerne/Medics,0.32532026,0.26617648,6,3,Fallow,False
+2435,0,42827,5,Weeds,0.3498281,0.2269187,3,5,Weeds,True
+2435,14,42827,5,Weeds,0.43616624,0.14731109,3,5,Weeds,True
+2435,15,42827,5,Weeds,0.37827808,0.17895183,3,5,Weeds,True
+2435,134,53104,2,Planted pastures (perennial),0.27914732,0.26486324,6,3,Fallow,False
+2435,135,53104,2,Planted pastures (perennial),0.2657204,0.2748003,6,3,Fallow,False
+2435,146,53104,2,Planted pastures (perennial),0.29618211,0.23093683,3,5,Weeds,False
+2435,147,53104,2,Planted pastures (perennial),0.27567878,0.26008231,6,3,Fallow,False
+2435,148,53104,2,Planted pastures (perennial),0.28760065,0.27150812,6,3,Fallow,False
+2435,149,53104,2,Planted pastures (perennial),0.30896671,0.2674413,6,3,Fallow,False
+2435,150,53104,2,Planted pastures (perennial),0.27911538,0.2711087,6,3,Fallow,False
+2435,158,53104,2,Planted pastures (perennial),0.29362863,0.25750424,6,3,Fallow,False
+2435,159,53104,2,Planted pastures (perennial),0.2683774,0.25603971,6,3,Fallow,False
+2435,160,53104,2,Planted pastures (perennial),0.27052983,0.25583395,6,3,Fallow,False
+2435,161,53104,2,Planted pastures (perennial),0.26452876,0.2633987,6,3,Fallow,False
+2435,162,53104,2,Planted pastures (perennial),0.26078446,0.30963448,6,3,Fallow,False
+2435,163,53104,2,Planted pastures (perennial),0.28221988,0.27724523,6,3,Fallow,False
+2435,164,53104,2,Planted pastures (perennial),0.29782172,0.27943598,6,3,Fallow,False
+2435,171,53104,2,Planted pastures (perennial),0.26801516,0.26221764,6,3,Fallow,False
+2435,172,53104,2,Planted pastures (perennial),0.27046554,0.27704392,6,3,Fallow,False
+2435,173,53104,2,Planted pastures (perennial),0.28613925,0.25759661,3,5,Weeds,False
+2435,174,53104,2,Planted pastures (perennial),0.24937184,0.30401331,6,3,Fallow,False
+2435,175,53104,2,Planted pastures (perennial),0.25561471,0.3299163,1,9,Rooibos,False
+2435,176,53104,2,Planted pastures (perennial),0.27522157,0.27285862,6,3,Fallow,False
+2435,177,53104,2,Planted pastures (perennial),0.31822916,0.2720101,6,3,Fallow,False
+2435,184,53104,2,Planted pastures (perennial),0.22821529,0.30383443,6,3,Fallow,False
+2435,185,53104,2,Planted pastures (perennial),0.15381685,0.3971024,1,9,Rooibos,False
+2435,186,53104,2,Planted pastures (perennial),0.18713859,0.35090415,1,9,Rooibos,False
+2435,187,53104,2,Planted pastures (perennial),0.20046611,0.31278868,1,9,Rooibos,False
+2435,188,53104,2,Planted pastures (perennial),0.23379311,0.31824619,1,9,Rooibos,False
+2435,189,53104,2,Planted pastures (perennial),0.30671868,0.24277778,3,5,Weeds,False
+2435,190,53104,2,Planted pastures (perennial),0.35461302,0.21992375,3,5,Weeds,False
+2446,19,101896,5,Weeds,0.45370398,0.32533286,6,3,Fallow,False
+2446,38,39186,7,Wheat,0.46089495,0.34416607,0,7,Wheat,True
+2446,52,39186,7,Wheat,0.69925132,0.37691843,4,6,Small grain grazing,False
+2446,53,39186,7,Wheat,0.67149605,0.37095135,4,6,Small grain grazing,False
+2446,168,5719,7,Wheat,0.65436808,0.36386943,4,6,Small grain grazing,False
+2446,169,5719,7,Wheat,0.79899455,0.37905057,4,6,Small grain grazing,False
+2446,182,5719,7,Wheat,0.59339329,0.38070176,4,6,Small grain grazing,False
+2446,183,5719,7,Wheat,0.79647956,0.40534859,4,6,Small grain grazing,False
+2446,184,5719,7,Wheat,0.91139511,0.42438998,4,6,Small grain grazing,False
+2450,5,87739,6,Small grain grazing,0.379947,0.17011811,3,5,Weeds,False
+2450,18,87739,6,Small grain grazing,0.4425124,0.13398693,3,5,Weeds,False
+2450,19,87739,6,Small grain grazing,0.4021759,0.14886227,3,5,Weeds,False
+2450,20,87739,6,Small grain grazing,0.41003744,0.15465989,3,5,Weeds,False
+2450,21,87739,6,Small grain grazing,0.40831623,0.17423143,3,5,Weeds,False
+2450,22,87739,6,Small grain grazing,0.4171517,0.17954491,3,5,Weeds,False
+2450,35,87739,6,Small grain grazing,0.3607056,0.20589446,3,5,Weeds,False
+2450,36,87739,6,Small grain grazing,0.41124082,0.17880659,3,5,Weeds,False
+2450,45,41673,2,Planted pastures (perennial),0.17115147,0.42849189,2,7,Wheat,False
+2450,46,41673,2,Planted pastures (perennial),0.16657061,0.43034375,2,7,Wheat,False
+2450,47,41673,2,Planted pastures (perennial),0.21873608,0.37662794,2,7,Wheat,False
+2455,27,4715,9,Rooibos,0.27983004,0.26071896,6,3,Fallow,False
+2463,48,18809,5,Weeds,0.36535493,0.37762044,2,7,Wheat,False
+2463,62,18809,5,Weeds,0.35831083,0.34616317,6,3,Fallow,False
+2463,63,18809,5,Weeds,0.29566479,0.37599855,1,9,Rooibos,False
+2463,91,18809,5,Weeds,0.27381827,0.36567418,1,9,Rooibos,False
+2463,104,40150,5,Weeds,0.24506776,0.41753814,7,3,Fallow,False
+2463,185,93099,9,Rooibos,0.26005869,0.39234206,7,3,Fallow,False
+2463,186,93099,9,Rooibos,0.45061829,0.28015252,6,3,Fallow,False
+2463,194,9161,3,Fallow,0.29238965,0.29414861,6,3,Fallow,True
+2463,195,9161,3,Fallow,0.31910423,0.26980393,6,3,Fallow,True
+2470,12,51422,6,Small grain grazing,0.24034378,0.24239857,0,7,Wheat,False
+2470,25,51422,6,Small grain grazing,0.28537405,0.26365288,0,7,Wheat,False
+2470,26,51422,6,Small grain grazing,0.21915264,0.2416466,0,7,Wheat,False
+2470,31,31591,6,Small grain grazing,0.48108549,0.30544663,6,3,Fallow,False
+2470,40,51422,6,Small grain grazing,0.28857113,0.27260636,0,7,Wheat,False
+2470,45,31591,6,Small grain grazing,0.53603371,0.29985477,0,7,Wheat,False
+2470,46,31591,6,Small grain grazing,0.65759733,0.33715808,4,6,Small grain grazing,True
+2470,47,31591,6,Small grain grazing,0.65772526,0.34356089,4,6,Small grain grazing,True
+2470,58,31591,6,Small grain grazing,0.45540156,0.28577827,6,3,Fallow,False
+2470,59,31591,6,Small grain grazing,0.52784558,0.32222223,0,7,Wheat,False
+2470,60,31591,6,Small grain grazing,0.62468289,0.34692569,4,6,Small grain grazing,True
+2470,71,31591,6,Small grain grazing,0.46349437,0.27423143,3,5,Weeds,False
+2470,72,31591,6,Small grain grazing,0.50820731,0.28730333,0,7,Wheat,False
+2470,73,31591,6,Small grain grazing,0.5926103,0.33391432,4,6,Small grain grazing,True
+2470,74,31591,6,Small grain grazing,0.68790787,0.35085936,4,6,Small grain grazing,True
+2470,86,31591,6,Small grain grazing,0.53761389,0.31971679,0,7,Wheat,False
+2470,87,31591,6,Small grain grazing,0.61792859,0.34569113,4,6,Small grain grazing,True
+2470,116,3095,7,Wheat,0.21196492,0.23718228,6,3,Fallow,False
+2470,129,3095,7,Wheat,0.20303355,0.26335029,6,3,Fallow,False
+2470,130,3095,7,Wheat,0.19929278,0.25032681,6,3,Fallow,False
+2470,131,3095,7,Wheat,0.18319498,0.24392399,6,3,Fallow,False
+2470,132,3095,7,Wheat,0.17557625,0.25223918,6,3,Fallow,False
+2470,142,3095,7,Wheat,0.22442928,0.26044542,0,7,Wheat,True
+2470,143,3095,7,Wheat,0.19335556,0.2610385,0,7,Wheat,True
+2470,144,3095,7,Wheat,0.1972089,0.25939241,0,7,Wheat,True
+2470,145,3095,7,Wheat,0.19256998,0.24711935,0,7,Wheat,True
+2470,146,3095,7,Wheat,0.19357585,0.25180344,6,3,Fallow,False
+2470,156,3095,7,Wheat,0.17919063,0.26084484,0,7,Wheat,True
+2470,157,3095,7,Wheat,0.18429594,0.26073591,0,7,Wheat,True
+2470,158,3095,7,Wheat,0.19062669,0.25222707,0,7,Wheat,True
+2470,159,3095,7,Wheat,0.20505336,0.25383685,0,7,Wheat,True
+2470,169,3095,7,Wheat,0.19248862,0.24867562,0,7,Wheat,True
+2470,170,3095,7,Wheat,0.18380557,0.24928335,0,7,Wheat,True
+2470,171,3095,7,Wheat,0.18248558,0.25020067,0,7,Wheat,True
+2470,184,3095,7,Wheat,0.19851948,0.23436819,0,7,Wheat,True
+2516,110,120977,7,Wheat,0.82406479,0.45439744,4,6,Small grain grazing,False
+2516,111,120977,7,Wheat,0.84201458,0.41344227,4,6,Small grain grazing,False
+2516,125,120977,7,Wheat,0.76854478,0.37812637,4,6,Small grain grazing,False
+2522,7,59006,7,Wheat,0.42721995,0.25318198,0,7,Wheat,True
+2522,8,59006,7,Wheat,0.43280625,0.25788328,0,7,Wheat,True
+2522,9,59006,7,Wheat,0.42020713,0.26057792,0,7,Wheat,True
+2522,21,59006,7,Wheat,0.41963962,0.30577343,0,7,Wheat,True
+2522,22,59006,7,Wheat,0.44496932,0.25795208,0,7,Wheat,True
+2522,23,59006,7,Wheat,0.39369971,0.28884048,0,7,Wheat,True
+2527,42,68907,5,Weeds,0.8953939,0.52093799,4,6,Small grain grazing,False
+2527,113,114131,5,Weeds,0.15693454,0.45325587,7,3,Fallow,False
+2527,127,114131,5,Weeds,0.17375028,0.43280078,7,3,Fallow,False
+2527,186,103593,3,Fallow,0.15754301,0.32216777,7,3,Fallow,True
+2527,187,103593,3,Fallow,0.14709055,0.35087147,7,3,Fallow,True
+2531,10,100848,2,Planted pastures (perennial),0.81691495,0.40368078,4,6,Small grain grazing,False
+2531,11,100848,2,Planted pastures (perennial),0.77887395,0.38417613,4,6,Small grain grazing,False
+2531,12,100848,2,Planted pastures (perennial),0.71840851,0.39213514,4,6,Small grain grazing,False
+2531,13,100848,2,Planted pastures (perennial),0.66884034,0.34753355,4,6,Small grain grazing,False
+2531,24,100848,2,Planted pastures (perennial),0.79966583,0.40590657,4,6,Small grain grazing,False
+2531,25,100848,2,Planted pastures (perennial),0.78169562,0.39680465,4,6,Small grain grazing,False
+2531,26,100848,2,Planted pastures (perennial),0.68032423,0.37043918,4,6,Small grain grazing,False
+2531,27,100848,2,Planted pastures (perennial),0.65659678,0.3856536,4,6,Small grain grazing,False
+2531,38,100848,2,Planted pastures (perennial),0.76019844,0.40953765,4,6,Small grain grazing,False
+2531,39,100848,2,Planted pastures (perennial),0.79482635,0.39909224,4,6,Small grain grazing,False
+2531,40,100848,2,Planted pastures (perennial),0.72428621,0.38619425,4,6,Small grain grazing,False
+2531,41,100848,2,Planted pastures (perennial),0.71549465,0.40084968,4,6,Small grain grazing,False
+2531,53,100848,2,Planted pastures (perennial),0.73283212,0.40641492,4,6,Small grain grazing,False
+2531,54,100848,2,Planted pastures (perennial),0.73561264,0.40192639,4,6,Small grain grazing,False
+2531,55,100848,2,Planted pastures (perennial),0.7013705,0.3967865,4,6,Small grain grazing,False
+2531,67,100848,2,Planted pastures (perennial),0.75660447,0.39882596,4,6,Small grain grazing,False
+2531,68,100848,2,Planted pastures (perennial),0.78095849,0.41036579,4,6,Small grain grazing,False
+2531,69,100848,2,Planted pastures (perennial),0.71457129,0.41086057,4,6,Small grain grazing,False
+2531,81,100848,2,Planted pastures (perennial),0.75061429,0.40303801,4,6,Small grain grazing,False
+2531,82,100848,2,Planted pastures (perennial),0.73662071,0.4054925,4,6,Small grain grazing,False
+2531,83,100848,2,Planted pastures (perennial),0.72308087,0.4006536,4,6,Small grain grazing,False
+2531,96,100848,2,Planted pastures (perennial),0.75461681,0.38512786,4,6,Small grain grazing,False
+2531,97,100848,2,Planted pastures (perennial),0.75614849,0.39071896,4,6,Small grain grazing,False
+2531,110,100848,2,Planted pastures (perennial),0.72609491,0.37379888,4,6,Small grain grazing,False
+2531,111,100848,2,Planted pastures (perennial),0.6690324,0.36751635,4,6,Small grain grazing,False
+2531,125,100848,2,Planted pastures (perennial),0.60153463,0.36828977,4,6,Small grain grazing,False
+2531,139,100848,2,Planted pastures (perennial),0.74267008,0.36712419,4,6,Small grain grazing,False
+2540,9,50808,3,Fallow,0.61670981,0.34532738,6,3,Fallow,True
+2540,10,50808,3,Fallow,0.64914721,0.36441923,6,3,Fallow,True
+2540,23,50808,3,Fallow,0.63121434,0.34701042,6,3,Fallow,True
+2540,24,50808,3,Fallow,0.63740072,0.36391916,6,3,Fallow,True
+2540,25,50808,3,Fallow,0.62778238,0.37553862,4,6,Small grain grazing,False
+2540,26,50808,3,Fallow,0.6479135,0.38531132,6,3,Fallow,True
+2540,37,50808,3,Fallow,0.62473361,0.3593682,6,3,Fallow,True
+2540,38,50808,3,Fallow,0.60752947,0.35574922,6,3,Fallow,True
+2540,39,50808,3,Fallow,0.58296016,0.35305012,6,3,Fallow,True
+2540,40,50808,3,Fallow,0.64279849,0.37864924,6,3,Fallow,True
+2540,41,50808,3,Fallow,0.58581369,0.3737255,6,3,Fallow,True
+2540,52,50808,3,Fallow,0.59994326,0.36814331,6,3,Fallow,True
+2540,53,50808,3,Fallow,0.59811949,0.35485356,6,3,Fallow,True
+2540,54,50808,3,Fallow,0.61488447,0.38494439,6,3,Fallow,True
+2540,55,50808,3,Fallow,0.5809767,0.37986929,6,3,Fallow,True
+2540,68,50808,3,Fallow,0.56546299,0.35483317,6,3,Fallow,True
+2540,69,50808,3,Fallow,0.52068618,0.38068628,6,3,Fallow,True
+2540,98,64160,1,Lucerne/Medics,0.37249268,0.33749571,6,3,Fallow,False
+2540,112,64160,1,Lucerne/Medics,0.35717351,0.33741544,6,3,Fallow,False
+2540,113,64160,1,Lucerne/Medics,0.2901215,0.31450013,6,3,Fallow,False
+2540,118,28322,6,Small grain grazing,0.63645608,0.39043816,4,6,Small grain grazing,True
+2540,119,28322,6,Small grain grazing,0.63088225,0.4228153,4,6,Small grain grazing,True
+2540,120,28322,6,Small grain grazing,0.57925599,0.42058824,6,3,Fallow,False
+2540,133,28322,6,Small grain grazing,0.65305232,0.41935367,4,6,Small grain grazing,True
+2540,134,28322,6,Small grain grazing,0.65156807,0.43616558,4,6,Small grain grazing,True
+2540,145,79205,7,Wheat,0.64663616,0.34917696,4,6,Small grain grazing,False
+2540,147,28322,6,Small grain grazing,0.64262914,0.394626,4,6,Small grain grazing,True
+2540,148,28322,6,Small grain grazing,0.66631874,0.43028323,4,6,Small grain grazing,True
+2540,160,79205,7,Wheat,0.6755961,0.36222465,4,6,Small grain grazing,False
+2540,162,28322,6,Small grain grazing,0.64454081,0.42049141,4,6,Small grain grazing,True
+2540,163,28322,6,Small grain grazing,0.66597107,0.41830066,4,6,Small grain grazing,True
+2540,174,79205,7,Wheat,0.64633618,0.36665521,4,6,Small grain grazing,False
+2540,176,28322,6,Small grain grazing,0.64351021,0.39080381,4,6,Small grain grazing,True
+2540,177,28322,6,Small grain grazing,0.67071418,0.42225663,4,6,Small grain grazing,True
+2540,195,44561,7,Wheat,0.77335789,0.46706864,4,6,Small grain grazing,False
+2543,30,60822,5,Weeds,0.21260496,0.22587752,5,5,Weeds,True
+2543,31,60822,5,Weeds,0.18620919,0.24501332,5,5,Weeds,True
+2543,44,60822,5,Weeds,0.1761511,0.27551441,5,5,Weeds,True
+2543,45,60822,5,Weeds,0.17224892,0.29207215,5,5,Weeds,True
+2543,56,83353,5,Weeds,0.22459726,0.49112488,7,3,Fallow,False
+2543,70,83353,5,Weeds,0.27247861,0.44446738,7,3,Fallow,False
+2543,186,38534,6,Small grain grazing,0.10546702,0.4104902,7,3,Fallow,False
+2543,187,38534,6,Small grain grazing,0.10916227,0.38977125,7,3,Fallow,False
+2547,100,1578,6,Small grain grazing,0.26918238,0.31568628,1,9,Rooibos,False
+2547,101,1578,6,Small grain grazing,0.30062156,0.31719923,1,9,Rooibos,False
+2547,105,88039,5,Weeds,0.33135531,0.3439361,1,9,Rooibos,False
+2547,119,88039,5,Weeds,0.23793273,0.43914307,7,3,Fallow,False
+2570,12,39039,6,Small grain grazing,0.19400768,0.32210093,1,9,Rooibos,False
+2570,13,39039,6,Small grain grazing,0.20348443,0.29923634,1,9,Rooibos,False
+2570,26,39039,6,Small grain grazing,0.21610947,0.301204,6,3,Fallow,False
+2570,27,39039,6,Small grain grazing,0.18687217,0.32191722,1,9,Rooibos,False
+2570,40,39039,6,Small grain grazing,0.20830915,0.33153309,1,9,Rooibos,False
+2570,41,39039,6,Small grain grazing,0.19989491,0.30382354,1,9,Rooibos,False
+2570,55,39039,6,Small grain grazing,0.19496879,0.33812637,1,9,Rooibos,False
+2570,65,31013,2,Planted pastures (perennial),0.1893807,0.42384411,7,3,Fallow,False
+2570,66,31013,2,Planted pastures (perennial),0.1675266,0.41987413,7,3,Fallow,False
+2570,68,2535,3,Fallow,0.10483614,0.47355808,7,3,Fallow,True
+2570,79,31013,2,Planted pastures (perennial),0.1950755,0.43465263,7,3,Fallow,False
+2570,80,31013,2,Planted pastures (perennial),0.15952525,0.42337207,7,3,Fallow,False
+2570,155,99701,6,Small grain grazing,0.19234755,0.3472767,1,9,Rooibos,False
+2570,156,99701,6,Small grain grazing,0.16670184,0.35503511,1,9,Rooibos,False
+2570,169,99701,6,Small grain grazing,0.15460901,0.37206743,1,9,Rooibos,False
+2570,170,99701,6,Small grain grazing,0.15670327,0.37270956,1,9,Rooibos,False
+2570,171,99701,6,Small grain grazing,0.15621332,0.36260751,1,9,Rooibos,False
+2570,184,99701,6,Small grain grazing,0.15127275,0.37299565,1,9,Rooibos,False
+2570,185,99701,6,Small grain grazing,0.15611962,0.3690523,1,9,Rooibos,False
+2570,186,99701,6,Small grain grazing,0.15819056,0.35286493,1,9,Rooibos,False
+2582,97,106675,3,Fallow,0.22141696,0.26851853,6,3,Fallow,True
+2582,110,106675,3,Fallow,0.2336136,0.27503728,6,3,Fallow,True
+2582,111,106675,3,Fallow,0.21187565,0.28204794,6,3,Fallow,True
+2582,124,106675,3,Fallow,0.19306157,0.28288042,6,3,Fallow,True
+2582,147,55516,3,Fallow,0.22597217,0.26803438,3,5,Weeds,False
+2582,150,71446,3,Fallow,0.19116406,0.26590415,6,3,Fallow,True
+2582,162,71446,3,Fallow,0.20792821,0.24518277,3,5,Weeds,False
+2609,13,26825,9,Rooibos,0.22380997,0.27218783,6,3,Fallow,False
+2615,7,54647,3,Fallow,0.21497454,0.32159157,1,9,Rooibos,False
+2615,8,54647,3,Fallow,0.20346621,0.32323129,1,9,Rooibos,False
+2615,9,54647,3,Fallow,0.22046965,0.31781907,1,9,Rooibos,False
+2615,10,54647,3,Fallow,0.23265117,0.29842909,6,3,Fallow,True
+2615,11,54647,3,Fallow,0.22859387,0.28238735,6,3,Fallow,True
+2615,21,54647,3,Fallow,0.23742304,0.30603971,6,3,Fallow,True
+2615,22,54647,3,Fallow,0.21847022,0.31318084,1,9,Rooibos,False
+2615,23,54647,3,Fallow,0.21853106,0.30259018,6,3,Fallow,True
+2615,24,54647,3,Fallow,0.22375033,0.29212056,6,3,Fallow,True
+2615,25,54647,3,Fallow,0.23542995,0.29273784,6,3,Fallow,True
+2615,35,54647,3,Fallow,0.23490539,0.29262891,6,3,Fallow,True
+2615,36,54647,3,Fallow,0.23345355,0.30261439,6,3,Fallow,True
+2615,37,54647,3,Fallow,0.22412081,0.31043332,6,3,Fallow,True
+2615,38,54647,3,Fallow,0.24761127,0.29771243,6,3,Fallow,True
+2615,51,54647,3,Fallow,0.25314713,0.2879085,6,3,Fallow,True
+2615,57,3313,3,Fallow,0.36084679,0.43646817,2,7,Wheat,False
+2615,58,3313,3,Fallow,0.35860105,0.42114501,2,7,Wheat,False
+2615,71,3313,3,Fallow,0.27399169,0.43410797,7,3,Fallow,True
+2615,72,3313,3,Fallow,0.3510859,0.39888647,1,9,Rooibos,False
+2615,123,11762,3,Fallow,0.70015893,0.36572259,5,5,Weeds,False
+2615,136,11762,3,Fallow,0.84663565,0.39678045,5,5,Weeds,False
+2615,137,11762,3,Fallow,0.85043855,0.40279594,5,5,Weeds,False
+2615,150,11762,3,Fallow,0.67054534,0.38212298,5,5,Weeds,False
+2615,151,11762,3,Fallow,0.69909442,0.37656742,5,5,Weeds,False
+2635,55,78682,1,Lucerne/Medics,0.48392207,0.31007626,0,7,Wheat,False
+2635,126,55362,2,Planted pastures (perennial),0.60246683,0.29125101,0,7,Wheat,False
+2648,149,26696,9,Rooibos,0.30126105,0.4379085,1,9,Rooibos,True
+2648,180,43538,9,Rooibos,0.18212257,0.33097606,1,9,Rooibos,True

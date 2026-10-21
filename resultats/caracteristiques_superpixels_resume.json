@@ -1,0 +1,61 @@
+{
+  "dataset": "C:\\Users\\User\\south_africa_lite\\dataset_lite",
+  "fichier_sortie": "C:\\Users\\User\\south_africa_lite\\resultats\\caracteristiques_superpixels.csv",
+  "tuiles_demandees": 200,
+  "tuiles_en_erreur": 0,
+  "superpixels_slic_total": 39200,
+  "superpixels_retenus": 8945,
+  "taux_conservation_pct": 22.82,
+  "nombre_caracteristiques_spectrales": 64,
+  "distribution_superpixels": {
+    "1": {
+      "classe": "Lucerne/Medics",
+      "nombre": 714
+    },
+    "2": {
+      "classe": "Planted pastures (perennial)",
+      "nombre": 1333
+    },
+    "3": {
+      "classe": "Fallow",
+      "nombre": 1404
+    },
+    "4": {
+      "classe": "Wine grapes",
+      "nombre": 152
+    },
+    "5": {
+      "classe": "Weeds",
+      "nombre": 1132
+    },
+    "6": {
+      "classe": "Small grain grazing",
+      "nombre": 1435
+    },
+    "7": {
+      "classe": "Wheat",
+      "nombre": 1676
+    },
+    "8": {
+      "classe": "Canola",
+      "nombre": 174
+    },
+    "9": {
+      "classe": "Rooibos",
+      "nombre": 925
+    }
+  },
+  "parametres_slic": {
+    "n_segments": 200,
+    "compactness": 10.0,
+    "sigma": 1.0
+  },
+  "seuils": {
+    "purete_classe_min": 0.8,
+    "purete_parcelle_min": 0.7,
+    "couverture_label_min": 0.8,
+    "pixels_clairs_min": 0.7,
+    "surface_min": 20
+  },
+  "erreurs": []
+}

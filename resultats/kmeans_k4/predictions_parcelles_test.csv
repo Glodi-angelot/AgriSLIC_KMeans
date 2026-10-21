@@ -1,0 +1,391 @@
+﻿field_id,tile_id,classe_reelle_code,classe_predite_code,nombre_superpixels,classe_reelle,classe_predite,correct
+417,1258,7,7,8,Wheat,Wheat,True
+498,1257,7,7,2,Wheat,Wheat,True
+510,1294,9,3,1,Rooibos,Fallow,False
+627,2433,1,3,3,Lucerne/Medics,Fallow,False
+853,1380,6,7,2,Small grain grazing,Wheat,False
+1174,1485,6,7,1,Small grain grazing,Wheat,False
+1542,1380,8,7,5,Canola,Wheat,False
+1578,2547,6,9,2,Small grain grazing,Rooibos,False
+1713,977,6,7,5,Small grain grazing,Wheat,False
+2535,2570,3,9,1,Fallow,Rooibos,False
+2710,471,2,3,5,Planted pastures (perennial),Fallow,False
+2851,2288,7,7,2,Wheat,Wheat,True
+2883,1920,7,3,1,Wheat,Fallow,False
+3093,977,1,7,13,Lucerne/Medics,Wheat,False
+3095,2470,7,3,18,Wheat,Fallow,False
+3313,2615,3,9,4,Fallow,Rooibos,False
+3547,1259,2,7,3,Planted pastures (perennial),Wheat,False
+4157,747,1,3,3,Lucerne/Medics,Fallow,False
+4467,1258,1,7,10,Lucerne/Medics,Wheat,False
+4715,2455,9,3,1,Rooibos,Fallow,False
+5322,2212,3,3,13,Fallow,Fallow,True
+5630,1399,7,7,2,Wheat,Wheat,True
+5719,2446,7,7,5,Wheat,Wheat,True
+5825,1119,3,9,2,Fallow,Rooibos,False
+6622,1119,6,9,5,Small grain grazing,Rooibos,False
+6633,1418,9,3,1,Rooibos,Fallow,False
+7009,1546,9,3,3,Rooibos,Fallow,False
+7694,1254,6,9,5,Small grain grazing,Rooibos,False
+8600,616,2,3,1,Planted pastures (perennial),Fallow,False
+9161,2463,3,3,2,Fallow,Fallow,True
+9451,1258,6,7,9,Small grain grazing,Wheat,False
+9825,1002,6,7,17,Small grain grazing,Wheat,False
+9915,838,2,3,1,Planted pastures (perennial),Fallow,False
+9943,864,3,3,1,Fallow,Fallow,True
+10141,1746,5,9,8,Weeds,Rooibos,False
+10542,295,2,7,1,Planted pastures (perennial),Wheat,False
+10689,367,3,3,1,Fallow,Fallow,True
+10832,1185,8,7,22,Canola,Wheat,False
+10862,227,2,9,1,Planted pastures (perennial),Rooibos,False
+10925,1257,7,7,4,Wheat,Wheat,True
+10954,1857,3,9,3,Fallow,Rooibos,False
+11729,1978,5,7,2,Weeds,Wheat,False
+11762,2615,3,5,5,Fallow,Weeds,False
+11777,615,2,3,2,Planted pastures (perennial),Fallow,False
+12050,1418,6,9,1,Small grain grazing,Rooibos,False
+12170,1380,6,7,3,Small grain grazing,Wheat,False
+12263,763,5,3,1,Weeds,Fallow,False
+12461,2295,2,7,18,Planted pastures (perennial),Wheat,False
+12474,1473,7,3,1,Wheat,Fallow,False
+14406,1254,3,3,8,Fallow,Fallow,True
+14460,253,7,9,2,Wheat,Rooibos,False
+14515,615,7,7,1,Wheat,Wheat,True
+14539,1485,7,7,3,Wheat,Wheat,True
+14635,1978,7,7,2,Wheat,Wheat,True
+14779,2237,7,3,7,Wheat,Fallow,False
+15160,1266,9,9,1,Rooibos,Rooibos,True
+15848,2161,9,3,3,Rooibos,Fallow,False
+16200,1259,2,7,5,Planted pastures (perennial),Wheat,False
+16666,1579,7,9,10,Wheat,Rooibos,False
+17938,927,6,7,8,Small grain grazing,Wheat,False
+18518,438,8,9,1,Canola,Rooibos,False
+18679,1857,5,9,4,Weeds,Rooibos,False
+18809,2463,5,9,4,Weeds,Rooibos,False
+19217,519,5,9,1,Weeds,Rooibos,False
+19276,1736,3,3,1,Fallow,Fallow,True
+19333,2313,5,3,6,Weeds,Fallow,False
+19797,1257,7,7,8,Wheat,Wheat,True
+19968,1627,7,7,1,Wheat,Wheat,True
+20758,615,4,3,3,Wine grapes,Fallow,False
+20925,1983,3,3,1,Fallow,Fallow,True
+22022,1259,2,7,1,Planted pastures (perennial),Wheat,False
+22168,2237,7,7,3,Wheat,Wheat,True
+22518,1978,7,7,5,Wheat,Wheat,True
+23310,1627,2,3,1,Planted pastures (perennial),Fallow,False
+23399,533,2,3,1,Planted pastures (perennial),Fallow,False
+23779,276,6,3,7,Small grain grazing,Fallow,False
+23915,890,2,7,4,Planted pastures (perennial),Wheat,False
+23975,1264,4,3,1,Wine grapes,Fallow,False
+24131,913,3,3,2,Fallow,Fallow,True
+25150,1920,4,3,1,Wine grapes,Fallow,False
+25909,2212,2,7,5,Planted pastures (perennial),Wheat,False
+26196,18,9,9,11,Rooibos,Rooibos,True
+26696,2648,9,9,1,Rooibos,Rooibos,True
+26741,1978,7,7,13,Wheat,Wheat,True
+26825,2609,9,3,1,Rooibos,Fallow,False
+27429,2212,7,7,3,Wheat,Wheat,True
+27598,1839,3,3,1,Fallow,Fallow,True
+27835,1747,9,3,4,Rooibos,Fallow,False
+27936,1467,3,7,1,Fallow,Wheat,False
+27953,1399,6,7,1,Small grain grazing,Wheat,False
+28030,747,6,7,1,Small grain grazing,Wheat,False
+28034,2212,7,7,10,Wheat,Wheat,True
+28080,1473,6,7,1,Small grain grazing,Wheat,False
+28322,2540,6,7,11,Small grain grazing,Wheat,False
+28411,1920,4,3,2,Wine grapes,Fallow,False
+28477,401,6,9,6,Small grain grazing,Rooibos,False
+29629,1955,5,3,1,Weeds,Fallow,False
+29780,1655,4,9,1,Wine grapes,Rooibos,False
+30068,1978,7,7,5,Wheat,Wheat,True
+30122,189,7,7,15,Wheat,Wheat,True
+30424,1234,3,3,10,Fallow,Fallow,True
+30765,2313,3,3,4,Fallow,Fallow,True
+30993,1259,2,7,3,Planted pastures (perennial),Wheat,False
+31013,2570,2,9,4,Planted pastures (perennial),Rooibos,False
+31048,1076,1,7,7,Lucerne/Medics,Wheat,False
+31137,1839,3,3,4,Fallow,Fallow,True
+31182,2237,6,3,3,Small grain grazing,Fallow,False
+31272,1473,7,3,4,Wheat,Fallow,False
+31493,2433,1,3,2,Lucerne/Medics,Fallow,False
+31591,2470,6,7,13,Small grain grazing,Wheat,False
+31659,546,2,3,3,Planted pastures (perennial),Fallow,False
+31934,1499,3,3,39,Fallow,Fallow,True
+32958,1264,4,3,1,Wine grapes,Fallow,False
+33521,2360,7,7,6,Wheat,Wheat,True
+33588,1418,9,3,2,Rooibos,Fallow,False
+33934,1257,7,7,14,Wheat,Wheat,True
+33948,418,5,9,1,Weeds,Rooibos,False
+33953,1485,6,7,13,Small grain grazing,Wheat,False
+34120,1920,2,3,3,Planted pastures (perennial),Fallow,False
+34575,480,1,7,1,Lucerne/Medics,Wheat,False
+34585,2042,6,3,3,Small grain grazing,Fallow,False
+34850,862,5,9,1,Weeds,Rooibos,False
+34866,1839,3,3,9,Fallow,Fallow,True
+34877,1154,5,9,2,Weeds,Rooibos,False
+35059,431,7,3,7,Wheat,Fallow,False
+36143,1380,3,7,8,Fallow,Wheat,False
+36374,2237,5,7,9,Weeds,Wheat,False
+36461,471,6,7,5,Small grain grazing,Wheat,False
+36561,1978,6,3,4,Small grain grazing,Fallow,False
+37577,717,2,3,2,Planted pastures (perennial),Fallow,False
+38259,1978,6,3,2,Small grain grazing,Fallow,False
+38529,237,1,7,4,Lucerne/Medics,Wheat,False
+38534,2543,6,9,2,Small grain grazing,Rooibos,False
+38753,276,1,7,29,Lucerne/Medics,Wheat,False
+39015,1154,3,9,3,Fallow,Rooibos,False
+39039,2570,6,9,7,Small grain grazing,Rooibos,False
+39186,2446,7,7,3,Wheat,Wheat,True
+39262,864,3,3,1,Fallow,Fallow,True
+39678,565,7,7,1,Wheat,Wheat,True
+40150,2463,5,9,1,Weeds,Rooibos,False
+40679,467,2,3,1,Planted pastures (perennial),Fallow,False
+41254,189,1,3,8,Lucerne/Medics,Fallow,False
+41602,1485,1,7,3,Lucerne/Medics,Wheat,False
+41673,2450,2,9,3,Planted pastures (perennial),Rooibos,False
+41978,621,9,9,1,Rooibos,Rooibos,True
+42482,2295,7,7,5,Wheat,Wheat,True
+42776,122,6,7,21,Small grain grazing,Wheat,False
+42827,2435,5,3,3,Weeds,Fallow,False
+43008,2042,7,9,1,Wheat,Rooibos,False
+43151,1264,4,3,1,Wine grapes,Fallow,False
+43162,467,9,3,2,Rooibos,Fallow,False
+43538,2648,9,9,1,Rooibos,Rooibos,True
+43569,210,9,9,6,Rooibos,Rooibos,True
+44052,1076,6,7,4,Small grain grazing,Wheat,False
+44262,615,4,7,1,Wine grapes,Wheat,False
+44561,2540,7,7,1,Wheat,Wheat,True
+45121,616,6,7,4,Small grain grazing,Wheat,False
+45122,375,9,3,4,Rooibos,Fallow,False
+45902,1258,7,7,9,Wheat,Wheat,True
+46118,922,3,3,3,Fallow,Fallow,True
+46211,1497,2,3,4,Planted pastures (perennial),Fallow,False
+46508,1154,3,3,11,Fallow,Fallow,True
+46522,1655,4,3,1,Wine grapes,Fallow,False
+46648,922,3,3,18,Fallow,Fallow,True
+46954,1359,2,3,4,Planted pastures (perennial),Fallow,False
+48280,2356,2,3,9,Planted pastures (perennial),Fallow,False
+48613,1257,7,7,4,Wheat,Wheat,True
+49175,1736,3,9,2,Fallow,Rooibos,False
+49296,2433,7,7,9,Wheat,Wheat,True
+49527,1111,9,9,5,Rooibos,Rooibos,True
+49745,1202,6,9,1,Small grain grazing,Rooibos,False
+49879,1266,5,3,2,Weeds,Fallow,False
+50335,1473,7,3,4,Wheat,Fallow,False
+50484,787,4,3,1,Wine grapes,Fallow,False
+50808,2540,3,3,17,Fallow,Fallow,True
+50893,927,7,3,1,Wheat,Fallow,False
+51422,2470,6,7,4,Small grain grazing,Wheat,False
+52122,335,5,9,4,Weeds,Rooibos,False
+52210,364,2,9,3,Planted pastures (perennial),Rooibos,False
+52487,1546,9,3,1,Rooibos,Fallow,False
+52522,1497,2,3,7,Planted pastures (perennial),Fallow,False
+52524,621,5,9,7,Weeds,Rooibos,False
+52623,2265,7,7,1,Wheat,Wheat,True
+52787,438,3,3,2,Fallow,Fallow,True
+53087,2093,3,3,1,Fallow,Fallow,True
+53090,1185,2,3,2,Planted pastures (perennial),Fallow,False
+53104,2435,2,3,28,Planted pastures (perennial),Fallow,False
+53113,1254,6,3,2,Small grain grazing,Fallow,False
+53204,789,5,9,3,Weeds,Rooibos,False
+53660,616,2,7,2,Planted pastures (perennial),Wheat,False
+54230,864,9,3,1,Rooibos,Fallow,False
+54444,1857,5,5,4,Weeds,Weeds,True
+54647,2615,3,3,15,Fallow,Fallow,True
+55362,2635,2,7,1,Planted pastures (perennial),Wheat,False
+55444,913,1,3,6,Lucerne/Medics,Fallow,False
+55516,2582,3,3,1,Fallow,Fallow,True
+55874,116,2,7,10,Planted pastures (perennial),Wheat,False
+56437,471,2,3,2,Planted pastures (perennial),Fallow,False
+56898,1920,4,3,1,Wine grapes,Fallow,False
+56911,1264,4,3,1,Wine grapes,Fallow,False
+56964,621,9,9,1,Rooibos,Rooibos,True
+56991,2192,6,7,1,Small grain grazing,Wheat,False
+57070,578,4,3,1,Wine grapes,Fallow,False
+57179,838,6,3,1,Small grain grazing,Fallow,False
+57756,579,5,9,1,Weeds,Rooibos,False
+58413,438,8,9,3,Canola,Rooibos,False
+58561,2035,6,7,3,Small grain grazing,Wheat,False
+58767,364,2,9,11,Planted pastures (perennial),Rooibos,False
+58808,615,2,7,4,Planted pastures (perennial),Wheat,False
+59006,2522,7,7,6,Wheat,Wheat,True
+59271,1248,5,9,4,Weeds,Rooibos,False
+59697,1254,7,3,7,Wheat,Fallow,False
+59780,2237,7,3,6,Wheat,Fallow,False
+60528,977,1,7,8,Lucerne/Medics,Wheat,False
+60822,2543,5,5,4,Weeds,Weeds,True
+62123,2265,7,3,2,Wheat,Fallow,False
+62267,616,2,3,1,Planted pastures (perennial),Fallow,False
+62518,2212,6,7,5,Small grain grazing,Wheat,False
+62639,1832,1,7,2,Lucerne/Medics,Wheat,False
+62892,922,3,3,5,Fallow,Fallow,True
+63989,1736,6,9,2,Small grain grazing,Rooibos,False
+64160,2540,1,3,3,Lucerne/Medics,Fallow,False
+64214,579,5,9,2,Weeds,Rooibos,False
+64217,519,9,3,1,Rooibos,Fallow,False
+64632,546,6,7,2,Small grain grazing,Wheat,False
+64770,401,9,9,2,Rooibos,Rooibos,True
+64964,1202,9,3,18,Rooibos,Fallow,False
+65128,1248,5,3,3,Weeds,Fallow,False
+66157,1387,9,9,1,Rooibos,Rooibos,True
+66298,1254,2,3,1,Planted pastures (perennial),Fallow,False
+66790,1126,9,3,5,Rooibos,Fallow,False
+67610,546,2,3,1,Planted pastures (perennial),Fallow,False
+67849,276,7,9,15,Wheat,Rooibos,False
+67881,438,8,9,2,Canola,Rooibos,False
+67908,332,5,9,14,Weeds,Rooibos,False
+68862,1258,7,7,5,Wheat,Wheat,True
+68907,2527,5,7,1,Weeds,Wheat,False
+69832,862,3,3,5,Fallow,Fallow,True
+70025,1264,4,3,1,Wine grapes,Fallow,False
+70476,2035,7,3,2,Wheat,Fallow,False
+70597,2084,7,9,4,Wheat,Rooibos,False
+71223,1119,9,3,1,Rooibos,Fallow,False
+71446,2582,3,3,2,Fallow,Fallow,True
+73310,2360,2,3,6,Planted pastures (perennial),Fallow,False
+73371,210,3,9,1,Fallow,Rooibos,False
+73913,787,4,3,1,Wine grapes,Fallow,False
+74211,1747,9,9,9,Rooibos,Rooibos,True
+74961,1154,5,3,6,Weeds,Fallow,False
+75155,1418,9,9,3,Rooibos,Rooibos,True
+75431,787,3,3,1,Fallow,Fallow,True
+75992,747,2,7,5,Planted pastures (perennial),Wheat,False
+76783,1978,1,3,4,Lucerne/Medics,Fallow,False
+76815,375,5,9,2,Weeds,Rooibos,False
+77136,2265,7,3,5,Wheat,Fallow,False
+77245,2433,1,3,2,Lucerne/Medics,Fallow,False
+77575,1832,7,7,1,Wheat,Wheat,True
+78103,2211,9,3,12,Rooibos,Fallow,False
+78389,977,6,7,1,Small grain grazing,Wheat,False
+78682,2635,1,7,1,Lucerne/Medics,Wheat,False
+78804,1399,7,7,4,Wheat,Wheat,True
+79205,2540,7,7,3,Wheat,Wheat,True
+79296,364,2,7,1,Planted pastures (perennial),Wheat,False
+79297,72,2,3,1,Planted pastures (perennial),Fallow,False
+79430,1259,6,7,3,Small grain grazing,Wheat,False
+79647,1839,3,3,21,Fallow,Fallow,True
+79770,1126,9,3,1,Rooibos,Fallow,False
+79817,1920,4,3,1,Wine grapes,Fallow,False
+81312,480,7,3,6,Wheat,Fallow,False
+81884,763,9,3,1,Rooibos,Fallow,False
+81894,913,1,3,1,Lucerne/Medics,Fallow,False
+82187,621,9,9,9,Rooibos,Rooibos,True
+82248,977,7,7,2,Wheat,Wheat,True
+82307,1920,4,3,2,Wine grapes,Fallow,False
+82397,616,2,7,7,Planted pastures (perennial),Wheat,False
+82754,1832,3,7,1,Fallow,Wheat,False
+82928,1202,5,3,4,Weeds,Fallow,False
+82979,1380,7,7,5,Wheat,Wheat,True
+83071,2077,9,3,2,Rooibos,Fallow,False
+83110,122,6,7,14,Small grain grazing,Wheat,False
+83153,2093,3,3,3,Fallow,Fallow,True
+83353,2543,5,9,2,Weeds,Rooibos,False
+84530,1708,5,3,5,Weeds,Fallow,False
+85066,1497,6,3,9,Small grain grazing,Fallow,False
+85660,864,3,3,1,Fallow,Fallow,True
+85760,2237,7,3,6,Wheat,Fallow,False
+86582,367,3,3,1,Fallow,Fallow,True
+86674,1119,5,9,1,Weeds,Rooibos,False
+86710,862,5,9,1,Weeds,Rooibos,False
+87739,2450,6,3,8,Small grain grazing,Fallow,False
+88010,1499,3,3,6,Fallow,Fallow,True
+88039,2547,5,9,2,Weeds,Rooibos,False
+88144,927,6,7,6,Small grain grazing,Wheat,False
+88652,1359,3,9,5,Fallow,Rooibos,False
+88961,519,3,3,2,Fallow,Fallow,True
+89017,1832,7,7,12,Wheat,Wheat,True
+89335,546,2,3,12,Planted pastures (perennial),Fallow,False
+90123,1154,1,9,4,Lucerne/Medics,Rooibos,False
+90267,1418,9,9,3,Rooibos,Rooibos,True
+90435,1978,7,7,6,Wheat,Wheat,True
+90698,480,7,7,3,Wheat,Wheat,True
+91297,1461,2,7,4,Planted pastures (perennial),Wheat,False
+91789,1746,2,3,5,Planted pastures (perennial),Fallow,False
+91889,616,7,7,2,Wheat,Wheat,True
+92279,747,1,7,1,Lucerne/Medics,Wheat,False
+92577,546,2,7,1,Planted pastures (perennial),Wheat,False
+93099,2463,9,3,2,Rooibos,Fallow,False
+93481,1254,5,3,5,Weeds,Fallow,False
+95136,1467,1,3,1,Lucerne/Medics,Fallow,False
+95894,1688,4,3,1,Wine grapes,Fallow,False
+95971,2295,5,7,12,Weeds,Wheat,False
+95979,1387,9,9,7,Rooibos,Rooibos,True
+96481,467,9,3,2,Rooibos,Fallow,False
+97609,1920,4,3,2,Wine grapes,Fallow,False
+97651,227,2,3,1,Planted pastures (perennial),Fallow,False
+98411,364,6,9,3,Small grain grazing,Rooibos,False
+98772,862,6,3,4,Small grain grazing,Fallow,False
+98827,332,5,3,55,Weeds,Fallow,False
+98965,1485,7,7,3,Wheat,Wheat,True
+99693,1254,7,3,11,Wheat,Fallow,False
+99701,2570,6,9,8,Small grain grazing,Rooibos,False
+100010,276,2,3,13,Planted pastures (perennial),Fallow,False
+100159,2026,5,3,2,Weeds,Fallow,False
+100176,1266,5,9,1,Weeds,Rooibos,False
+100645,864,3,3,1,Fallow,Fallow,True
+100848,2531,2,7,27,Planted pastures (perennial),Wheat,False
+100877,1423,5,9,1,Weeds,Rooibos,False
+101535,2360,3,3,9,Fallow,Fallow,True
+101539,890,2,7,6,Planted pastures (perennial),Wheat,False
+101862,1266,6,9,2,Small grain grazing,Rooibos,False
+101896,2446,5,3,1,Weeds,Fallow,False
+102058,1978,7,7,3,Wheat,Wheat,True
+102137,519,9,9,13,Rooibos,Rooibos,True
+102694,237,7,3,1,Wheat,Fallow,False
+102802,227,7,9,1,Wheat,Rooibos,False
+102981,2360,1,3,1,Lucerne/Medics,Fallow,False
+103417,977,3,9,3,Fallow,Rooibos,False
+103593,2527,3,9,2,Fallow,Rooibos,False
+103840,1594,8,3,2,Canola,Fallow,False
+104303,2161,6,9,1,Small grain grazing,Rooibos,False
+105078,1202,4,3,2,Wine grapes,Fallow,False
+105163,772,5,3,1,Weeds,Fallow,False
+105623,1248,5,9,2,Weeds,Rooibos,False
+106675,2582,3,3,4,Fallow,Fallow,True
+107247,1499,2,3,2,Planted pastures (perennial),Fallow,False
+107903,2026,5,9,2,Weeds,Rooibos,False
+107930,578,4,3,1,Wine grapes,Fallow,False
+108155,1467,4,3,1,Wine grapes,Fallow,False
+108380,1248,5,9,2,Weeds,Rooibos,False
+108537,1808,9,9,4,Rooibos,Rooibos,True
+109655,747,1,3,6,Lucerne/Medics,Fallow,False
+109725,1497,2,3,3,Planted pastures (perennial),Fallow,False
+109840,1254,6,3,18,Small grain grazing,Fallow,False
+110536,977,1,3,1,Lucerne/Medics,Fallow,False
+110760,1965,2,9,8,Planted pastures (perennial),Rooibos,False
+110814,1708,6,3,5,Small grain grazing,Fallow,False
+110957,1202,5,3,1,Weeds,Fallow,False
+111441,812,5,9,2,Weeds,Rooibos,False
+111476,1746,1,3,1,Lucerne/Medics,Fallow,False
+111496,2433,7,3,4,Wheat,Fallow,False
+111778,227,6,3,10,Small grain grazing,Fallow,False
+112363,747,6,7,3,Small grain grazing,Wheat,False
+112501,2042,2,9,2,Planted pastures (perennial),Rooibos,False
+112587,2026,3,9,6,Fallow,Rooibos,False
+112999,2026,5,9,3,Weeds,Rooibos,False
+113552,578,4,3,1,Wine grapes,Fallow,False
+113643,2132,5,3,6,Weeds,Fallow,False
+113645,1485,7,7,1,Wheat,Wheat,True
+113769,839,9,9,35,Rooibos,Rooibos,True
+114131,2527,5,9,2,Weeds,Rooibos,False
+114307,913,6,9,1,Small grain grazing,Rooibos,False
+114655,1857,5,9,2,Weeds,Rooibos,False
+115177,1579,7,7,3,Wheat,Wheat,True
+115431,418,6,9,1,Small grain grazing,Rooibos,False
+115550,1185,3,3,7,Fallow,Fallow,True
+116210,418,9,5,2,Rooibos,Weeds,False
+116597,690,2,3,3,Planted pastures (perennial),Fallow,False
+117159,1627,2,3,2,Planted pastures (perennial),Fallow,False
+117597,922,3,3,1,Fallow,Fallow,True
+118299,1126,9,3,1,Rooibos,Fallow,False
+118655,763,1,3,2,Lucerne/Medics,Fallow,False
+120412,480,7,3,2,Wheat,Fallow,False
+120495,276,1,3,11,Lucerne/Medics,Fallow,False
+120750,2433,1,3,5,Lucerne/Medics,Fallow,False
+120771,1202,5,3,5,Weeds,Fallow,False
+120951,578,4,3,1,Wine grapes,Fallow,False
+120977,2516,7,7,3,Wheat,Wheat,True
+121312,812,6,9,3,Small grain grazing,Rooibos,False
+121800,335,5,9,3,Weeds,Rooibos,False
+121897,579,5,9,1,Weeds,Rooibos,False
+122061,1126,5,3,1,Weeds,Fallow,False

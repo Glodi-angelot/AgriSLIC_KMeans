@@ -1,0 +1,76 @@
+{
+  "methode": "StandardScaler + KMeans",
+  "apprentissage_non_supervise": true,
+  "usage_des_etiquettes": "Uniquement pour equilibrer le split, nommer les groupes apres apprentissage et evaluer; jamais pour calculer les centroides.",
+  "graine": 42,
+  "nombre_lignes": 8945,
+  "nombre_caracteristiques_extraites": 64,
+  "famille_caracteristiques_utilisee": "moyennes",
+  "nombre_caracteristiques_utilisees": 24,
+  "nombre_parcelles": 1949,
+  "source_split_test": "resultats/split_test_reference.csv",
+  "train_superpixels": 7156,
+  "test_superpixels": 1789,
+  "train_parcelles": 1559,
+  "test_parcelles": 390,
+  "k_final": 4,
+  "k_recommande_silhouette": 4,
+  "k_recommande_davies_bouldin": 4,
+  "metriques_internes_test": {
+    "silhouette": 0.29006359597434617,
+    "davies_bouldin": 1.0144776315738646,
+    "calinski_harabasz": 759.6344092959135
+  },
+  "metriques_externes_test": {
+    "ari": 0.07945628676592241,
+    "nmi": 0.13103950937438713,
+    "homogeneite": 0.10104144038426856,
+    "completude": 0.18637095220295552,
+    "v_measure": 0.13103950937438716,
+    "purete": 0.3035215204024595
+  },
+  "correspondance_superpixels_test": {
+    "exactitude": 0.3035215204024595,
+    "exactitude_equilibree": 0.2231787061424971,
+    "f1_macro": 0.14384836694450978,
+    "f1_pondere": 0.19493352687005108
+  },
+  "correspondance_parcelles_test": {
+    "exactitude": 0.26153846153846155,
+    "exactitude_equilibree": 0.2021774840478696,
+    "f1_macro": 0.12735307846640515,
+    "f1_pondere": 0.16870120298757463
+  },
+  "colonnes_features": [
+    "debut_saison_B02_moy",
+    "debut_saison_B03_moy",
+    "debut_saison_B04_moy",
+    "debut_saison_B08_moy",
+    "debut_saison_ndvi_moy",
+    "debut_saison_gndvi_moy",
+    "debut_saison_savi_moy",
+    "debut_saison_evi_moy",
+    "milieu_saison_B02_moy",
+    "milieu_saison_B03_moy",
+    "milieu_saison_B04_moy",
+    "milieu_saison_B08_moy",
+    "milieu_saison_ndvi_moy",
+    "milieu_saison_gndvi_moy",
+    "milieu_saison_savi_moy",
+    "milieu_saison_evi_moy",
+    "fin_saison_B02_moy",
+    "fin_saison_B03_moy",
+    "fin_saison_B04_moy",
+    "fin_saison_B08_moy",
+    "fin_saison_ndvi_moy",
+    "fin_saison_gndvi_moy",
+    "fin_saison_savi_moy",
+    "fin_saison_evi_moy"
+  ],
+  "correspondance_groupes_classes": {
+    "0": 3,
+    "1": 9,
+    "2": 7,
+    "3": 5
+  }
+}

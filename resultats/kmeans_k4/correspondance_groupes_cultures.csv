@@ -1,0 +1,5 @@
+﻿groupe_kmeans,classe_majoritaire_code,classe_majoritaire,effectif_apprentissage,purete_groupe,effectif_test
+0,3,Fallow,3281,0.217311795184395,774
+1,9,Rooibos,1636,0.23838630806845965,377
+2,7,Wheat,2204,0.4015426497277677,623
+3,5,Weeds,35,0.45714285714285713,15

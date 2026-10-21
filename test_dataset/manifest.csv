@@ -1,0 +1,7 @@
+﻿tile_id,periode,date,pixels_clairs_pct,classes_codes,classes_noms,dossier
+2461,debut_saison,2017_05_21,100.00,3;5,Fallow;Weeds,tuile_2461\2017_05_21
+2461,milieu_saison,2017_07_03,100.00,3;5,Fallow;Weeds,tuile_2461\2017_07_03
+2461,fin_saison,2017_09_01,100.00,3;5,Fallow;Weeds,tuile_2461\2017_09_01
+2518,debut_saison,2017_05_21,100.00,5;9,Weeds;Rooibos,tuile_2518\2017_05_21
+2518,milieu_saison,2017_07_03,100.00,5;9,Weeds;Rooibos,tuile_2518\2017_07_03
+2518,fin_saison,2017_09_01,100.00,5;9,Weeds;Rooibos,tuile_2518\2017_09_01

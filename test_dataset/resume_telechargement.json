@@ -1,0 +1,16 @@
+{
+  "tuiles_demandees": 2,
+  "tuiles_completes": 2,
+  "tuiles_ignorees": 3,
+  "dates_par_tuile": 3,
+  "bandes": [
+    "B02",
+    "B03",
+    "B04",
+    "B08"
+  ],
+  "volume_octets": 1143122,
+  "volume_mo": 1.09,
+  "limite_atteinte": false,
+  "graine_aleatoire": 42
+}
